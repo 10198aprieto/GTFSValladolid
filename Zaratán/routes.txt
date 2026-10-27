@@ -1,0 +1,3 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_sort_order,route_type,route_url,route_color,route_text_color
+Z01,interbus,Zaratán,Valladolid-Equinoccio Park-Zaratán,1,3,https://www.autocaresinterbus.com/linea-de-zaratan/,E64E8B,FFFFFF
+Z02,interbus,Valladolid,Zaratán-Equinoccio Park-Valladolid,2,3,https://www.autocaresinterbus.com/linea-de-zaratan/,0067A5,FFFFFF
