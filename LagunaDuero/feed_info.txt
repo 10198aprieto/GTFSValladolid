@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,default_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email,feed_contact_url
+Ayuntamiento de Laguna de Duero,https://www.lagunadeduero.org,es,es,20261101,20261231,1.1,informacion.registro@lagunadeduero.org,https://www.lagunadeduero.org/aviso-legal/

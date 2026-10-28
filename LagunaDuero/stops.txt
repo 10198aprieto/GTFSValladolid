@@ -1,0 +1,23 @@
+stop_id,stop_name,stop_lat,stop_lon
+1,Paseo de Filipinos esquina Paseo Zorrilla,41.64469,-4.73291
+2,Paseo Arco Ladrillo 50 esquina Adolfo Suarez,41.63653,-4.72999
+3,Paseo Arco Ladrillo 88 Centro Madrid,41.62805, -4.7271
+4,Colegio San Agustín,41.6162, -4.72648
+5,Carretera Madrid Centro San Juan de Dios,41.60437, -4.72497
+6,Calle del Nogal 1 junto Residencia,41.59342, -4.72538
+7,Avenida de la Libertad frente 16,41.59028, -4.72387
+8,Avenida de la Libertad 5 (marquesina),41.58818, -4.7232
+9,Avenida del Estadio 27,41.58655, -4.72652
+10,Avenida la Laguna 33,41.58373, -4.72416
+11,Avenida Madrid junto Centro de Salud,41.58498, -4.71931
+12,Avenida Madrid 48 junto CaixaBank,41.58015, -4.71965
+13,Plaza de las Comunidades,41.57727, -4.71687
+14,Avenida Madrid 59,41.58003, -4.71957
+15,Avenida Madrid 13,41.58397, -4.71926
+16,Avenida del Estadio frente 5,41.58442, -4.72562
+17,Avenida Juan de Austria frente Casa de las Artes,41.58851, -4.7267
+18,frente Colegio San Juan de Dios. N-601,41.60268, -4.72402
+19,Colegio San Agustín frente Gasolinera,41.61868, -4.72608
+20,Paseo Arco Ladrillo esquina Transición,41.63167, -4.72806
+21,Paseo Arco Ladrillo 31 esquina Paseo Farnesio,41.63781, -4.73001
+22,Avenida la Laguna (Rotonda letras),41.58819, -4.72013

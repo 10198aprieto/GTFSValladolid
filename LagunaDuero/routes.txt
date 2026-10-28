@@ -1,0 +1,5 @@
+route_id,agency_id,route_short_name,route_long_name,route_sort_order,route_type,route_url,route_color,route_text_color
+L01,ECSA,L01 Laguna,Valladolid-Laguna de Duero,1,3,https://www.ecsa.es/lineas/laguna-de-duero-valladolid/,009BA4,000000
+L01V,ECSA,L01 Valladolid,Laguna de Duero-Valladolid,2,3,https://www.ecsa.es/lineas/laguna-de-duero-valladolid/,009BA4,000000
+L02,ECSA,L02 Búho LAG,Valladolid-Laguna de Duero (Nocturno),3,3,https://www.ecsa.es/lineas/laguna-de-duero-valladolid-nocturno/,5CB85C,000000
+L02V,ECSA,L02 Búho VALL,Laguna de Duero-Valladolid (Nocturno),4,3,https://www.ecsa.es/lineas/laguna-de-duero-valladolid-nocturno/,5CB85C,000000

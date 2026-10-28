@@ -1,0 +1,3035 @@
+trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_type,drop_off_type,timepoint
+L1,07:00:20,07:00:50,1,1,Laguna de Duero,0,0,1
+L1,07:01:20,07:01:50,2,2,Laguna de Duero,0,0,0
+L1,07:02:20,07:02:50,3,3,Laguna de Duero,0,0,0
+L1,07:05:20,07:05:50,4,4,Laguna de Duero,0,0,0
+L1,07:06:20,07:06:50,5,5,Laguna de Duero,0,0,0
+L1,07:11:20,07:11:50,6,6,Laguna de Duero,0,0,0
+L1,07:12:20,07:12:50,7,7,Laguna de Duero,0,0,0
+L1,07:13:20,07:13:50,8,8,Laguna de Duero,0,0,0
+L1,07:14:20,07:14:50,9,9,Laguna de Duero,0,0,0
+L1,07:15:20,07:15:50,10,10,Laguna de Duero,0,0,0
+L1,07:16:20,07:16:50,11,11,Laguna de Duero,0,0,0
+L1,07:17:20,07:17:50,12,12,Laguna de Duero,0,0,0
+L1,07:18:20,07:18:21,13,13,Laguna de Duero,0,0,1
+L2,07:30:20,07:30:50,1,1,Laguna de Duero,0,0,1
+L2,07:31:20,07:31:50,2,2,Laguna de Duero,0,0,0
+L2,07:32:20,07:32:50,3,3,Laguna de Duero,0,0,0
+L2,07:35:20,07:35:50,4,4,Laguna de Duero,0,0,0
+L2,07:36:20,07:36:50,5,5,Laguna de Duero,0,0,0
+L2,07:41:20,07:41:50,6,6,Laguna de Duero,0,0,0
+L2,07:42:20,07:42:50,7,7,Laguna de Duero,0,0,0
+L2,07:43:20,07:43:50,8,8,Laguna de Duero,0,0,0
+L2,07:44:20,07:44:50,9,9,Laguna de Duero,0,0,0
+L2,07:45:20,07:45:50,10,10,Laguna de Duero,0,0,0
+L2,07:46:20,07:46:50,11,11,Laguna de Duero,0,0,0
+L2,07:47:20,07:47:50,12,12,Laguna de Duero,0,0,0
+L2,07:48:20,07:48:21,13,13,Laguna de Duero,0,0,1
+L3,08:00:20,08:00:50,1,1,Laguna de Duero,0,0,1
+L3,08:01:20,08:01:50,2,2,Laguna de Duero,0,0,0
+L3,08:02:20,08:02:50,3,3,Laguna de Duero,0,0,0
+L3,08:05:20,08:05:50,4,4,Laguna de Duero,0,0,0
+L3,08:06:20,08:06:50,5,5,Laguna de Duero,0,0,0
+L3,08:11:20,08:11:50,6,6,Laguna de Duero,0,0,0
+L3,08:12:20,08:12:50,7,7,Laguna de Duero,0,0,0
+L3,08:13:20,08:13:50,8,8,Laguna de Duero,0,0,0
+L3,08:14:20,08:14:50,9,9,Laguna de Duero,0,0,0
+L3,08:15:20,08:15:50,10,10,Laguna de Duero,0,0,0
+L3,08:16:20,08:16:50,11,11,Laguna de Duero,0,0,0
+L3,08:17:20,08:17:50,12,12,Laguna de Duero,0,0,0
+L3,08:18:20,08:18:21,13,13,Laguna de Duero,0,0,1
+L4,08:15:20,08:15:50,1,1,Laguna de Duero,0,0,1
+L4,08:16:20,08:16:50,2,2,Laguna de Duero,0,0,0
+L4,08:17:20,08:17:50,3,3,Laguna de Duero,0,0,0
+L4,08:20:20,08:20:50,4,4,Laguna de Duero,0,0,0
+L4,08:21:20,08:21:50,5,5,Laguna de Duero,0,0,0
+L4,08:26:20,08:26:50,6,6,Laguna de Duero,0,0,0
+L4,08:27:20,08:27:50,7,7,Laguna de Duero,0,0,0
+L4,08:28:20,08:28:50,8,8,Laguna de Duero,0,0,0
+L4,08:29:20,08:29:50,9,9,Laguna de Duero,0,0,0
+L4,08:30:20,08:30:50,10,10,Laguna de Duero,0,0,0
+L4,08:31:20,08:31:50,11,11,Laguna de Duero,0,0,0
+L4,08:32:20,08:32:50,12,12,Laguna de Duero,0,0,0
+L4,08:33:20,08:33:21,13,13,Laguna de Duero,0,0,1
+L5,08:30:20,08:30:50,1,1,Laguna de Duero,0,0,1
+L5,08:31:20,08:31:50,2,2,Laguna de Duero,0,0,0
+L5,08:32:20,08:32:50,3,3,Laguna de Duero,0,0,0
+L5,08:35:20,08:35:50,4,4,Laguna de Duero,0,0,0
+L5,08:36:20,08:36:50,5,5,Laguna de Duero,0,0,0
+L5,08:41:20,08:41:50,6,6,Laguna de Duero,0,0,0
+L5,08:42:20,08:42:50,7,7,Laguna de Duero,0,0,0
+L5,08:43:20,08:43:50,8,8,Laguna de Duero,0,0,0
+L5,08:44:20,08:44:50,9,9,Laguna de Duero,0,0,0
+L5,08:45:20,08:45:50,10,10,Laguna de Duero,0,0,0
+L5,08:46:20,08:46:50,11,11,Laguna de Duero,0,0,0
+L5,08:47:20,08:47:50,12,12,Laguna de Duero,0,0,0
+L5,08:48:20,08:48:21,13,13,Laguna de Duero,0,0,1
+L6,08:45:20,08:45:50,1,1,Laguna de Duero,0,0,1
+L6,08:46:20,08:46:50,2,2,Laguna de Duero,0,0,0
+L6,08:47:20,08:47:50,3,3,Laguna de Duero,0,0,0
+L6,08:50:20,08:50:50,4,4,Laguna de Duero,0,0,0
+L6,08:51:20,08:51:50,5,5,Laguna de Duero,0,0,0
+L6,08:56:20,08:56:50,6,6,Laguna de Duero,0,0,0
+L6,08:57:20,08:57:50,7,7,Laguna de Duero,0,0,0
+L6,08:58:20,08:58:50,8,8,Laguna de Duero,0,0,0
+L6,08:59:20,08:59:50,9,9,Laguna de Duero,0,0,0
+L6,09:00:20,09:00:50,10,10,Laguna de Duero,0,0,0
+L6,09:01:20,09:01:50,11,11,Laguna de Duero,0,0,0
+L6,09:02:20,09:02:50,12,12,Laguna de Duero,0,0,0
+L6,09:03:20,09:03:21,13,13,Laguna de Duero,0,0,1
+L7,09:00:20,09:00:50,1,1,Laguna de Duero,0,0,1
+L7,09:01:20,09:01:50,2,2,Laguna de Duero,0,0,0
+L7,09:02:20,09:02:50,3,3,Laguna de Duero,0,0,0
+L7,09:05:20,09:05:50,4,4,Laguna de Duero,0,0,0
+L7,09:06:20,09:06:50,5,5,Laguna de Duero,0,0,0
+L7,09:11:20,09:11:50,6,6,Laguna de Duero,0,0,0
+L7,09:12:20,09:12:50,7,7,Laguna de Duero,0,0,0
+L7,09:13:20,09:13:50,8,8,Laguna de Duero,0,0,0
+L7,09:14:20,09:14:50,9,9,Laguna de Duero,0,0,0
+L7,09:15:20,09:15:50,10,10,Laguna de Duero,0,0,0
+L7,09:16:20,09:16:50,11,11,Laguna de Duero,0,0,0
+L7,09:17:20,09:17:50,12,12,Laguna de Duero,0,0,0
+L7,09:18:20,09:18:21,13,13,Laguna de Duero,0,0,1
+L8,09:15:20,09:15:50,1,1,Laguna de Duero,0,0,1
+L8,09:16:20,09:16:50,2,2,Laguna de Duero,0,0,0
+L8,09:17:20,09:17:50,3,3,Laguna de Duero,0,0,0
+L8,09:20:20,09:20:50,4,4,Laguna de Duero,0,0,0
+L8,09:21:20,09:21:50,5,5,Laguna de Duero,0,0,0
+L8,09:26:20,09:26:50,6,6,Laguna de Duero,0,0,0
+L8,09:27:20,09:27:50,7,7,Laguna de Duero,0,0,0
+L8,09:28:20,09:28:50,8,8,Laguna de Duero,0,0,0
+L8,09:29:20,09:29:50,9,9,Laguna de Duero,0,0,0
+L8,09:30:20,09:30:50,10,10,Laguna de Duero,0,0,0
+L8,09:31:20,09:31:50,11,11,Laguna de Duero,0,0,0
+L8,09:32:20,09:32:50,12,12,Laguna de Duero,0,0,0
+L8,09:33:20,09:33:21,13,13,Laguna de Duero,0,0,1
+L9,09:30:20,09:30:50,1,1,Laguna de Duero,0,0,1
+L9,09:31:20,09:31:50,2,2,Laguna de Duero,0,0,0
+L9,09:32:20,09:32:50,3,3,Laguna de Duero,0,0,0
+L9,09:35:20,09:35:50,4,4,Laguna de Duero,0,0,0
+L9,09:36:20,09:36:50,5,5,Laguna de Duero,0,0,0
+L9,09:41:20,09:41:50,6,6,Laguna de Duero,0,0,0
+L9,09:42:20,09:42:50,7,7,Laguna de Duero,0,0,0
+L9,09:43:20,09:43:50,8,8,Laguna de Duero,0,0,0
+L9,09:44:20,09:44:50,9,9,Laguna de Duero,0,0,0
+L9,09:45:20,09:45:50,10,10,Laguna de Duero,0,0,0
+L9,09:46:20,09:46:50,11,11,Laguna de Duero,0,0,0
+L9,09:47:20,09:47:50,12,12,Laguna de Duero,0,0,0
+L9,09:48:20,09:48:21,13,13,Laguna de Duero,0,0,1
+L10,10:00:20,10:00:50,1,1,Laguna de Duero,0,0,1
+L10,10:01:20,10:01:50,2,2,Laguna de Duero,0,0,0
+L10,10:02:20,10:02:50,3,3,Laguna de Duero,0,0,0
+L10,10:05:20,10:05:50,4,4,Laguna de Duero,0,0,0
+L10,10:06:20,10:06:50,5,5,Laguna de Duero,0,0,0
+L10,10:11:20,10:11:50,6,6,Laguna de Duero,0,0,0
+L10,10:12:20,10:12:50,7,7,Laguna de Duero,0,0,0
+L10,10:13:20,10:13:50,8,8,Laguna de Duero,0,0,0
+L10,10:14:20,10:14:50,9,9,Laguna de Duero,0,0,0
+L10,10:15:20,10:15:50,10,10,Laguna de Duero,0,0,0
+L10,10:16:20,10:16:50,11,11,Laguna de Duero,0,0,0
+L10,10:17:20,10:17:50,12,12,Laguna de Duero,0,0,0
+L10,10:18:20,10:18:21,13,13,Laguna de Duero,0,0,1
+L11,10:30:20,10:30:50,1,1,Laguna de Duero,0,0,1
+L11,10:31:20,10:31:50,2,2,Laguna de Duero,0,0,0
+L11,10:32:20,10:32:50,3,3,Laguna de Duero,0,0,0
+L11,10:35:20,10:35:50,4,4,Laguna de Duero,0,0,0
+L11,10:36:20,10:36:50,5,5,Laguna de Duero,0,0,0
+L11,10:41:20,10:41:50,6,6,Laguna de Duero,0,0,0
+L11,10:42:20,10:42:50,7,7,Laguna de Duero,0,0,0
+L11,10:43:20,10:43:50,8,8,Laguna de Duero,0,0,0
+L11,10:44:20,10:44:50,9,9,Laguna de Duero,0,0,0
+L11,10:45:20,10:45:50,10,10,Laguna de Duero,0,0,0
+L11,10:46:20,10:46:50,11,11,Laguna de Duero,0,0,0
+L11,10:47:20,10:47:50,12,12,Laguna de Duero,0,0,0
+L11,10:48:20,10:48:21,13,13,Laguna de Duero,0,0,1
+L12,11:00:20,11:00:50,1,1,Laguna de Duero,0,0,1
+L12,11:01:20,11:01:50,2,2,Laguna de Duero,0,0,0
+L12,11:02:20,11:02:50,3,3,Laguna de Duero,0,0,0
+L12,11:05:20,11:05:50,4,4,Laguna de Duero,0,0,0
+L12,11:06:20,11:06:50,5,5,Laguna de Duero,0,0,0
+L12,11:11:20,11:11:50,6,6,Laguna de Duero,0,0,0
+L12,11:12:20,11:12:50,7,7,Laguna de Duero,0,0,0
+L12,11:13:20,11:13:50,8,8,Laguna de Duero,0,0,0
+L12,11:14:20,11:14:50,9,9,Laguna de Duero,0,0,0
+L12,11:15:20,11:15:50,10,10,Laguna de Duero,0,0,0
+L12,11:16:20,11:16:50,11,11,Laguna de Duero,0,0,0
+L12,11:17:20,11:17:50,12,12,Laguna de Duero,0,0,0
+L12,11:18:20,11:18:21,13,13,Laguna de Duero,0,0,1
+L13,11:30:20,11:30:50,1,1,Laguna de Duero,0,0,1
+L13,11:31:20,11:31:50,2,2,Laguna de Duero,0,0,0
+L13,11:32:20,11:32:50,3,3,Laguna de Duero,0,0,0
+L13,11:35:20,11:35:50,4,4,Laguna de Duero,0,0,0
+L13,11:36:20,11:36:50,5,5,Laguna de Duero,0,0,0
+L13,11:41:20,11:41:50,6,6,Laguna de Duero,0,0,0
+L13,11:42:20,11:42:50,7,7,Laguna de Duero,0,0,0
+L13,11:43:20,11:43:50,8,8,Laguna de Duero,0,0,0
+L13,11:44:20,11:44:50,9,9,Laguna de Duero,0,0,0
+L13,11:45:20,11:45:50,10,10,Laguna de Duero,0,0,0
+L13,11:46:20,11:46:50,11,11,Laguna de Duero,0,0,0
+L13,11:47:20,11:47:50,12,12,Laguna de Duero,0,0,0
+L13,11:48:20,11:48:21,13,13,Laguna de Duero,0,0,1
+L14,12:00:20,12:00:50,1,1,Laguna de Duero,0,0,1
+L14,12:01:20,12:01:50,2,2,Laguna de Duero,0,0,0
+L14,12:02:20,12:02:50,3,3,Laguna de Duero,0,0,0
+L14,12:05:20,12:05:50,4,4,Laguna de Duero,0,0,0
+L14,12:06:20,12:06:50,5,5,Laguna de Duero,0,0,0
+L14,12:11:20,12:11:50,6,6,Laguna de Duero,0,0,0
+L14,12:12:20,12:12:50,7,7,Laguna de Duero,0,0,0
+L14,12:13:20,12:13:50,8,8,Laguna de Duero,0,0,0
+L14,12:14:20,12:14:50,9,9,Laguna de Duero,0,0,0
+L14,12:15:20,12:15:50,10,10,Laguna de Duero,0,0,0
+L14,12:16:20,12:16:50,11,11,Laguna de Duero,0,0,0
+L14,12:17:20,12:17:50,12,12,Laguna de Duero,0,0,0
+L14,12:18:20,12:18:21,13,13,Laguna de Duero,0,0,1
+L15,12:30:20,12:30:50,1,1,Laguna de Duero,0,0,1
+L15,12:31:20,12:31:50,2,2,Laguna de Duero,0,0,0
+L15,12:32:20,12:32:50,3,3,Laguna de Duero,0,0,0
+L15,12:35:20,12:35:50,4,4,Laguna de Duero,0,0,0
+L15,12:36:20,12:36:50,5,5,Laguna de Duero,0,0,0
+L15,12:41:20,12:41:50,6,6,Laguna de Duero,0,0,0
+L15,12:42:20,12:42:50,7,7,Laguna de Duero,0,0,0
+L15,12:43:20,12:43:50,8,8,Laguna de Duero,0,0,0
+L15,12:44:20,12:44:50,9,9,Laguna de Duero,0,0,0
+L15,12:45:20,12:45:50,10,10,Laguna de Duero,0,0,0
+L15,12:46:20,12:46:50,11,11,Laguna de Duero,0,0,0
+L15,12:47:20,12:47:50,12,12,Laguna de Duero,0,0,0
+L15,12:48:20,12:48:21,13,13,Laguna de Duero,0,0,1
+L16,13:00:20,13:00:50,1,1,Laguna de Duero,0,0,1
+L16,13:01:20,13:01:50,2,2,Laguna de Duero,0,0,0
+L16,13:02:20,13:02:50,3,3,Laguna de Duero,0,0,0
+L16,13:05:20,13:05:50,4,4,Laguna de Duero,0,0,0
+L16,13:06:20,13:06:50,5,5,Laguna de Duero,0,0,0
+L16,13:11:20,13:11:50,6,6,Laguna de Duero,0,0,0
+L16,13:12:20,13:12:50,7,7,Laguna de Duero,0,0,0
+L16,13:13:20,13:13:50,8,8,Laguna de Duero,0,0,0
+L16,13:14:20,13:14:50,9,9,Laguna de Duero,0,0,0
+L16,13:15:20,13:15:50,10,10,Laguna de Duero,0,0,0
+L16,13:16:20,13:16:50,11,11,Laguna de Duero,0,0,0
+L16,13:17:20,13:17:50,12,12,Laguna de Duero,0,0,0
+L16,13:18:20,13:18:21,13,13,Laguna de Duero,0,0,1
+L17,13:15:20,13:15:50,1,1,Laguna de Duero,0,0,1
+L17,13:16:20,13:16:50,2,2,Laguna de Duero,0,0,0
+L17,13:17:20,13:17:50,3,3,Laguna de Duero,0,0,0
+L17,13:20:20,13:20:50,4,4,Laguna de Duero,0,0,0
+L17,13:21:20,13:21:50,5,5,Laguna de Duero,0,0,0
+L17,13:26:20,13:26:50,6,6,Laguna de Duero,0,0,0
+L17,13:27:20,13:27:50,7,7,Laguna de Duero,0,0,0
+L17,13:28:20,13:28:50,8,8,Laguna de Duero,0,0,0
+L17,13:29:20,13:29:50,9,9,Laguna de Duero,0,0,0
+L17,13:30:20,13:30:50,10,10,Laguna de Duero,0,0,0
+L17,13:31:20,13:31:50,11,11,Laguna de Duero,0,0,0
+L17,13:32:20,13:32:50,12,12,Laguna de Duero,0,0,0
+L17,13:33:20,13:33:21,13,13,Laguna de Duero,0,0,1
+L18,13:30:20,13:30:50,1,1,Laguna de Duero,0,0,1
+L18,13:31:20,13:31:50,2,2,Laguna de Duero,0,0,0
+L18,13:32:20,13:32:50,3,3,Laguna de Duero,0,0,0
+L18,13:35:20,13:35:50,4,4,Laguna de Duero,0,0,0
+L18,13:36:20,13:36:50,5,5,Laguna de Duero,0,0,0
+L18,13:41:20,13:41:50,6,6,Laguna de Duero,0,0,0
+L18,13:42:20,13:42:50,7,7,Laguna de Duero,0,0,0
+L18,13:43:20,13:43:50,8,8,Laguna de Duero,0,0,0
+L18,13:44:20,13:44:50,9,9,Laguna de Duero,0,0,0
+L18,13:45:20,13:45:50,10,10,Laguna de Duero,0,0,0
+L18,13:46:20,13:46:50,11,11,Laguna de Duero,0,0,0
+L18,13:47:20,13:47:50,12,12,Laguna de Duero,0,0,0
+L18,13:48:20,13:48:21,13,13,Laguna de Duero,0,0,1
+L19,13:45:20,13:45:50,1,1,Laguna de Duero,0,0,1
+L19,13:46:20,13:46:50,2,2,Laguna de Duero,0,0,0
+L19,13:47:20,13:47:50,3,3,Laguna de Duero,0,0,0
+L19,13:50:20,13:50:50,4,4,Laguna de Duero,0,0,0
+L19,13:51:20,13:51:50,5,5,Laguna de Duero,0,0,0
+L19,13:56:20,13:56:50,6,6,Laguna de Duero,0,0,0
+L19,13:57:20,13:57:50,7,7,Laguna de Duero,0,0,0
+L19,13:58:20,13:58:50,8,8,Laguna de Duero,0,0,0
+L19,13:59:20,13:59:50,9,9,Laguna de Duero,0,0,0
+L19,14:00:20,14:00:50,10,10,Laguna de Duero,0,0,0
+L19,14:01:20,14:01:50,11,11,Laguna de Duero,0,0,0
+L19,14:02:20,14:02:50,12,12,Laguna de Duero,0,0,0
+L19,14:03:20,14:03:21,13,13,Laguna de Duero,0,0,1
+L20,14:00:20,14:00:50,1,1,Laguna de Duero,0,0,1
+L20,14:01:20,14:01:50,2,2,Laguna de Duero,0,0,0
+L20,14:02:20,14:02:50,3,3,Laguna de Duero,0,0,0
+L20,14:05:20,14:05:50,4,4,Laguna de Duero,0,0,0
+L20,14:06:20,14:06:50,5,5,Laguna de Duero,0,0,0
+L20,14:11:20,14:11:50,6,6,Laguna de Duero,0,0,0
+L20,14:12:20,14:12:50,7,7,Laguna de Duero,0,0,0
+L20,14:13:20,14:13:50,8,8,Laguna de Duero,0,0,0
+L20,14:14:20,14:14:50,9,9,Laguna de Duero,0,0,0
+L20,14:15:20,14:15:50,10,10,Laguna de Duero,0,0,0
+L20,14:16:20,14:16:50,11,11,Laguna de Duero,0,0,0
+L20,14:17:20,14:17:50,12,12,Laguna de Duero,0,0,0
+L20,14:18:20,14:18:21,13,13,Laguna de Duero,0,0,1
+L21,14:15:20,14:15:50,1,1,Laguna de Duero,0,0,1
+L21,14:16:20,14:16:50,2,2,Laguna de Duero,0,0,0
+L21,14:17:20,14:17:50,3,3,Laguna de Duero,0,0,0
+L21,14:20:20,14:20:50,4,4,Laguna de Duero,0,0,0
+L21,14:21:20,14:21:50,5,5,Laguna de Duero,0,0,0
+L21,14:26:20,14:26:50,6,6,Laguna de Duero,0,0,0
+L21,14:27:20,14:27:50,7,7,Laguna de Duero,0,0,0
+L21,14:28:20,14:28:50,8,8,Laguna de Duero,0,0,0
+L21,14:29:20,14:29:50,9,9,Laguna de Duero,0,0,0
+L21,14:30:20,14:30:50,10,10,Laguna de Duero,0,0,0
+L21,14:31:20,14:31:50,11,11,Laguna de Duero,0,0,0
+L21,14:32:20,14:32:50,12,12,Laguna de Duero,0,0,0
+L21,14:33:20,14:33:21,13,13,Laguna de Duero,0,0,1
+L22,14:30:20,14:30:50,1,1,Laguna de Duero,0,0,1
+L22,14:31:20,14:31:50,2,2,Laguna de Duero,0,0,0
+L22,14:32:20,14:32:50,3,3,Laguna de Duero,0,0,0
+L22,14:35:20,14:35:50,4,4,Laguna de Duero,0,0,0
+L22,14:36:20,14:36:50,5,5,Laguna de Duero,0,0,0
+L22,14:41:20,14:41:50,6,6,Laguna de Duero,0,0,0
+L22,14:42:20,14:42:50,7,7,Laguna de Duero,0,0,0
+L22,14:43:20,14:43:50,8,8,Laguna de Duero,0,0,0
+L22,14:44:20,14:44:50,9,9,Laguna de Duero,0,0,0
+L22,14:45:20,14:45:50,10,10,Laguna de Duero,0,0,0
+L22,14:46:20,14:46:50,11,11,Laguna de Duero,0,0,0
+L22,14:47:20,14:47:50,12,12,Laguna de Duero,0,0,0
+L22,14:48:20,14:48:21,13,13,Laguna de Duero,0,0,1
+L23,15:00:20,15:00:50,1,1,Laguna de Duero,0,0,1
+L23,15:01:20,15:01:50,2,2,Laguna de Duero,0,0,0
+L23,15:02:20,15:02:50,3,3,Laguna de Duero,0,0,0
+L23,15:05:20,15:05:50,4,4,Laguna de Duero,0,0,0
+L23,15:06:20,15:06:50,5,5,Laguna de Duero,0,0,0
+L23,15:11:20,15:11:50,6,6,Laguna de Duero,0,0,0
+L23,15:12:20,15:12:50,7,7,Laguna de Duero,0,0,0
+L23,15:13:20,15:13:50,8,8,Laguna de Duero,0,0,0
+L23,15:14:20,15:14:50,9,9,Laguna de Duero,0,0,0
+L23,15:15:20,15:15:50,10,10,Laguna de Duero,0,0,0
+L23,15:16:20,15:16:50,11,11,Laguna de Duero,0,0,0
+L23,15:17:20,15:17:50,12,12,Laguna de Duero,0,0,0
+L23,15:18:20,15:18:21,13,13,Laguna de Duero,0,0,1
+L24,15:30:20,15:30:50,1,1,Laguna de Duero,0,0,1
+L24,15:31:20,15:31:50,2,2,Laguna de Duero,0,0,0
+L24,15:32:20,15:32:50,3,3,Laguna de Duero,0,0,0
+L24,15:35:20,15:35:50,4,4,Laguna de Duero,0,0,0
+L24,15:36:20,15:36:50,5,5,Laguna de Duero,0,0,0
+L24,15:41:20,15:41:50,6,6,Laguna de Duero,0,0,0
+L24,15:42:20,15:42:50,7,7,Laguna de Duero,0,0,0
+L24,15:43:20,15:43:50,8,8,Laguna de Duero,0,0,0
+L24,15:44:20,15:44:50,9,9,Laguna de Duero,0,0,0
+L24,15:45:20,15:45:50,10,10,Laguna de Duero,0,0,0
+L24,15:46:20,15:46:50,11,11,Laguna de Duero,0,0,0
+L24,15:47:20,15:47:50,12,12,Laguna de Duero,0,0,0
+L24,15:48:20,15:48:21,13,13,Laguna de Duero,0,0,1
+L25,16:00:20,16:00:50,1,1,Laguna de Duero,0,0,1
+L25,16:01:20,16:01:50,2,2,Laguna de Duero,0,0,0
+L25,16:02:20,16:02:50,3,3,Laguna de Duero,0,0,0
+L25,16:05:20,16:05:50,4,4,Laguna de Duero,0,0,0
+L25,16:06:20,16:06:50,5,5,Laguna de Duero,0,0,0
+L25,16:11:20,16:11:50,6,6,Laguna de Duero,0,0,0
+L25,16:12:20,16:12:50,7,7,Laguna de Duero,0,0,0
+L25,16:13:20,16:13:50,8,8,Laguna de Duero,0,0,0
+L25,16:14:20,16:14:50,9,9,Laguna de Duero,0,0,0
+L25,16:15:20,16:15:50,10,10,Laguna de Duero,0,0,0
+L25,16:16:20,16:16:50,11,11,Laguna de Duero,0,0,0
+L25,16:17:20,16:17:50,12,12,Laguna de Duero,0,0,0
+L25,16:18:20,16:18:21,13,13,Laguna de Duero,0,0,1
+L26,16:30:20,16:30:50,1,1,Laguna de Duero,0,0,1
+L26,16:31:20,16:31:50,2,2,Laguna de Duero,0,0,0
+L26,16:32:20,16:32:50,3,3,Laguna de Duero,0,0,0
+L26,16:35:20,16:35:50,4,4,Laguna de Duero,0,0,0
+L26,16:36:20,16:36:50,5,5,Laguna de Duero,0,0,0
+L26,16:41:20,16:41:50,6,6,Laguna de Duero,0,0,0
+L26,16:42:20,16:42:50,7,7,Laguna de Duero,0,0,0
+L26,16:43:20,16:43:50,8,8,Laguna de Duero,0,0,0
+L26,16:44:20,16:44:50,9,9,Laguna de Duero,0,0,0
+L26,16:45:20,16:45:50,10,10,Laguna de Duero,0,0,0
+L26,16:46:20,16:46:50,11,11,Laguna de Duero,0,0,0
+L26,16:47:20,16:47:50,12,12,Laguna de Duero,0,0,0
+L26,16:48:20,16:48:21,13,13,Laguna de Duero,0,0,1
+L27,17:00:20,17:00:50,1,1,Laguna de Duero,0,0,1
+L27,17:01:20,17:01:50,2,2,Laguna de Duero,0,0,0
+L27,17:02:20,17:02:50,3,3,Laguna de Duero,0,0,0
+L27,17:05:20,17:05:50,4,4,Laguna de Duero,0,0,0
+L27,17:06:20,17:06:50,5,5,Laguna de Duero,0,0,0
+L27,17:11:20,17:11:50,6,6,Laguna de Duero,0,0,0
+L27,17:12:20,17:12:50,7,7,Laguna de Duero,0,0,0
+L27,17:13:20,17:13:50,8,8,Laguna de Duero,0,0,0
+L27,17:14:20,17:14:50,9,9,Laguna de Duero,0,0,0
+L27,17:15:20,17:15:50,10,10,Laguna de Duero,0,0,0
+L27,17:16:20,17:16:50,11,11,Laguna de Duero,0,0,0
+L27,17:17:20,17:17:50,12,12,Laguna de Duero,0,0,0
+L27,17:18:20,17:18:21,13,13,Laguna de Duero,0,0,1
+L28,17:30:20,17:30:50,1,1,Laguna de Duero,0,0,1
+L28,17:31:20,17:31:50,2,2,Laguna de Duero,0,0,0
+L28,17:32:20,17:32:50,3,3,Laguna de Duero,0,0,0
+L28,17:35:20,17:35:50,4,4,Laguna de Duero,0,0,0
+L28,17:36:20,17:36:50,5,5,Laguna de Duero,0,0,0
+L28,17:41:20,17:41:50,6,6,Laguna de Duero,0,0,0
+L28,17:42:20,17:42:50,7,7,Laguna de Duero,0,0,0
+L28,17:43:20,17:43:50,8,8,Laguna de Duero,0,0,0
+L28,17:44:20,17:44:50,9,9,Laguna de Duero,0,0,0
+L28,17:45:20,17:45:50,10,10,Laguna de Duero,0,0,0
+L28,17:46:20,17:46:50,11,11,Laguna de Duero,0,0,0
+L28,17:47:20,17:47:50,12,12,Laguna de Duero,0,0,0
+L28,17:48:20,17:48:21,13,13,Laguna de Duero,0,0,1
+L29,18:00:20,18:00:50,1,1,Laguna de Duero,0,0,1
+L29,18:01:20,18:01:50,2,2,Laguna de Duero,0,0,0
+L29,18:02:20,18:02:50,3,3,Laguna de Duero,0,0,0
+L29,18:05:20,18:05:50,4,4,Laguna de Duero,0,0,0
+L29,18:06:20,18:06:50,5,5,Laguna de Duero,0,0,0
+L29,18:11:20,18:11:50,6,6,Laguna de Duero,0,0,0
+L29,18:12:20,18:12:50,7,7,Laguna de Duero,0,0,0
+L29,18:13:20,18:13:50,8,8,Laguna de Duero,0,0,0
+L29,18:14:20,18:14:50,9,9,Laguna de Duero,0,0,0
+L29,18:15:20,18:15:50,10,10,Laguna de Duero,0,0,0
+L29,18:16:20,18:16:50,11,11,Laguna de Duero,0,0,0
+L29,18:17:20,18:17:50,12,12,Laguna de Duero,0,0,0
+L29,18:18:20,18:18:21,13,13,Laguna de Duero,0,0,1
+L30,18:30:20,18:30:50,1,1,Laguna de Duero,0,0,1
+L30,18:31:20,18:31:50,2,2,Laguna de Duero,0,0,0
+L30,18:32:20,18:32:50,3,3,Laguna de Duero,0,0,0
+L30,18:35:20,18:35:50,4,4,Laguna de Duero,0,0,0
+L30,18:36:20,18:36:50,5,5,Laguna de Duero,0,0,0
+L30,18:41:20,18:41:50,6,6,Laguna de Duero,0,0,0
+L30,18:42:20,18:42:50,7,7,Laguna de Duero,0,0,0
+L30,18:43:20,18:43:50,8,8,Laguna de Duero,0,0,0
+L30,18:44:20,18:44:50,9,9,Laguna de Duero,0,0,0
+L30,18:45:20,18:45:50,10,10,Laguna de Duero,0,0,0
+L30,18:46:20,18:46:50,11,11,Laguna de Duero,0,0,0
+L30,18:47:20,18:47:50,12,12,Laguna de Duero,0,0,0
+L30,18:48:20,18:48:21,13,13,Laguna de Duero,0,0,1
+L31,19:00:20,19:00:50,1,1,Laguna de Duero,0,0,1
+L31,19:01:20,19:01:50,2,2,Laguna de Duero,0,0,0
+L31,19:02:20,19:02:50,3,3,Laguna de Duero,0,0,0
+L31,19:05:20,19:05:50,4,4,Laguna de Duero,0,0,0
+L31,19:06:20,19:06:50,5,5,Laguna de Duero,0,0,0
+L31,19:11:20,19:11:50,6,6,Laguna de Duero,0,0,0
+L31,19:12:20,19:12:50,7,7,Laguna de Duero,0,0,0
+L31,19:13:20,19:13:50,8,8,Laguna de Duero,0,0,0
+L31,19:14:20,19:14:50,9,9,Laguna de Duero,0,0,0
+L31,19:15:20,19:15:50,10,10,Laguna de Duero,0,0,0
+L31,19:16:20,19:16:50,11,11,Laguna de Duero,0,0,0
+L31,19:17:20,19:17:50,12,12,Laguna de Duero,0,0,0
+L31,19:18:20,19:18:21,13,13,Laguna de Duero,0,0,1
+L32,19:30:20,19:30:50,1,1,Laguna de Duero,0,0,1
+L32,19:31:20,19:31:50,2,2,Laguna de Duero,0,0,0
+L32,19:32:20,19:32:50,3,3,Laguna de Duero,0,0,0
+L32,19:35:20,19:35:50,4,4,Laguna de Duero,0,0,0
+L32,19:36:20,19:36:50,5,5,Laguna de Duero,0,0,0
+L32,19:41:20,19:41:50,6,6,Laguna de Duero,0,0,0
+L32,19:42:20,19:42:50,7,7,Laguna de Duero,0,0,0
+L32,19:43:20,19:43:50,8,8,Laguna de Duero,0,0,0
+L32,19:44:20,19:44:50,9,9,Laguna de Duero,0,0,0
+L32,19:45:20,19:45:50,10,10,Laguna de Duero,0,0,0
+L32,19:46:20,19:46:50,11,11,Laguna de Duero,0,0,0
+L32,19:47:20,19:47:50,12,12,Laguna de Duero,0,0,0
+L32,19:48:20,19:48:21,13,13,Laguna de Duero,0,0,1
+L33,20:00:20,20:00:50,1,1,Laguna de Duero,0,0,1
+L33,20:01:20,20:01:50,2,2,Laguna de Duero,0,0,0
+L33,20:02:20,20:02:50,3,3,Laguna de Duero,0,0,0
+L33,20:05:20,20:05:50,4,4,Laguna de Duero,0,0,0
+L33,20:06:20,20:06:50,5,5,Laguna de Duero,0,0,0
+L33,20:11:20,20:11:50,6,6,Laguna de Duero,0,0,0
+L33,20:12:20,20:12:50,7,7,Laguna de Duero,0,0,0
+L33,20:13:20,20:13:50,8,8,Laguna de Duero,0,0,0
+L33,20:14:20,20:14:50,9,9,Laguna de Duero,0,0,0
+L33,20:15:20,20:15:50,10,10,Laguna de Duero,0,0,0
+L33,20:16:20,20:16:50,11,11,Laguna de Duero,0,0,0
+L33,20:17:20,20:17:50,12,12,Laguna de Duero,0,0,0
+L33,20:18:20,20:18:21,13,13,Laguna de Duero,0,0,1
+L34,20:30:20,20:30:50,1,1,Laguna de Duero,0,0,1
+L34,20:31:20,20:31:50,2,2,Laguna de Duero,0,0,0
+L34,20:32:20,20:32:50,3,3,Laguna de Duero,0,0,0
+L34,20:35:20,20:35:50,4,4,Laguna de Duero,0,0,0
+L34,20:36:20,20:36:50,5,5,Laguna de Duero,0,0,0
+L34,20:41:20,20:41:50,6,6,Laguna de Duero,0,0,0
+L34,20:42:20,20:42:50,7,7,Laguna de Duero,0,0,0
+L34,20:43:20,20:43:50,8,8,Laguna de Duero,0,0,0
+L34,20:44:20,20:44:50,9,9,Laguna de Duero,0,0,0
+L34,20:45:20,20:45:50,10,10,Laguna de Duero,0,0,0
+L34,20:46:20,20:46:50,11,11,Laguna de Duero,0,0,0
+L34,20:47:20,20:47:50,12,12,Laguna de Duero,0,0,0
+L34,20:48:20,20:48:21,13,13,Laguna de Duero,0,0,1
+L35,21:00:20,21:00:50,1,1,Laguna de Duero,0,0,1
+L35,21:01:20,21:01:50,2,2,Laguna de Duero,0,0,0
+L35,21:02:20,21:02:50,3,3,Laguna de Duero,0,0,0
+L35,21:05:20,21:05:50,4,4,Laguna de Duero,0,0,0
+L35,21:06:20,21:06:50,5,5,Laguna de Duero,0,0,0
+L35,21:11:20,21:11:50,6,6,Laguna de Duero,0,0,0
+L35,21:12:20,21:12:50,7,7,Laguna de Duero,0,0,0
+L35,21:13:20,21:13:50,8,8,Laguna de Duero,0,0,0
+L35,21:14:20,21:14:50,9,9,Laguna de Duero,0,0,0
+L35,21:15:20,21:15:50,10,10,Laguna de Duero,0,0,0
+L35,21:16:20,21:16:50,11,11,Laguna de Duero,0,0,0
+L35,21:17:20,21:17:50,12,12,Laguna de Duero,0,0,0
+L35,21:18:20,21:18:21,13,13,Laguna de Duero,0,0,1
+L36,21:30:20,21:30:50,1,1,Laguna de Duero,0,0,1
+L36,21:31:20,21:31:50,2,2,Laguna de Duero,0,0,0
+L36,21:32:20,21:32:50,3,3,Laguna de Duero,0,0,0
+L36,21:35:20,21:35:50,4,4,Laguna de Duero,0,0,0
+L36,21:36:20,21:36:50,5,5,Laguna de Duero,0,0,0
+L36,21:41:20,21:41:50,6,6,Laguna de Duero,0,0,0
+L36,21:42:20,21:42:50,7,7,Laguna de Duero,0,0,0
+L36,21:43:20,21:43:50,8,8,Laguna de Duero,0,0,0
+L36,21:44:20,21:44:50,9,9,Laguna de Duero,0,0,0
+L36,21:45:20,21:45:50,10,10,Laguna de Duero,0,0,0
+L36,21:46:20,21:46:50,11,11,Laguna de Duero,0,0,0
+L36,21:47:20,21:47:50,12,12,Laguna de Duero,0,0,0
+L36,21:48:20,21:48:21,13,13,Laguna de Duero,0,0,1
+L37,22:00:20,22:00:50,1,1,Laguna de Duero,0,0,1
+L37,22:01:20,22:01:50,2,2,Laguna de Duero,0,0,0
+L37,22:02:20,22:02:50,3,3,Laguna de Duero,0,0,0
+L37,22:05:20,22:05:50,4,4,Laguna de Duero,0,0,0
+L37,22:06:20,22:06:50,5,5,Laguna de Duero,0,0,0
+L37,22:11:20,22:11:50,6,6,Laguna de Duero,0,0,0
+L37,22:12:20,22:12:50,7,7,Laguna de Duero,0,0,0
+L37,22:13:20,22:13:50,8,8,Laguna de Duero,0,0,0
+L37,22:14:20,22:14:50,9,9,Laguna de Duero,0,0,0
+L37,22:15:20,22:15:50,10,10,Laguna de Duero,0,0,0
+L37,22:16:20,22:16:50,11,11,Laguna de Duero,0,0,0
+L37,22:17:20,22:17:50,12,12,Laguna de Duero,0,0,0
+L37,22:18:20,22:18:21,13,13,Laguna de Duero,0,0,1
+L38,22:30:20,22:30:50,1,1,Laguna de Duero,0,0,1
+L38,22:31:20,22:31:50,2,2,Laguna de Duero,0,0,0
+L38,22:32:20,22:32:50,3,3,Laguna de Duero,0,0,0
+L38,22:35:20,22:35:50,4,4,Laguna de Duero,0,0,0
+L38,22:36:20,22:36:50,5,5,Laguna de Duero,0,0,0
+L38,22:41:20,22:41:50,6,6,Laguna de Duero,0,0,0
+L38,22:42:20,22:42:50,7,7,Laguna de Duero,0,0,0
+L38,22:43:20,22:43:50,8,8,Laguna de Duero,0,0,0
+L38,22:44:20,22:44:50,9,9,Laguna de Duero,0,0,0
+L38,22:45:20,22:45:50,10,10,Laguna de Duero,0,0,0
+L38,22:46:20,22:46:50,11,11,Laguna de Duero,0,0,0
+L38,22:47:20,22:47:50,12,12,Laguna de Duero,0,0,0
+L38,22:48:20,22:48:21,13,13,Laguna de Duero,0,0,1
+L1V,07:00:20,07:00:50,1,1,Laguna de Duero,0,0,1
+L1V,07:01:20,07:01:50,2,2,Laguna de Duero,0,0,0
+L1V,07:02:20,07:02:50,3,3,Laguna de Duero,0,0,0
+L1V,07:05:20,07:05:50,4,4,Laguna de Duero,0,0,0
+L1V,07:06:20,07:06:50,5,5,Laguna de Duero,0,0,0
+L1V,07:11:20,07:11:50,6,6,Laguna de Duero,0,0,0
+L1V,07:12:20,07:12:50,7,7,Laguna de Duero,0,0,0
+L1V,07:13:20,07:13:50,8,8,Laguna de Duero,0,0,0
+L1V,07:14:20,07:14:50,9,9,Laguna de Duero,0,0,0
+L1V,07:15:20,07:15:50,10,10,Laguna de Duero,0,0,0
+L1V,07:16:20,07:16:50,11,11,Laguna de Duero,0,0,0
+L1V,07:17:20,07:17:50,12,12,Laguna de Duero,0,0,0
+L1V,07:18:20,07:18:21,13,13,Laguna de Duero,0,0,1
+L2V,07:30:20,07:30:50,1,1,Laguna de Duero,0,0,1
+L2V,07:31:20,07:31:50,2,2,Laguna de Duero,0,0,0
+L2V,07:32:20,07:32:50,3,3,Laguna de Duero,0,0,0
+L2V,07:35:20,07:35:50,4,4,Laguna de Duero,0,0,0
+L2V,07:36:20,07:36:50,5,5,Laguna de Duero,0,0,0
+L2V,07:41:20,07:41:50,6,6,Laguna de Duero,0,0,0
+L2V,07:42:20,07:42:50,7,7,Laguna de Duero,0,0,0
+L2V,07:43:20,07:43:50,8,8,Laguna de Duero,0,0,0
+L2V,07:44:20,07:44:50,9,9,Laguna de Duero,0,0,0
+L2V,07:45:20,07:45:50,10,10,Laguna de Duero,0,0,0
+L2V,07:46:20,07:46:50,11,11,Laguna de Duero,0,0,0
+L2V,07:47:20,07:47:50,12,12,Laguna de Duero,0,0,0
+L2V,07:48:20,07:48:21,13,13,Laguna de Duero,0,0,1
+L3V,08:00:20,08:00:50,1,1,Laguna de Duero,0,0,1
+L3V,08:01:20,08:01:50,2,2,Laguna de Duero,0,0,0
+L3V,08:02:20,08:02:50,3,3,Laguna de Duero,0,0,0
+L3V,08:05:20,08:05:50,4,4,Laguna de Duero,0,0,0
+L3V,08:06:20,08:06:50,5,5,Laguna de Duero,0,0,0
+L3V,08:11:20,08:11:50,6,6,Laguna de Duero,0,0,0
+L3V,08:12:20,08:12:50,7,7,Laguna de Duero,0,0,0
+L3V,08:13:20,08:13:50,8,8,Laguna de Duero,0,0,0
+L3V,08:14:20,08:14:50,9,9,Laguna de Duero,0,0,0
+L3V,08:15:20,08:15:50,10,10,Laguna de Duero,0,0,0
+L3V,08:16:20,08:16:50,11,11,Laguna de Duero,0,0,0
+L3V,08:17:20,08:17:50,12,12,Laguna de Duero,0,0,0
+L3V,08:18:20,08:18:21,13,13,Laguna de Duero,0,0,1
+L4V,08:15:20,08:15:50,1,1,Laguna de Duero,0,0,1
+L4V,08:16:20,08:16:50,2,2,Laguna de Duero,0,0,0
+L4V,08:17:20,08:17:50,3,3,Laguna de Duero,0,0,0
+L4V,08:20:20,08:20:50,4,4,Laguna de Duero,0,0,0
+L4V,08:21:20,08:21:50,5,5,Laguna de Duero,0,0,0
+L4V,08:26:20,08:26:50,6,6,Laguna de Duero,0,0,0
+L4V,08:27:20,08:27:50,7,7,Laguna de Duero,0,0,0
+L4V,08:28:20,08:28:50,8,8,Laguna de Duero,0,0,0
+L4V,08:29:20,08:29:50,9,9,Laguna de Duero,0,0,0
+L4V,08:30:20,08:30:50,10,10,Laguna de Duero,0,0,0
+L4V,08:31:20,08:31:50,11,11,Laguna de Duero,0,0,0
+L4V,08:32:20,08:32:50,12,12,Laguna de Duero,0,0,0
+L4V,08:33:20,08:33:21,13,13,Laguna de Duero,0,0,1
+L5V,08:30:20,08:30:50,1,1,Laguna de Duero,0,0,1
+L5V,08:31:20,08:31:50,2,2,Laguna de Duero,0,0,0
+L5V,08:32:20,08:32:50,3,3,Laguna de Duero,0,0,0
+L5V,08:35:20,08:35:50,4,4,Laguna de Duero,0,0,0
+L5V,08:36:20,08:36:50,5,5,Laguna de Duero,0,0,0
+L5V,08:41:20,08:41:50,6,6,Laguna de Duero,0,0,0
+L5V,08:42:20,08:42:50,7,7,Laguna de Duero,0,0,0
+L5V,08:43:20,08:43:50,8,8,Laguna de Duero,0,0,0
+L5V,08:44:20,08:44:50,9,9,Laguna de Duero,0,0,0
+L5V,08:45:20,08:45:50,10,10,Laguna de Duero,0,0,0
+L5V,08:46:20,08:46:50,11,11,Laguna de Duero,0,0,0
+L5V,08:47:20,08:47:50,12,12,Laguna de Duero,0,0,0
+L5V,08:48:20,08:48:21,13,13,Laguna de Duero,0,0,1
+L6V,08:45:20,08:45:50,1,1,Laguna de Duero,0,0,1
+L6V,08:46:20,08:46:50,2,2,Laguna de Duero,0,0,0
+L6V,08:47:20,08:47:50,3,3,Laguna de Duero,0,0,0
+L6V,08:50:20,08:50:50,4,4,Laguna de Duero,0,0,0
+L6V,08:51:20,08:51:50,5,5,Laguna de Duero,0,0,0
+L6V,08:56:20,08:56:50,6,6,Laguna de Duero,0,0,0
+L6V,08:57:20,08:57:50,7,7,Laguna de Duero,0,0,0
+L6V,08:58:20,08:58:50,8,8,Laguna de Duero,0,0,0
+L6V,08:59:20,08:59:50,9,9,Laguna de Duero,0,0,0
+L6V,09:00:20,09:00:50,10,10,Laguna de Duero,0,0,0
+L6V,09:01:20,09:01:50,11,11,Laguna de Duero,0,0,0
+L6V,09:02:20,09:02:50,12,12,Laguna de Duero,0,0,0
+L6V,09:03:20,09:03:21,13,13,Laguna de Duero,0,0,1
+L7V,09:00:20,09:00:50,1,1,Laguna de Duero,0,0,1
+L7V,09:01:20,09:01:50,2,2,Laguna de Duero,0,0,0
+L7V,09:02:20,09:02:50,3,3,Laguna de Duero,0,0,0
+L7V,09:05:20,09:05:50,4,4,Laguna de Duero,0,0,0
+L7V,09:06:20,09:06:50,5,5,Laguna de Duero,0,0,0
+L7V,09:11:20,09:11:50,6,6,Laguna de Duero,0,0,0
+L7V,09:12:20,09:12:50,7,7,Laguna de Duero,0,0,0
+L7V,09:13:20,09:13:50,8,8,Laguna de Duero,0,0,0
+L7V,09:14:20,09:14:50,9,9,Laguna de Duero,0,0,0
+L7V,09:15:20,09:15:50,10,10,Laguna de Duero,0,0,0
+L7V,09:16:20,09:16:50,11,11,Laguna de Duero,0,0,0
+L7V,09:17:20,09:17:50,12,12,Laguna de Duero,0,0,0
+L7V,09:18:20,09:18:21,13,13,Laguna de Duero,0,0,1
+L8V,09:15:20,09:15:50,1,1,Laguna de Duero,0,0,1
+L8V,09:16:20,09:16:50,2,2,Laguna de Duero,0,0,0
+L8V,09:17:20,09:17:50,3,3,Laguna de Duero,0,0,0
+L8V,09:20:20,09:20:50,4,4,Laguna de Duero,0,0,0
+L8V,09:21:20,09:21:50,5,5,Laguna de Duero,0,0,0
+L8V,09:26:20,09:26:50,6,6,Laguna de Duero,0,0,0
+L8V,09:27:20,09:27:50,7,7,Laguna de Duero,0,0,0
+L8V,09:28:20,09:28:50,8,8,Laguna de Duero,0,0,0
+L8V,09:29:20,09:29:50,9,9,Laguna de Duero,0,0,0
+L8V,09:30:20,09:30:50,10,10,Laguna de Duero,0,0,0
+L8V,09:31:20,09:31:50,11,11,Laguna de Duero,0,0,0
+L8V,09:32:20,09:32:50,12,12,Laguna de Duero,0,0,0
+L8V,09:33:20,09:33:21,13,13,Laguna de Duero,0,0,1
+L9V,09:30:20,09:30:50,1,1,Laguna de Duero,0,0,1
+L9V,09:31:20,09:31:50,2,2,Laguna de Duero,0,0,0
+L9V,09:32:20,09:32:50,3,3,Laguna de Duero,0,0,0
+L9V,09:35:20,09:35:50,4,4,Laguna de Duero,0,0,0
+L9V,09:36:20,09:36:50,5,5,Laguna de Duero,0,0,0
+L9V,09:41:20,09:41:50,6,6,Laguna de Duero,0,0,0
+L9V,09:42:20,09:42:50,7,7,Laguna de Duero,0,0,0
+L9V,09:43:20,09:43:50,8,8,Laguna de Duero,0,0,0
+L9V,09:44:20,09:44:50,9,9,Laguna de Duero,0,0,0
+L9V,09:45:20,09:45:50,10,10,Laguna de Duero,0,0,0
+L9V,09:46:20,09:46:50,11,11,Laguna de Duero,0,0,0
+L9V,09:47:20,09:47:50,12,12,Laguna de Duero,0,0,0
+L9V,09:48:20,09:48:21,13,13,Laguna de Duero,0,0,1
+L10V,10:00:20,10:00:50,1,1,Laguna de Duero,0,0,1
+L10V,10:01:20,10:01:50,2,2,Laguna de Duero,0,0,0
+L10V,10:02:20,10:02:50,3,3,Laguna de Duero,0,0,0
+L10V,10:05:20,10:05:50,4,4,Laguna de Duero,0,0,0
+L10V,10:06:20,10:06:50,5,5,Laguna de Duero,0,0,0
+L10V,10:11:20,10:11:50,6,6,Laguna de Duero,0,0,0
+L10V,10:12:20,10:12:50,7,7,Laguna de Duero,0,0,0
+L10V,10:13:20,10:13:50,8,8,Laguna de Duero,0,0,0
+L10V,10:14:20,10:14:50,9,9,Laguna de Duero,0,0,0
+L10V,10:15:20,10:15:50,10,10,Laguna de Duero,0,0,0
+L10V,10:16:20,10:16:50,11,11,Laguna de Duero,0,0,0
+L10V,10:17:20,10:17:50,12,12,Laguna de Duero,0,0,0
+L10V,10:18:20,10:18:21,13,13,Laguna de Duero,0,0,1
+L11V,10:30:20,10:30:50,1,1,Laguna de Duero,0,0,1
+L11V,10:31:20,10:31:50,2,2,Laguna de Duero,0,0,0
+L11V,10:32:20,10:32:50,3,3,Laguna de Duero,0,0,0
+L11V,10:35:20,10:35:50,4,4,Laguna de Duero,0,0,0
+L11V,10:36:20,10:36:50,5,5,Laguna de Duero,0,0,0
+L11V,10:41:20,10:41:50,6,6,Laguna de Duero,0,0,0
+L11V,10:42:20,10:42:50,7,7,Laguna de Duero,0,0,0
+L11V,10:43:20,10:43:50,8,8,Laguna de Duero,0,0,0
+L11V,10:44:20,10:44:50,9,9,Laguna de Duero,0,0,0
+L11V,10:45:20,10:45:50,10,10,Laguna de Duero,0,0,0
+L11V,10:46:20,10:46:50,11,11,Laguna de Duero,0,0,0
+L11V,10:47:20,10:47:50,12,12,Laguna de Duero,0,0,0
+L11V,10:48:20,10:48:21,13,13,Laguna de Duero,0,0,1
+L12V,11:00:20,11:00:50,1,1,Laguna de Duero,0,0,1
+L12V,11:01:20,11:01:50,2,2,Laguna de Duero,0,0,0
+L12V,11:02:20,11:02:50,3,3,Laguna de Duero,0,0,0
+L12V,11:05:20,11:05:50,4,4,Laguna de Duero,0,0,0
+L12V,11:06:20,11:06:50,5,5,Laguna de Duero,0,0,0
+L12V,11:11:20,11:11:50,6,6,Laguna de Duero,0,0,0
+L12V,11:12:20,11:12:50,7,7,Laguna de Duero,0,0,0
+L12V,11:13:20,11:13:50,8,8,Laguna de Duero,0,0,0
+L12V,11:14:20,11:14:50,9,9,Laguna de Duero,0,0,0
+L12V,11:15:20,11:15:50,10,10,Laguna de Duero,0,0,0
+L12V,11:16:20,11:16:50,11,11,Laguna de Duero,0,0,0
+L12V,11:17:20,11:17:50,12,12,Laguna de Duero,0,0,0
+L12V,11:18:20,11:18:21,13,13,Laguna de Duero,0,0,1
+L13V,11:30:20,11:30:50,1,1,Laguna de Duero,0,0,1
+L13V,11:31:20,11:31:50,2,2,Laguna de Duero,0,0,0
+L13V,11:32:20,11:32:50,3,3,Laguna de Duero,0,0,0
+L13V,11:35:20,11:35:50,4,4,Laguna de Duero,0,0,0
+L13V,11:36:20,11:36:50,5,5,Laguna de Duero,0,0,0
+L13V,11:41:20,11:41:50,6,6,Laguna de Duero,0,0,0
+L13V,11:42:20,11:42:50,7,7,Laguna de Duero,0,0,0
+L13V,11:43:20,11:43:50,8,8,Laguna de Duero,0,0,0
+L13V,11:44:20,11:44:50,9,9,Laguna de Duero,0,0,0
+L13V,11:45:20,11:45:50,10,10,Laguna de Duero,0,0,0
+L13V,11:46:20,11:46:50,11,11,Laguna de Duero,0,0,0
+L13V,11:47:20,11:47:50,12,12,Laguna de Duero,0,0,0
+L13V,11:48:20,11:48:21,13,13,Laguna de Duero,0,0,1
+L14V,12:00:20,12:00:50,1,1,Laguna de Duero,0,0,1
+L14V,12:01:20,12:01:50,2,2,Laguna de Duero,0,0,0
+L14V,12:02:20,12:02:50,3,3,Laguna de Duero,0,0,0
+L14V,12:05:20,12:05:50,4,4,Laguna de Duero,0,0,0
+L14V,12:06:20,12:06:50,5,5,Laguna de Duero,0,0,0
+L14V,12:11:20,12:11:50,6,6,Laguna de Duero,0,0,0
+L14V,12:12:20,12:12:50,7,7,Laguna de Duero,0,0,0
+L14V,12:13:20,12:13:50,8,8,Laguna de Duero,0,0,0
+L14V,12:14:20,12:14:50,9,9,Laguna de Duero,0,0,0
+L14V,12:15:20,12:15:50,10,10,Laguna de Duero,0,0,0
+L14V,12:16:20,12:16:50,11,11,Laguna de Duero,0,0,0
+L14V,12:17:20,12:17:50,12,12,Laguna de Duero,0,0,0
+L14V,12:18:20,12:18:21,13,13,Laguna de Duero,0,0,1
+L15V,12:30:20,12:30:50,1,1,Laguna de Duero,0,0,1
+L15V,12:31:20,12:31:50,2,2,Laguna de Duero,0,0,0
+L15V,12:32:20,12:32:50,3,3,Laguna de Duero,0,0,0
+L15V,12:35:20,12:35:50,4,4,Laguna de Duero,0,0,0
+L15V,12:36:20,12:36:50,5,5,Laguna de Duero,0,0,0
+L15V,12:41:20,12:41:50,6,6,Laguna de Duero,0,0,0
+L15V,12:42:20,12:42:50,7,7,Laguna de Duero,0,0,0
+L15V,12:43:20,12:43:50,8,8,Laguna de Duero,0,0,0
+L15V,12:44:20,12:44:50,9,9,Laguna de Duero,0,0,0
+L15V,12:45:20,12:45:50,10,10,Laguna de Duero,0,0,0
+L15V,12:46:20,12:46:50,11,11,Laguna de Duero,0,0,0
+L15V,12:47:20,12:47:50,12,12,Laguna de Duero,0,0,0
+L15V,12:48:20,12:48:21,13,13,Laguna de Duero,0,0,1
+L16V,13:00:20,13:00:50,1,1,Laguna de Duero,0,0,1
+L16V,13:01:20,13:01:50,2,2,Laguna de Duero,0,0,0
+L16V,13:02:20,13:02:50,3,3,Laguna de Duero,0,0,0
+L16V,13:05:20,13:05:50,4,4,Laguna de Duero,0,0,0
+L16V,13:06:20,13:06:50,5,5,Laguna de Duero,0,0,0
+L16V,13:11:20,13:11:50,6,6,Laguna de Duero,0,0,0
+L16V,13:12:20,13:12:50,7,7,Laguna de Duero,0,0,0
+L16V,13:13:20,13:13:50,8,8,Laguna de Duero,0,0,0
+L16V,13:14:20,13:14:50,9,9,Laguna de Duero,0,0,0
+L16V,13:15:20,13:15:50,10,10,Laguna de Duero,0,0,0
+L16V,13:16:20,13:16:50,11,11,Laguna de Duero,0,0,0
+L16V,13:17:20,13:17:50,12,12,Laguna de Duero,0,0,0
+L16V,13:18:20,13:18:21,13,13,Laguna de Duero,0,0,1
+L17V,13:15:20,13:15:50,1,1,Laguna de Duero,0,0,1
+L17V,13:16:20,13:16:50,2,2,Laguna de Duero,0,0,0
+L17V,13:17:20,13:17:50,3,3,Laguna de Duero,0,0,0
+L17V,13:20:20,13:20:50,4,4,Laguna de Duero,0,0,0
+L17V,13:21:20,13:21:50,5,5,Laguna de Duero,0,0,0
+L17V,13:26:20,13:26:50,6,6,Laguna de Duero,0,0,0
+L17V,13:27:20,13:27:50,7,7,Laguna de Duero,0,0,0
+L17V,13:28:20,13:28:50,8,8,Laguna de Duero,0,0,0
+L17V,13:29:20,13:29:50,9,9,Laguna de Duero,0,0,0
+L17V,13:30:20,13:30:50,10,10,Laguna de Duero,0,0,0
+L17V,13:31:20,13:31:50,11,11,Laguna de Duero,0,0,0
+L17V,13:32:20,13:32:50,12,12,Laguna de Duero,0,0,0
+L17V,13:33:20,13:33:21,13,13,Laguna de Duero,0,0,1
+L18V,13:30:20,13:30:50,1,1,Laguna de Duero,0,0,1
+L18V,13:31:20,13:31:50,2,2,Laguna de Duero,0,0,0
+L18V,13:32:20,13:32:50,3,3,Laguna de Duero,0,0,0
+L18V,13:35:20,13:35:50,4,4,Laguna de Duero,0,0,0
+L18V,13:36:20,13:36:50,5,5,Laguna de Duero,0,0,0
+L18V,13:41:20,13:41:50,6,6,Laguna de Duero,0,0,0
+L18V,13:42:20,13:42:50,7,7,Laguna de Duero,0,0,0
+L18V,13:43:20,13:43:50,8,8,Laguna de Duero,0,0,0
+L18V,13:44:20,13:44:50,9,9,Laguna de Duero,0,0,0
+L18V,13:45:20,13:45:50,10,10,Laguna de Duero,0,0,0
+L18V,13:46:20,13:46:50,11,11,Laguna de Duero,0,0,0
+L18V,13:47:20,13:47:50,12,12,Laguna de Duero,0,0,0
+L18V,13:48:20,13:48:21,13,13,Laguna de Duero,0,0,1
+L19V,13:45:20,13:45:50,1,1,Laguna de Duero,0,0,1
+L19V,13:46:20,13:46:50,2,2,Laguna de Duero,0,0,0
+L19V,13:47:20,13:47:50,3,3,Laguna de Duero,0,0,0
+L19V,13:50:20,13:50:50,4,4,Laguna de Duero,0,0,0
+L19V,13:51:20,13:51:50,5,5,Laguna de Duero,0,0,0
+L19V,13:56:20,13:56:50,6,6,Laguna de Duero,0,0,0
+L19V,13:57:20,13:57:50,7,7,Laguna de Duero,0,0,0
+L19V,13:58:20,13:58:50,8,8,Laguna de Duero,0,0,0
+L19V,13:59:20,13:59:50,9,9,Laguna de Duero,0,0,0
+L19V,14:00:20,14:00:50,10,10,Laguna de Duero,0,0,0
+L19V,14:01:20,14:01:50,11,11,Laguna de Duero,0,0,0
+L19V,14:02:20,14:02:50,12,12,Laguna de Duero,0,0,0
+L19V,14:03:20,14:03:21,13,13,Laguna de Duero,0,0,1
+L20V,14:00:20,14:00:50,1,1,Laguna de Duero,0,0,1
+L20V,14:01:20,14:01:50,2,2,Laguna de Duero,0,0,0
+L20V,14:02:20,14:02:50,3,3,Laguna de Duero,0,0,0
+L20V,14:05:20,14:05:50,4,4,Laguna de Duero,0,0,0
+L20V,14:06:20,14:06:50,5,5,Laguna de Duero,0,0,0
+L20V,14:11:20,14:11:50,6,6,Laguna de Duero,0,0,0
+L20V,14:12:20,14:12:50,7,7,Laguna de Duero,0,0,0
+L20V,14:13:20,14:13:50,8,8,Laguna de Duero,0,0,0
+L20V,14:14:20,14:14:50,9,9,Laguna de Duero,0,0,0
+L20V,14:15:20,14:15:50,10,10,Laguna de Duero,0,0,0
+L20V,14:16:20,14:16:50,11,11,Laguna de Duero,0,0,0
+L20V,14:17:20,14:17:50,12,12,Laguna de Duero,0,0,0
+L20V,14:18:20,14:18:21,13,13,Laguna de Duero,0,0,1
+L21V,14:15:20,14:15:50,1,1,Laguna de Duero,0,0,1
+L21V,14:16:20,14:16:50,2,2,Laguna de Duero,0,0,0
+L21V,14:17:20,14:17:50,3,3,Laguna de Duero,0,0,0
+L21V,14:20:20,14:20:50,4,4,Laguna de Duero,0,0,0
+L21V,14:21:20,14:21:50,5,5,Laguna de Duero,0,0,0
+L21V,14:26:20,14:26:50,6,6,Laguna de Duero,0,0,0
+L21V,14:27:20,14:27:50,7,7,Laguna de Duero,0,0,0
+L21V,14:28:20,14:28:50,8,8,Laguna de Duero,0,0,0
+L21V,14:29:20,14:29:50,9,9,Laguna de Duero,0,0,0
+L21V,14:30:20,14:30:50,10,10,Laguna de Duero,0,0,0
+L21V,14:31:20,14:31:50,11,11,Laguna de Duero,0,0,0
+L21V,14:32:20,14:32:50,12,12,Laguna de Duero,0,0,0
+L21V,14:33:20,14:33:21,13,13,Laguna de Duero,0,0,1
+L22V,14:30:20,14:30:50,1,1,Laguna de Duero,0,0,1
+L22V,14:31:20,14:31:50,2,2,Laguna de Duero,0,0,0
+L22V,14:32:20,14:32:50,3,3,Laguna de Duero,0,0,0
+L22V,14:35:20,14:35:50,4,4,Laguna de Duero,0,0,0
+L22V,14:36:20,14:36:50,5,5,Laguna de Duero,0,0,0
+L22V,14:41:20,14:41:50,6,6,Laguna de Duero,0,0,0
+L22V,14:42:20,14:42:50,7,7,Laguna de Duero,0,0,0
+L22V,14:43:20,14:43:50,8,8,Laguna de Duero,0,0,0
+L22V,14:44:20,14:44:50,9,9,Laguna de Duero,0,0,0
+L22V,14:45:20,14:45:50,10,10,Laguna de Duero,0,0,0
+L22V,14:46:20,14:46:50,11,11,Laguna de Duero,0,0,0
+L22V,14:47:20,14:47:50,12,12,Laguna de Duero,0,0,0
+L22V,14:48:20,14:48:21,13,13,Laguna de Duero,0,0,1
+L23V,15:00:20,15:00:50,1,1,Laguna de Duero,0,0,1
+L23V,15:01:20,15:01:50,2,2,Laguna de Duero,0,0,0
+L23V,15:02:20,15:02:50,3,3,Laguna de Duero,0,0,0
+L23V,15:05:20,15:05:50,4,4,Laguna de Duero,0,0,0
+L23V,15:06:20,15:06:50,5,5,Laguna de Duero,0,0,0
+L23V,15:11:20,15:11:50,6,6,Laguna de Duero,0,0,0
+L23V,15:12:20,15:12:50,7,7,Laguna de Duero,0,0,0
+L23V,15:13:20,15:13:50,8,8,Laguna de Duero,0,0,0
+L23V,15:14:20,15:14:50,9,9,Laguna de Duero,0,0,0
+L23V,15:15:20,15:15:50,10,10,Laguna de Duero,0,0,0
+L23V,15:16:20,15:16:50,11,11,Laguna de Duero,0,0,0
+L23V,15:17:20,15:17:50,12,12,Laguna de Duero,0,0,0
+L23V,15:18:20,15:18:21,13,13,Laguna de Duero,0,0,1
+L24V,15:30:20,15:30:50,1,1,Laguna de Duero,0,0,1
+L24V,15:31:20,15:31:50,2,2,Laguna de Duero,0,0,0
+L24V,15:32:20,15:32:50,3,3,Laguna de Duero,0,0,0
+L24V,15:35:20,15:35:50,4,4,Laguna de Duero,0,0,0
+L24V,15:36:20,15:36:50,5,5,Laguna de Duero,0,0,0
+L24V,15:41:20,15:41:50,6,6,Laguna de Duero,0,0,0
+L24V,15:42:20,15:42:50,7,7,Laguna de Duero,0,0,0
+L24V,15:43:20,15:43:50,8,8,Laguna de Duero,0,0,0
+L24V,15:44:20,15:44:50,9,9,Laguna de Duero,0,0,0
+L24V,15:45:20,15:45:50,10,10,Laguna de Duero,0,0,0
+L24V,15:46:20,15:46:50,11,11,Laguna de Duero,0,0,0
+L24V,15:47:20,15:47:50,12,12,Laguna de Duero,0,0,0
+L24V,15:48:20,15:48:21,13,13,Laguna de Duero,0,0,1
+L25V,16:00:20,16:00:50,1,1,Laguna de Duero,0,0,1
+L25V,16:01:20,16:01:50,2,2,Laguna de Duero,0,0,0
+L25V,16:02:20,16:02:50,3,3,Laguna de Duero,0,0,0
+L25V,16:05:20,16:05:50,4,4,Laguna de Duero,0,0,0
+L25V,16:06:20,16:06:50,5,5,Laguna de Duero,0,0,0
+L25V,16:11:20,16:11:50,6,6,Laguna de Duero,0,0,0
+L25V,16:12:20,16:12:50,7,7,Laguna de Duero,0,0,0
+L25V,16:13:20,16:13:50,8,8,Laguna de Duero,0,0,0
+L25V,16:14:20,16:14:50,9,9,Laguna de Duero,0,0,0
+L25V,16:15:20,16:15:50,10,10,Laguna de Duero,0,0,0
+L25V,16:16:20,16:16:50,11,11,Laguna de Duero,0,0,0
+L25V,16:17:20,16:17:50,12,12,Laguna de Duero,0,0,0
+L25V,16:18:20,16:18:21,13,13,Laguna de Duero,0,0,1
+L26V,16:30:20,16:30:50,1,1,Laguna de Duero,0,0,1
+L26V,16:31:20,16:31:50,2,2,Laguna de Duero,0,0,0
+L26V,16:32:20,16:32:50,3,3,Laguna de Duero,0,0,0
+L26V,16:35:20,16:35:50,4,4,Laguna de Duero,0,0,0
+L26V,16:36:20,16:36:50,5,5,Laguna de Duero,0,0,0
+L26V,16:41:20,16:41:50,6,6,Laguna de Duero,0,0,0
+L26V,16:42:20,16:42:50,7,7,Laguna de Duero,0,0,0
+L26V,16:43:20,16:43:50,8,8,Laguna de Duero,0,0,0
+L26V,16:44:20,16:44:50,9,9,Laguna de Duero,0,0,0
+L26V,16:45:20,16:45:50,10,10,Laguna de Duero,0,0,0
+L26V,16:46:20,16:46:50,11,11,Laguna de Duero,0,0,0
+L26V,16:47:20,16:47:50,12,12,Laguna de Duero,0,0,0
+L26V,16:48:20,16:48:21,13,13,Laguna de Duero,0,0,1
+L27V,17:00:20,17:00:50,1,1,Laguna de Duero,0,0,1
+L27V,17:01:20,17:01:50,2,2,Laguna de Duero,0,0,0
+L27V,17:02:20,17:02:50,3,3,Laguna de Duero,0,0,0
+L27V,17:05:20,17:05:50,4,4,Laguna de Duero,0,0,0
+L27V,17:06:20,17:06:50,5,5,Laguna de Duero,0,0,0
+L27V,17:11:20,17:11:50,6,6,Laguna de Duero,0,0,0
+L27V,17:12:20,17:12:50,7,7,Laguna de Duero,0,0,0
+L27V,17:13:20,17:13:50,8,8,Laguna de Duero,0,0,0
+L27V,17:14:20,17:14:50,9,9,Laguna de Duero,0,0,0
+L27V,17:15:20,17:15:50,10,10,Laguna de Duero,0,0,0
+L27V,17:16:20,17:16:50,11,11,Laguna de Duero,0,0,0
+L27V,17:17:20,17:17:50,12,12,Laguna de Duero,0,0,0
+L27V,17:18:20,17:18:21,13,13,Laguna de Duero,0,0,1
+L28V,17:30:20,17:30:50,1,1,Laguna de Duero,0,0,1
+L28V,17:31:20,17:31:50,2,2,Laguna de Duero,0,0,0
+L28V,17:32:20,17:32:50,3,3,Laguna de Duero,0,0,0
+L28V,17:35:20,17:35:50,4,4,Laguna de Duero,0,0,0
+L28V,17:36:20,17:36:50,5,5,Laguna de Duero,0,0,0
+L28V,17:41:20,17:41:50,6,6,Laguna de Duero,0,0,0
+L28V,17:42:20,17:42:50,7,7,Laguna de Duero,0,0,0
+L28V,17:43:20,17:43:50,8,8,Laguna de Duero,0,0,0
+L28V,17:44:20,17:44:50,9,9,Laguna de Duero,0,0,0
+L28V,17:45:20,17:45:50,10,10,Laguna de Duero,0,0,0
+L28V,17:46:20,17:46:50,11,11,Laguna de Duero,0,0,0
+L28V,17:47:20,17:47:50,12,12,Laguna de Duero,0,0,0
+L28V,17:48:20,17:48:21,13,13,Laguna de Duero,0,0,1
+L29V,18:00:20,18:00:50,1,1,Laguna de Duero,0,0,1
+L29V,18:01:20,18:01:50,2,2,Laguna de Duero,0,0,0
+L29V,18:02:20,18:02:50,3,3,Laguna de Duero,0,0,0
+L29V,18:05:20,18:05:50,4,4,Laguna de Duero,0,0,0
+L29V,18:06:20,18:06:50,5,5,Laguna de Duero,0,0,0
+L29V,18:11:20,18:11:50,6,6,Laguna de Duero,0,0,0
+L29V,18:12:20,18:12:50,7,7,Laguna de Duero,0,0,0
+L29V,18:13:20,18:13:50,8,8,Laguna de Duero,0,0,0
+L29V,18:14:20,18:14:50,9,9,Laguna de Duero,0,0,0
+L29V,18:15:20,18:15:50,10,10,Laguna de Duero,0,0,0
+L29V,18:16:20,18:16:50,11,11,Laguna de Duero,0,0,0
+L29V,18:17:20,18:17:50,12,12,Laguna de Duero,0,0,0
+L29V,18:18:20,18:18:21,13,13,Laguna de Duero,0,0,1
+L30V,18:30:20,18:30:50,1,1,Laguna de Duero,0,0,1
+L30V,18:31:20,18:31:50,2,2,Laguna de Duero,0,0,0
+L30V,18:32:20,18:32:50,3,3,Laguna de Duero,0,0,0
+L30V,18:35:20,18:35:50,4,4,Laguna de Duero,0,0,0
+L30V,18:36:20,18:36:50,5,5,Laguna de Duero,0,0,0
+L30V,18:41:20,18:41:50,6,6,Laguna de Duero,0,0,0
+L30V,18:42:20,18:42:50,7,7,Laguna de Duero,0,0,0
+L30V,18:43:20,18:43:50,8,8,Laguna de Duero,0,0,0
+L30V,18:44:20,18:44:50,9,9,Laguna de Duero,0,0,0
+L30V,18:45:20,18:45:50,10,10,Laguna de Duero,0,0,0
+L30V,18:46:20,18:46:50,11,11,Laguna de Duero,0,0,0
+L30V,18:47:20,18:47:50,12,12,Laguna de Duero,0,0,0
+L30V,18:48:20,18:48:21,13,13,Laguna de Duero,0,0,1
+L31V,19:00:20,19:00:50,1,1,Laguna de Duero,0,0,1
+L31V,19:01:20,19:01:50,2,2,Laguna de Duero,0,0,0
+L31V,19:02:20,19:02:50,3,3,Laguna de Duero,0,0,0
+L31V,19:05:20,19:05:50,4,4,Laguna de Duero,0,0,0
+L31V,19:06:20,19:06:50,5,5,Laguna de Duero,0,0,0
+L31V,19:11:20,19:11:50,6,6,Laguna de Duero,0,0,0
+L31V,19:12:20,19:12:50,7,7,Laguna de Duero,0,0,0
+L31V,19:13:20,19:13:50,8,8,Laguna de Duero,0,0,0
+L31V,19:14:20,19:14:50,9,9,Laguna de Duero,0,0,0
+L31V,19:15:20,19:15:50,10,10,Laguna de Duero,0,0,0
+L31V,19:16:20,19:16:50,11,11,Laguna de Duero,0,0,0
+L31V,19:17:20,19:17:50,12,12,Laguna de Duero,0,0,0
+L31V,19:18:20,19:18:21,13,13,Laguna de Duero,0,0,1
+L32V,19:30:20,19:30:50,1,1,Laguna de Duero,0,0,1
+L32V,19:31:20,19:31:50,2,2,Laguna de Duero,0,0,0
+L32V,19:32:20,19:32:50,3,3,Laguna de Duero,0,0,0
+L32V,19:35:20,19:35:50,4,4,Laguna de Duero,0,0,0
+L32V,19:36:20,19:36:50,5,5,Laguna de Duero,0,0,0
+L32V,19:41:20,19:41:50,6,6,Laguna de Duero,0,0,0
+L32V,19:42:20,19:42:50,7,7,Laguna de Duero,0,0,0
+L32V,19:43:20,19:43:50,8,8,Laguna de Duero,0,0,0
+L32V,19:44:20,19:44:50,9,9,Laguna de Duero,0,0,0
+L32V,19:45:20,19:45:50,10,10,Laguna de Duero,0,0,0
+L32V,19:46:20,19:46:50,11,11,Laguna de Duero,0,0,0
+L32V,19:47:20,19:47:50,12,12,Laguna de Duero,0,0,0
+L32V,19:48:20,19:48:21,13,13,Laguna de Duero,0,0,1
+L33V,20:00:20,20:00:50,1,1,Laguna de Duero,0,0,1
+L33V,20:01:20,20:01:50,2,2,Laguna de Duero,0,0,0
+L33V,20:02:20,20:02:50,3,3,Laguna de Duero,0,0,0
+L33V,20:05:20,20:05:50,4,4,Laguna de Duero,0,0,0
+L33V,20:06:20,20:06:50,5,5,Laguna de Duero,0,0,0
+L33V,20:11:20,20:11:50,6,6,Laguna de Duero,0,0,0
+L33V,20:12:20,20:12:50,7,7,Laguna de Duero,0,0,0
+L33V,20:13:20,20:13:50,8,8,Laguna de Duero,0,0,0
+L33V,20:14:20,20:14:50,9,9,Laguna de Duero,0,0,0
+L33V,20:15:20,20:15:50,10,10,Laguna de Duero,0,0,0
+L33V,20:16:20,20:16:50,11,11,Laguna de Duero,0,0,0
+L33V,20:17:20,20:17:50,12,12,Laguna de Duero,0,0,0
+L33V,20:18:20,20:18:21,13,13,Laguna de Duero,0,0,1
+L34V,20:30:20,20:30:50,1,1,Laguna de Duero,0,0,1
+L34V,20:31:20,20:31:50,2,2,Laguna de Duero,0,0,0
+L34V,20:32:20,20:32:50,3,3,Laguna de Duero,0,0,0
+L34V,20:35:20,20:35:50,4,4,Laguna de Duero,0,0,0
+L34V,20:36:20,20:36:50,5,5,Laguna de Duero,0,0,0
+L34V,20:41:20,20:41:50,6,6,Laguna de Duero,0,0,0
+L34V,20:42:20,20:42:50,7,7,Laguna de Duero,0,0,0
+L34V,20:43:20,20:43:50,8,8,Laguna de Duero,0,0,0
+L34V,20:44:20,20:44:50,9,9,Laguna de Duero,0,0,0
+L34V,20:45:20,20:45:50,10,10,Laguna de Duero,0,0,0
+L34V,20:46:20,20:46:50,11,11,Laguna de Duero,0,0,0
+L34V,20:47:20,20:47:50,12,12,Laguna de Duero,0,0,0
+L34V,20:48:20,20:48:21,13,13,Laguna de Duero,0,0,1
+L35V,21:00:20,21:00:50,1,1,Laguna de Duero,0,0,1
+L35V,21:01:20,21:01:50,2,2,Laguna de Duero,0,0,0
+L35V,21:02:20,21:02:50,3,3,Laguna de Duero,0,0,0
+L35V,21:05:20,21:05:50,4,4,Laguna de Duero,0,0,0
+L35V,21:06:20,21:06:50,5,5,Laguna de Duero,0,0,0
+L35V,21:11:20,21:11:50,6,6,Laguna de Duero,0,0,0
+L35V,21:12:20,21:12:50,7,7,Laguna de Duero,0,0,0
+L35V,21:13:20,21:13:50,8,8,Laguna de Duero,0,0,0
+L35V,21:14:20,21:14:50,9,9,Laguna de Duero,0,0,0
+L35V,21:15:20,21:15:50,10,10,Laguna de Duero,0,0,0
+L35V,21:16:20,21:16:50,11,11,Laguna de Duero,0,0,0
+L35V,21:17:20,21:17:50,12,12,Laguna de Duero,0,0,0
+L35V,21:18:20,21:18:21,13,13,Laguna de Duero,0,0,1
+L36V,21:30:20,21:30:50,1,1,Laguna de Duero,0,0,1
+L36V,21:31:20,21:31:50,2,2,Laguna de Duero,0,0,0
+L36V,21:32:20,21:32:50,3,3,Laguna de Duero,0,0,0
+L36V,21:35:20,21:35:50,4,4,Laguna de Duero,0,0,0
+L36V,21:36:20,21:36:50,5,5,Laguna de Duero,0,0,0
+L36V,21:41:20,21:41:50,6,6,Laguna de Duero,0,0,0
+L36V,21:42:20,21:42:50,7,7,Laguna de Duero,0,0,0
+L36V,21:43:20,21:43:50,8,8,Laguna de Duero,0,0,0
+L36V,21:44:20,21:44:50,9,9,Laguna de Duero,0,0,0
+L36V,21:45:20,21:45:50,10,10,Laguna de Duero,0,0,0
+L36V,21:46:20,21:46:50,11,11,Laguna de Duero,0,0,0
+L36V,21:47:20,21:47:50,12,12,Laguna de Duero,0,0,0
+L36V,21:48:20,21:48:21,13,13,Laguna de Duero,0,0,1
+L37V,22:00:20,22:00:50,1,1,Laguna de Duero,0,0,1
+L37V,22:01:20,22:01:50,2,2,Laguna de Duero,0,0,0
+L37V,22:02:20,22:02:50,3,3,Laguna de Duero,0,0,0
+L37V,22:05:20,22:05:50,4,4,Laguna de Duero,0,0,0
+L37V,22:06:20,22:06:50,5,5,Laguna de Duero,0,0,0
+L37V,22:11:20,22:11:50,6,6,Laguna de Duero,0,0,0
+L37V,22:12:20,22:12:50,7,7,Laguna de Duero,0,0,0
+L37V,22:13:20,22:13:50,8,8,Laguna de Duero,0,0,0
+L37V,22:14:20,22:14:50,9,9,Laguna de Duero,0,0,0
+L37V,22:15:20,22:15:50,10,10,Laguna de Duero,0,0,0
+L37V,22:16:20,22:16:50,11,11,Laguna de Duero,0,0,0
+L37V,22:17:20,22:17:50,12,12,Laguna de Duero,0,0,0
+L37V,22:18:20,22:18:21,13,13,Laguna de Duero,0,0,1
+L38V,22:30:20,22:30:50,1,1,Laguna de Duero,0,0,1
+L38V,22:31:20,22:31:50,2,2,Laguna de Duero,0,0,0
+L38V,22:32:20,22:32:50,3,3,Laguna de Duero,0,0,0
+L38V,22:35:20,22:35:50,4,4,Laguna de Duero,0,0,0
+L38V,22:36:20,22:36:50,5,5,Laguna de Duero,0,0,0
+L38V,22:41:20,22:41:50,6,6,Laguna de Duero,0,0,0
+L38V,22:42:20,22:42:50,7,7,Laguna de Duero,0,0,0
+L38V,22:43:20,22:43:50,8,8,Laguna de Duero,0,0,0
+L38V,22:44:20,22:44:50,9,9,Laguna de Duero,0,0,0
+L38V,22:45:20,22:45:50,10,10,Laguna de Duero,0,0,0
+L38V,22:46:20,22:46:50,11,11,Laguna de Duero,0,0,0
+L38V,22:47:20,22:47:50,12,12,Laguna de Duero,0,0,0
+L38V,22:48:20,22:48:21,13,13,Laguna de Duero,0,0,1
+L39V,23:00:20,23:00:50,1,1,Laguna de Duero,0,0,1
+L39V,23:01:20,23:01:50,2,2,Laguna de Duero,0,0,0
+L39V,23:02:20,23:02:50,3,3,Laguna de Duero,0,0,0
+L39V,23:05:20,23:05:50,4,4,Laguna de Duero,0,0,0
+L39V,23:06:20,23:06:50,5,5,Laguna de Duero,0,0,0
+L39V,23:11:20,23:11:50,6,6,Laguna de Duero,0,0,0
+L39V,23:12:20,23:12:50,7,7,Laguna de Duero,0,0,0
+L39V,23:13:20,23:13:50,8,8,Laguna de Duero,0,0,0
+L39V,23:14:20,23:14:50,9,9,Laguna de Duero,0,0,0
+L39V,23:15:20,23:15:50,10,10,Laguna de Duero,0,0,0
+L39V,23:16:20,23:16:50,11,11,Laguna de Duero,0,0,0
+L39V,23:17:20,23:17:50,12,12,Laguna de Duero,0,0,0
+L39V,23:18:20,23:18:21,13,13,Laguna de Duero,0,0,1
+L1S,08:00:20,08:00:50,1,1,Laguna de Duero,0,0,1
+L1S,08:01:20,08:01:50,2,2,Laguna de Duero,0,0,0
+L1S,08:02:20,08:02:50,3,3,Laguna de Duero,0,0,0
+L1S,08:05:20,08:05:50,4,4,Laguna de Duero,0,0,0
+L1S,08:06:20,08:06:50,5,5,Laguna de Duero,0,0,0
+L1S,08:11:20,08:11:50,6,6,Laguna de Duero,0,0,0
+L1S,08:12:20,08:12:50,7,7,Laguna de Duero,0,0,0
+L1S,08:13:20,08:13:50,8,8,Laguna de Duero,0,0,0
+L1S,08:14:20,08:14:50,9,9,Laguna de Duero,0,0,0
+L1S,08:15:20,08:15:50,10,10,Laguna de Duero,0,0,0
+L1S,08:16:20,08:16:50,11,11,Laguna de Duero,0,0,0
+L1S,08:17:20,08:17:50,12,12,Laguna de Duero,0,0,0
+L1S,08:18:20,08:18:21,13,13,Laguna de Duero,0,0,1
+L2S,08:30:20,08:30:50,1,1,Laguna de Duero,0,0,1
+L2S,08:31:20,08:31:50,2,2,Laguna de Duero,0,0,0
+L2S,08:32:20,08:32:50,3,3,Laguna de Duero,0,0,0
+L2S,08:35:20,08:35:50,4,4,Laguna de Duero,0,0,0
+L2S,08:36:20,08:36:50,5,5,Laguna de Duero,0,0,0
+L2S,08:41:20,08:41:50,6,6,Laguna de Duero,0,0,0
+L2S,08:42:20,08:42:50,7,7,Laguna de Duero,0,0,0
+L2S,08:43:20,08:43:50,8,8,Laguna de Duero,0,0,0
+L2S,08:44:20,08:44:50,9,9,Laguna de Duero,0,0,0
+L2S,08:45:20,08:45:50,10,10,Laguna de Duero,0,0,0
+L2S,08:46:20,08:46:50,11,11,Laguna de Duero,0,0,0
+L2S,08:47:20,08:47:50,12,12,Laguna de Duero,0,0,0
+L2S,08:48:20,08:48:21,13,13,Laguna de Duero,0,0,1
+L3S,09:00:20,09:00:50,1,1,Laguna de Duero,0,0,1
+L3S,09:01:20,09:01:50,2,2,Laguna de Duero,0,0,0
+L3S,09:02:20,09:02:50,3,3,Laguna de Duero,0,0,0
+L3S,09:05:20,09:05:50,4,4,Laguna de Duero,0,0,0
+L3S,09:06:20,09:06:50,5,5,Laguna de Duero,0,0,0
+L3S,09:11:20,09:11:50,6,6,Laguna de Duero,0,0,0
+L3S,09:12:20,09:12:50,7,7,Laguna de Duero,0,0,0
+L3S,09:13:20,09:13:50,8,8,Laguna de Duero,0,0,0
+L3S,09:14:20,09:14:50,9,9,Laguna de Duero,0,0,0
+L3S,09:15:20,09:15:50,10,10,Laguna de Duero,0,0,0
+L3S,09:16:20,09:16:50,11,11,Laguna de Duero,0,0,0
+L3S,09:17:20,09:17:50,12,12,Laguna de Duero,0,0,0
+L3S,09:18:20,09:18:21,13,13,Laguna de Duero,0,0,1
+L4S,09:30:20,09:30:50,1,1,Laguna de Duero,0,0,1
+L4S,09:31:20,09:31:50,2,2,Laguna de Duero,0,0,0
+L4S,09:32:20,09:32:50,3,3,Laguna de Duero,0,0,0
+L4S,09:35:20,09:35:50,4,4,Laguna de Duero,0,0,0
+L4S,09:36:20,09:36:50,5,5,Laguna de Duero,0,0,0
+L4S,09:41:20,09:41:50,6,6,Laguna de Duero,0,0,0
+L4S,09:42:20,09:42:50,7,7,Laguna de Duero,0,0,0
+L4S,09:43:20,09:43:50,8,8,Laguna de Duero,0,0,0
+L4S,09:44:20,09:44:50,9,9,Laguna de Duero,0,0,0
+L4S,09:45:20,09:45:50,10,10,Laguna de Duero,0,0,0
+L4S,09:46:20,09:46:50,11,11,Laguna de Duero,0,0,0
+L4S,09:47:20,09:47:50,12,12,Laguna de Duero,0,0,0
+L4S,09:48:20,09:48:21,13,13,Laguna de Duero,0,0,1
+L5S,10:00:20,10:00:50,1,1,Laguna de Duero,0,0,1
+L5S,10:01:20,10:01:50,2,2,Laguna de Duero,0,0,0
+L5S,10:02:20,10:02:50,3,3,Laguna de Duero,0,0,0
+L5S,10:05:20,10:05:50,4,4,Laguna de Duero,0,0,0
+L5S,10:06:20,10:06:50,5,5,Laguna de Duero,0,0,0
+L5S,10:11:20,10:11:50,6,6,Laguna de Duero,0,0,0
+L5S,10:12:20,10:12:50,7,7,Laguna de Duero,0,0,0
+L5S,10:13:20,10:13:50,8,8,Laguna de Duero,0,0,0
+L5S,10:14:20,10:14:50,9,9,Laguna de Duero,0,0,0
+L5S,10:15:20,10:15:50,10,10,Laguna de Duero,0,0,0
+L5S,10:16:20,10:16:50,11,11,Laguna de Duero,0,0,0
+L5S,10:17:20,10:17:50,12,12,Laguna de Duero,0,0,0
+L5S,10:18:20,10:18:21,13,13,Laguna de Duero,0,0,1
+L6S,10:30:20,10:30:50,1,1,Laguna de Duero,0,0,1
+L6S,10:31:20,10:31:50,2,2,Laguna de Duero,0,0,0
+L6S,10:32:20,10:32:50,3,3,Laguna de Duero,0,0,0
+L6S,10:35:20,10:35:50,4,4,Laguna de Duero,0,0,0
+L6S,10:36:20,10:36:50,5,5,Laguna de Duero,0,0,0
+L6S,10:41:20,10:41:50,6,6,Laguna de Duero,0,0,0
+L6S,10:42:20,10:42:50,7,7,Laguna de Duero,0,0,0
+L6S,10:43:20,10:43:50,8,8,Laguna de Duero,0,0,0
+L6S,10:44:20,10:44:50,9,9,Laguna de Duero,0,0,0
+L6S,10:45:20,10:45:50,10,10,Laguna de Duero,0,0,0
+L6S,10:46:20,10:46:50,11,11,Laguna de Duero,0,0,0
+L6S,10:47:20,10:47:50,12,12,Laguna de Duero,0,0,0
+L6S,10:48:20,10:48:21,13,13,Laguna de Duero,0,0,1
+L7S,11:00:20,11:00:50,1,1,Laguna de Duero,0,0,1
+L7S,11:01:20,11:01:50,2,2,Laguna de Duero,0,0,0
+L7S,11:02:20,11:02:50,3,3,Laguna de Duero,0,0,0
+L7S,11:05:20,11:05:50,4,4,Laguna de Duero,0,0,0
+L7S,11:06:20,11:06:50,5,5,Laguna de Duero,0,0,0
+L7S,11:11:20,11:11:50,6,6,Laguna de Duero,0,0,0
+L7S,11:12:20,11:12:50,7,7,Laguna de Duero,0,0,0
+L7S,11:13:20,11:13:50,8,8,Laguna de Duero,0,0,0
+L7S,11:14:20,11:14:50,9,9,Laguna de Duero,0,0,0
+L7S,11:15:20,11:15:50,10,10,Laguna de Duero,0,0,0
+L7S,11:16:20,11:16:50,11,11,Laguna de Duero,0,0,0
+L7S,11:17:20,11:17:50,12,12,Laguna de Duero,0,0,0
+L7S,11:18:20,11:18:21,13,13,Laguna de Duero,0,0,1
+L8S,11:30:20,11:30:50,1,1,Laguna de Duero,0,0,1
+L8S,11:31:20,11:31:50,2,2,Laguna de Duero,0,0,0
+L8S,11:32:20,11:32:50,3,3,Laguna de Duero,0,0,0
+L8S,11:35:20,11:35:50,4,4,Laguna de Duero,0,0,0
+L8S,11:36:20,11:36:50,5,5,Laguna de Duero,0,0,0
+L8S,11:41:20,11:41:50,6,6,Laguna de Duero,0,0,0
+L8S,11:42:20,11:42:50,7,7,Laguna de Duero,0,0,0
+L8S,11:43:20,11:43:50,8,8,Laguna de Duero,0,0,0
+L8S,11:44:20,11:44:50,9,9,Laguna de Duero,0,0,0
+L8S,11:45:20,11:45:50,10,10,Laguna de Duero,0,0,0
+L8S,11:46:20,11:46:50,11,11,Laguna de Duero,0,0,0
+L8S,11:47:20,11:47:50,12,12,Laguna de Duero,0,0,0
+L8S,11:48:20,11:48:21,13,13,Laguna de Duero,0,0,1
+L9S,12:00:20,12:00:50,1,1,Laguna de Duero,0,0,1
+L9S,12:01:20,12:01:50,2,2,Laguna de Duero,0,0,0
+L9S,12:02:20,12:02:50,3,3,Laguna de Duero,0,0,0
+L9S,12:05:20,12:05:50,4,4,Laguna de Duero,0,0,0
+L9S,12:06:20,12:06:50,5,5,Laguna de Duero,0,0,0
+L9S,12:11:20,12:11:50,6,6,Laguna de Duero,0,0,0
+L9S,12:12:20,12:12:50,7,7,Laguna de Duero,0,0,0
+L9S,12:13:20,12:13:50,8,8,Laguna de Duero,0,0,0
+L9S,12:14:20,12:14:50,9,9,Laguna de Duero,0,0,0
+L9S,12:15:20,12:15:50,10,10,Laguna de Duero,0,0,0
+L9S,12:16:20,12:16:50,11,11,Laguna de Duero,0,0,0
+L9S,12:17:20,12:17:50,12,12,Laguna de Duero,0,0,0
+L9S,12:18:20,12:18:21,13,13,Laguna de Duero,0,0,1
+L10S,12:30:20,12:30:50,1,1,Laguna de Duero,0,0,1
+L10S,12:31:20,12:31:50,2,2,Laguna de Duero,0,0,0
+L10S,12:32:20,12:32:50,3,3,Laguna de Duero,0,0,0
+L10S,12:35:20,12:35:50,4,4,Laguna de Duero,0,0,0
+L10S,12:36:20,12:36:50,5,5,Laguna de Duero,0,0,0
+L10S,12:41:20,12:41:50,6,6,Laguna de Duero,0,0,0
+L10S,12:42:20,12:42:50,7,7,Laguna de Duero,0,0,0
+L10S,12:43:20,12:43:50,8,8,Laguna de Duero,0,0,0
+L10S,12:44:20,12:44:50,9,9,Laguna de Duero,0,0,0
+L10S,12:45:20,12:45:50,10,10,Laguna de Duero,0,0,0
+L10S,12:46:20,12:46:50,11,11,Laguna de Duero,0,0,0
+L10S,12:47:20,12:47:50,12,12,Laguna de Duero,0,0,0
+L10S,12:48:20,12:48:21,13,13,Laguna de Duero,0,0,1
+L11S,13:00:20,13:00:50,1,1,Laguna de Duero,0,0,1
+L11S,13:01:20,13:01:50,2,2,Laguna de Duero,0,0,0
+L11S,13:02:20,13:02:50,3,3,Laguna de Duero,0,0,0
+L11S,13:05:20,13:05:50,4,4,Laguna de Duero,0,0,0
+L11S,13:06:20,13:06:50,5,5,Laguna de Duero,0,0,0
+L11S,13:11:20,13:11:50,6,6,Laguna de Duero,0,0,0
+L11S,13:12:20,13:12:50,7,7,Laguna de Duero,0,0,0
+L11S,13:13:20,13:13:50,8,8,Laguna de Duero,0,0,0
+L11S,13:14:20,13:14:50,9,9,Laguna de Duero,0,0,0
+L11S,13:15:20,13:15:50,10,10,Laguna de Duero,0,0,0
+L11S,13:16:20,13:16:50,11,11,Laguna de Duero,0,0,0
+L11S,13:17:20,13:17:50,12,12,Laguna de Duero,0,0,0
+L11S,13:18:20,13:18:21,13,13,Laguna de Duero,0,0,1
+L12S,13:30:20,13:30:50,1,1,Laguna de Duero,0,0,1
+L12S,13:31:20,13:31:50,2,2,Laguna de Duero,0,0,0
+L12S,13:32:20,13:32:50,3,3,Laguna de Duero,0,0,0
+L12S,13:35:20,13:35:50,4,4,Laguna de Duero,0,0,0
+L12S,13:36:20,13:36:50,5,5,Laguna de Duero,0,0,0
+L12S,13:41:20,13:41:50,6,6,Laguna de Duero,0,0,0
+L12S,13:42:20,13:42:50,7,7,Laguna de Duero,0,0,0
+L12S,13:43:20,13:43:50,8,8,Laguna de Duero,0,0,0
+L12S,13:44:20,13:44:50,9,9,Laguna de Duero,0,0,0
+L12S,13:45:20,13:45:50,10,10,Laguna de Duero,0,0,0
+L12S,13:46:20,13:46:50,11,11,Laguna de Duero,0,0,0
+L12S,13:47:20,13:47:50,12,12,Laguna de Duero,0,0,0
+L12S,13:48:20,13:48:21,13,13,Laguna de Duero,0,0,1
+L13S,14:00:20,14:00:50,1,1,Laguna de Duero,0,0,1
+L13S,14:01:20,14:01:50,2,2,Laguna de Duero,0,0,0
+L13S,14:02:20,14:02:50,3,3,Laguna de Duero,0,0,0
+L13S,14:05:20,14:05:50,4,4,Laguna de Duero,0,0,0
+L13S,14:06:20,14:06:50,5,5,Laguna de Duero,0,0,0
+L13S,14:11:20,14:11:50,6,6,Laguna de Duero,0,0,0
+L13S,14:12:20,14:12:50,7,7,Laguna de Duero,0,0,0
+L13S,14:13:20,14:13:50,8,8,Laguna de Duero,0,0,0
+L13S,14:14:20,14:14:50,9,9,Laguna de Duero,0,0,0
+L13S,14:15:20,14:15:50,10,10,Laguna de Duero,0,0,0
+L13S,14:16:20,14:16:50,11,11,Laguna de Duero,0,0,0
+L13S,14:17:20,14:17:50,12,12,Laguna de Duero,0,0,0
+L13S,14:18:20,14:18:21,13,13,Laguna de Duero,0,0,1
+L14S,14:30:20,14:30:50,1,1,Laguna de Duero,0,0,1
+L14S,14:31:20,14:31:50,2,2,Laguna de Duero,0,0,0
+L14S,14:32:20,14:32:50,3,3,Laguna de Duero,0,0,0
+L14S,14:35:20,14:35:50,4,4,Laguna de Duero,0,0,0
+L14S,14:36:20,14:36:50,5,5,Laguna de Duero,0,0,0
+L14S,14:41:20,14:41:50,6,6,Laguna de Duero,0,0,0
+L14S,14:42:20,14:42:50,7,7,Laguna de Duero,0,0,0
+L14S,14:43:20,14:43:50,8,8,Laguna de Duero,0,0,0
+L14S,14:44:20,14:44:50,9,9,Laguna de Duero,0,0,0
+L14S,14:45:20,14:45:50,10,10,Laguna de Duero,0,0,0
+L14S,14:46:20,14:46:50,11,11,Laguna de Duero,0,0,0
+L14S,14:47:20,14:47:50,12,12,Laguna de Duero,0,0,0
+L14S,14:48:20,14:48:21,13,13,Laguna de Duero,0,0,1
+L15S,15:00:20,15:00:50,1,1,Laguna de Duero,0,0,1
+L15S,15:01:20,15:01:50,2,2,Laguna de Duero,0,0,0
+L15S,15:02:20,15:02:50,3,3,Laguna de Duero,0,0,0
+L15S,15:05:20,15:05:50,4,4,Laguna de Duero,0,0,0
+L15S,15:06:20,15:06:50,5,5,Laguna de Duero,0,0,0
+L15S,15:11:20,15:11:50,6,6,Laguna de Duero,0,0,0
+L15S,15:12:20,15:12:50,7,7,Laguna de Duero,0,0,0
+L15S,15:13:20,15:13:50,8,8,Laguna de Duero,0,0,0
+L15S,15:14:20,15:14:50,9,9,Laguna de Duero,0,0,0
+L15S,15:15:20,15:15:50,10,10,Laguna de Duero,0,0,0
+L15S,15:16:20,15:16:50,11,11,Laguna de Duero,0,0,0
+L15S,15:17:20,15:17:50,12,12,Laguna de Duero,0,0,0
+L15S,15:18:20,15:18:21,13,13,Laguna de Duero,0,0,1
+L16S,15:30:20,15:30:50,1,1,Laguna de Duero,0,0,1
+L16S,15:31:20,15:31:50,2,2,Laguna de Duero,0,0,0
+L16S,15:32:20,15:32:50,3,3,Laguna de Duero,0,0,0
+L16S,15:35:20,15:35:50,4,4,Laguna de Duero,0,0,0
+L16S,15:36:20,15:36:50,5,5,Laguna de Duero,0,0,0
+L16S,15:41:20,15:41:50,6,6,Laguna de Duero,0,0,0
+L16S,15:42:20,15:42:50,7,7,Laguna de Duero,0,0,0
+L16S,15:43:20,15:43:50,8,8,Laguna de Duero,0,0,0
+L16S,15:44:20,15:44:50,9,9,Laguna de Duero,0,0,0
+L16S,15:45:20,15:45:50,10,10,Laguna de Duero,0,0,0
+L16S,15:46:20,15:46:50,11,11,Laguna de Duero,0,0,0
+L16S,15:47:20,15:47:50,12,12,Laguna de Duero,0,0,0
+L16S,15:48:20,15:48:21,13,13,Laguna de Duero,0,0,1
+L17S,16:00:20,16:00:50,1,1,Laguna de Duero,0,0,1
+L17S,16:01:20,16:01:50,2,2,Laguna de Duero,0,0,0
+L17S,16:02:20,16:02:50,3,3,Laguna de Duero,0,0,0
+L17S,16:05:20,16:05:50,4,4,Laguna de Duero,0,0,0
+L17S,16:06:20,16:06:50,5,5,Laguna de Duero,0,0,0
+L17S,16:11:20,16:11:50,6,6,Laguna de Duero,0,0,0
+L17S,16:12:20,16:12:50,7,7,Laguna de Duero,0,0,0
+L17S,16:13:20,16:13:50,8,8,Laguna de Duero,0,0,0
+L17S,16:14:20,16:14:50,9,9,Laguna de Duero,0,0,0
+L17S,16:15:20,16:15:50,10,10,Laguna de Duero,0,0,0
+L17S,16:16:20,16:16:50,11,11,Laguna de Duero,0,0,0
+L17S,16:17:20,16:17:50,12,12,Laguna de Duero,0,0,0
+L17S,16:18:20,16:18:21,13,13,Laguna de Duero,0,0,1
+L18S,16:30:20,16:30:50,1,1,Laguna de Duero,0,0,1
+L18S,16:31:20,16:31:50,2,2,Laguna de Duero,0,0,0
+L18S,16:32:20,16:32:50,3,3,Laguna de Duero,0,0,0
+L18S,16:35:20,16:35:50,4,4,Laguna de Duero,0,0,0
+L18S,16:36:20,16:36:50,5,5,Laguna de Duero,0,0,0
+L18S,16:41:20,16:41:50,6,6,Laguna de Duero,0,0,0
+L18S,16:42:20,16:42:50,7,7,Laguna de Duero,0,0,0
+L18S,16:43:20,16:43:50,8,8,Laguna de Duero,0,0,0
+L18S,16:44:20,16:44:50,9,9,Laguna de Duero,0,0,0
+L18S,16:45:20,16:45:50,10,10,Laguna de Duero,0,0,0
+L18S,16:46:20,16:46:50,11,11,Laguna de Duero,0,0,0
+L18S,16:47:20,16:47:50,12,12,Laguna de Duero,0,0,0
+L18S,16:48:20,16:48:21,13,13,Laguna de Duero,0,0,1
+L19S,17:00:20,17:00:50,1,1,Laguna de Duero,0,0,1
+L19S,17:01:20,17:01:50,2,2,Laguna de Duero,0,0,0
+L19S,17:02:20,17:02:50,3,3,Laguna de Duero,0,0,0
+L19S,17:05:20,17:05:50,4,4,Laguna de Duero,0,0,0
+L19S,17:06:20,17:06:50,5,5,Laguna de Duero,0,0,0
+L19S,17:11:20,17:11:50,6,6,Laguna de Duero,0,0,0
+L19S,17:12:20,17:12:50,7,7,Laguna de Duero,0,0,0
+L19S,17:13:20,17:13:50,8,8,Laguna de Duero,0,0,0
+L19S,17:14:20,17:14:50,9,9,Laguna de Duero,0,0,0
+L19S,17:15:20,17:15:50,10,10,Laguna de Duero,0,0,0
+L19S,17:16:20,17:16:50,11,11,Laguna de Duero,0,0,0
+L19S,17:17:20,17:17:50,12,12,Laguna de Duero,0,0,0
+L19S,17:18:20,17:18:21,13,13,Laguna de Duero,0,0,1
+L20S,17:30:20,17:30:50,1,1,Laguna de Duero,0,0,1
+L20S,17:31:20,17:31:50,2,2,Laguna de Duero,0,0,0
+L20S,17:32:20,17:32:50,3,3,Laguna de Duero,0,0,0
+L20S,17:35:20,17:35:50,4,4,Laguna de Duero,0,0,0
+L20S,17:36:20,17:36:50,5,5,Laguna de Duero,0,0,0
+L20S,17:41:20,17:41:50,6,6,Laguna de Duero,0,0,0
+L20S,17:42:20,17:42:50,7,7,Laguna de Duero,0,0,0
+L20S,17:43:20,17:43:50,8,8,Laguna de Duero,0,0,0
+L20S,17:44:20,17:44:50,9,9,Laguna de Duero,0,0,0
+L20S,17:45:20,17:45:50,10,10,Laguna de Duero,0,0,0
+L20S,17:46:20,17:46:50,11,11,Laguna de Duero,0,0,0
+L20S,17:47:20,17:47:50,12,12,Laguna de Duero,0,0,0
+L20S,17:48:20,17:48:21,13,13,Laguna de Duero,0,0,1
+L21S,18:00:20,18:00:50,1,1,Laguna de Duero,0,0,1
+L21S,18:01:20,18:01:50,2,2,Laguna de Duero,0,0,0
+L21S,18:02:20,18:02:50,3,3,Laguna de Duero,0,0,0
+L21S,18:05:20,18:05:50,4,4,Laguna de Duero,0,0,0
+L21S,18:06:20,18:06:50,5,5,Laguna de Duero,0,0,0
+L21S,18:11:20,18:11:50,6,6,Laguna de Duero,0,0,0
+L21S,18:12:20,18:12:50,7,7,Laguna de Duero,0,0,0
+L21S,18:13:20,18:13:50,8,8,Laguna de Duero,0,0,0
+L21S,18:14:20,18:14:50,9,9,Laguna de Duero,0,0,0
+L21S,18:15:20,18:15:50,10,10,Laguna de Duero,0,0,0
+L21S,18:16:20,18:16:50,11,11,Laguna de Duero,0,0,0
+L21S,18:17:20,18:17:50,12,12,Laguna de Duero,0,0,0
+L21S,18:18:20,18:18:21,13,13,Laguna de Duero,0,0,1
+L22S,18:30:20,18:30:50,1,1,Laguna de Duero,0,0,1
+L22S,18:31:20,18:31:50,2,2,Laguna de Duero,0,0,0
+L22S,18:32:20,18:32:50,3,3,Laguna de Duero,0,0,0
+L22S,18:35:20,18:35:50,4,4,Laguna de Duero,0,0,0
+L22S,18:36:20,18:36:50,5,5,Laguna de Duero,0,0,0
+L22S,18:41:20,18:41:50,6,6,Laguna de Duero,0,0,0
+L22S,18:42:20,18:42:50,7,7,Laguna de Duero,0,0,0
+L22S,18:43:20,18:43:50,8,8,Laguna de Duero,0,0,0
+L22S,18:44:20,18:44:50,9,9,Laguna de Duero,0,0,0
+L22S,18:45:20,18:45:50,10,10,Laguna de Duero,0,0,0
+L22S,18:46:20,18:46:50,11,11,Laguna de Duero,0,0,0
+L22S,18:47:20,18:47:50,12,12,Laguna de Duero,0,0,0
+L22S,18:48:20,18:48:21,13,13,Laguna de Duero,0,0,1
+L23S,19:00:20,19:00:50,1,1,Laguna de Duero,0,0,1
+L23S,19:01:20,19:01:50,2,2,Laguna de Duero,0,0,0
+L23S,19:02:20,19:02:50,3,3,Laguna de Duero,0,0,0
+L23S,19:05:20,19:05:50,4,4,Laguna de Duero,0,0,0
+L23S,19:06:20,19:06:50,5,5,Laguna de Duero,0,0,0
+L23S,19:11:20,19:11:50,6,6,Laguna de Duero,0,0,0
+L23S,19:12:20,19:12:50,7,7,Laguna de Duero,0,0,0
+L23S,19:13:20,19:13:50,8,8,Laguna de Duero,0,0,0
+L23S,19:14:20,19:14:50,9,9,Laguna de Duero,0,0,0
+L23S,19:15:20,19:15:50,10,10,Laguna de Duero,0,0,0
+L23S,19:16:20,19:16:50,11,11,Laguna de Duero,0,0,0
+L23S,19:17:20,19:17:50,12,12,Laguna de Duero,0,0,0
+L23S,19:18:20,19:18:21,13,13,Laguna de Duero,0,0,1
+L24S,19:30:20,19:30:50,1,1,Laguna de Duero,0,0,1
+L24S,19:31:20,19:31:50,2,2,Laguna de Duero,0,0,0
+L24S,19:32:20,19:32:50,3,3,Laguna de Duero,0,0,0
+L24S,19:35:20,19:35:50,4,4,Laguna de Duero,0,0,0
+L24S,19:36:20,19:36:50,5,5,Laguna de Duero,0,0,0
+L24S,19:41:20,19:41:50,6,6,Laguna de Duero,0,0,0
+L24S,19:42:20,19:42:50,7,7,Laguna de Duero,0,0,0
+L24S,19:43:20,19:43:50,8,8,Laguna de Duero,0,0,0
+L24S,19:44:20,19:44:50,9,9,Laguna de Duero,0,0,0
+L24S,19:45:20,19:45:50,10,10,Laguna de Duero,0,0,0
+L24S,19:46:20,19:46:50,11,11,Laguna de Duero,0,0,0
+L24S,19:47:20,19:47:50,12,12,Laguna de Duero,0,0,0
+L24S,19:48:20,19:48:21,13,13,Laguna de Duero,0,0,1
+L25S,20:00:20,20:00:50,1,1,Laguna de Duero,0,0,1
+L25S,20:01:20,20:01:50,2,2,Laguna de Duero,0,0,0
+L25S,20:02:20,20:02:50,3,3,Laguna de Duero,0,0,0
+L25S,20:05:20,20:05:50,4,4,Laguna de Duero,0,0,0
+L25S,20:06:20,20:06:50,5,5,Laguna de Duero,0,0,0
+L25S,20:11:20,20:11:50,6,6,Laguna de Duero,0,0,0
+L25S,20:12:20,20:12:50,7,7,Laguna de Duero,0,0,0
+L25S,20:13:20,20:13:50,8,8,Laguna de Duero,0,0,0
+L25S,20:14:20,20:14:50,9,9,Laguna de Duero,0,0,0
+L25S,20:15:20,20:15:50,10,10,Laguna de Duero,0,0,0
+L25S,20:16:20,20:16:50,11,11,Laguna de Duero,0,0,0
+L25S,20:17:20,20:17:50,12,12,Laguna de Duero,0,0,0
+L25S,20:18:20,20:18:21,13,13,Laguna de Duero,0,0,1
+L26S,20:30:20,20:30:50,1,1,Laguna de Duero,0,0,1
+L26S,20:31:20,20:31:50,2,2,Laguna de Duero,0,0,0
+L26S,20:32:20,20:32:50,3,3,Laguna de Duero,0,0,0
+L26S,20:35:20,20:35:50,4,4,Laguna de Duero,0,0,0
+L26S,20:36:20,20:36:50,5,5,Laguna de Duero,0,0,0
+L26S,20:41:20,20:41:50,6,6,Laguna de Duero,0,0,0
+L26S,20:42:20,20:42:50,7,7,Laguna de Duero,0,0,0
+L26S,20:43:20,20:43:50,8,8,Laguna de Duero,0,0,0
+L26S,20:44:20,20:44:50,9,9,Laguna de Duero,0,0,0
+L26S,20:45:20,20:45:50,10,10,Laguna de Duero,0,0,0
+L26S,20:46:20,20:46:50,11,11,Laguna de Duero,0,0,0
+L26S,20:47:20,20:47:50,12,12,Laguna de Duero,0,0,0
+L26S,20:48:20,20:48:21,13,13,Laguna de Duero,0,0,1
+L27S,21:00:20,21:00:50,1,1,Laguna de Duero,0,0,1
+L27S,21:01:20,21:01:50,2,2,Laguna de Duero,0,0,0
+L27S,21:02:20,21:02:50,3,3,Laguna de Duero,0,0,0
+L27S,21:05:20,21:05:50,4,4,Laguna de Duero,0,0,0
+L27S,21:06:20,21:06:50,5,5,Laguna de Duero,0,0,0
+L27S,21:11:20,21:11:50,6,6,Laguna de Duero,0,0,0
+L27S,21:12:20,21:12:50,7,7,Laguna de Duero,0,0,0
+L27S,21:13:20,21:13:50,8,8,Laguna de Duero,0,0,0
+L27S,21:14:20,21:14:50,9,9,Laguna de Duero,0,0,0
+L27S,21:15:20,21:15:50,10,10,Laguna de Duero,0,0,0
+L27S,21:16:20,21:16:50,11,11,Laguna de Duero,0,0,0
+L27S,21:17:20,21:17:50,12,12,Laguna de Duero,0,0,0
+L27S,21:18:20,21:18:21,13,13,Laguna de Duero,0,0,1
+L28S,21:30:20,21:30:50,1,1,Laguna de Duero,0,0,1
+L28S,21:31:20,21:31:50,2,2,Laguna de Duero,0,0,0
+L28S,21:32:20,21:32:50,3,3,Laguna de Duero,0,0,0
+L28S,21:35:20,21:35:50,4,4,Laguna de Duero,0,0,0
+L28S,21:36:20,21:36:50,5,5,Laguna de Duero,0,0,0
+L28S,21:41:20,21:41:50,6,6,Laguna de Duero,0,0,0
+L28S,21:42:20,21:42:50,7,7,Laguna de Duero,0,0,0
+L28S,21:43:20,21:43:50,8,8,Laguna de Duero,0,0,0
+L28S,21:44:20,21:44:50,9,9,Laguna de Duero,0,0,0
+L28S,21:45:20,21:45:50,10,10,Laguna de Duero,0,0,0
+L28S,21:46:20,21:46:50,11,11,Laguna de Duero,0,0,0
+L28S,21:47:20,21:47:50,12,12,Laguna de Duero,0,0,0
+L28S,21:48:20,21:48:21,13,13,Laguna de Duero,0,0,1
+L29S,22:00:20,22:00:50,1,1,Laguna de Duero,0,0,1
+L29S,22:01:20,22:01:50,2,2,Laguna de Duero,0,0,0
+L29S,22:02:20,22:02:50,3,3,Laguna de Duero,0,0,0
+L29S,22:05:20,22:05:50,4,4,Laguna de Duero,0,0,0
+L29S,22:06:20,22:06:50,5,5,Laguna de Duero,0,0,0
+L29S,22:11:20,22:11:50,6,6,Laguna de Duero,0,0,0
+L29S,22:12:20,22:12:50,7,7,Laguna de Duero,0,0,0
+L29S,22:13:20,22:13:50,8,8,Laguna de Duero,0,0,0
+L29S,22:14:20,22:14:50,9,9,Laguna de Duero,0,0,0
+L29S,22:15:20,22:15:50,10,10,Laguna de Duero,0,0,0
+L29S,22:16:20,22:16:50,11,11,Laguna de Duero,0,0,0
+L29S,22:17:20,22:17:50,12,12,Laguna de Duero,0,0,0
+L29S,22:18:20,22:18:21,13,13,Laguna de Duero,0,0,1
+L30S,22:30:20,22:30:50,1,1,Laguna de Duero,0,0,1
+L30S,22:31:20,22:31:50,2,2,Laguna de Duero,0,0,0
+L30S,22:32:20,22:32:50,3,3,Laguna de Duero,0,0,0
+L30S,22:35:20,22:35:50,4,4,Laguna de Duero,0,0,0
+L30S,22:36:20,22:36:50,5,5,Laguna de Duero,0,0,0
+L30S,22:41:20,22:41:50,6,6,Laguna de Duero,0,0,0
+L30S,22:42:20,22:42:50,7,7,Laguna de Duero,0,0,0
+L30S,22:43:20,22:43:50,8,8,Laguna de Duero,0,0,0
+L30S,22:44:20,22:44:50,9,9,Laguna de Duero,0,0,0
+L30S,22:45:20,22:45:50,10,10,Laguna de Duero,0,0,0
+L30S,22:46:20,22:46:50,11,11,Laguna de Duero,0,0,0
+L30S,22:47:20,22:47:50,12,12,Laguna de Duero,0,0,0
+L30S,22:48:20,22:48:21,13,13,Laguna de Duero,0,0,1
+L31S,23:00:20,23:00:50,1,1,Laguna de Duero,0,0,1
+L31S,23:01:20,23:01:50,2,2,Laguna de Duero,0,0,0
+L31S,23:02:20,23:02:50,3,3,Laguna de Duero,0,0,0
+L31S,23:05:20,23:05:50,4,4,Laguna de Duero,0,0,0
+L31S,23:06:20,23:06:50,5,5,Laguna de Duero,0,0,0
+L31S,23:11:20,23:11:50,6,6,Laguna de Duero,0,0,0
+L31S,23:12:20,23:12:50,7,7,Laguna de Duero,0,0,0
+L31S,23:13:20,23:13:50,8,8,Laguna de Duero,0,0,0
+L31S,23:14:20,23:14:50,9,9,Laguna de Duero,0,0,0
+L31S,23:15:20,23:15:50,10,10,Laguna de Duero,0,0,0
+L31S,23:16:20,23:16:50,11,11,Laguna de Duero,0,0,0
+L31S,23:17:20,23:17:50,12,12,Laguna de Duero,0,0,0
+L31S,23:18:20,23:18:21,13,13,Laguna de Duero,0,0,1
+L32S,23:30:20,23:30:50,1,1,Laguna de Duero,0,0,1
+L32S,23:31:20,23:31:50,2,2,Laguna de Duero,0,0,0
+L32S,23:32:20,23:32:50,3,3,Laguna de Duero,0,0,0
+L32S,23:35:20,23:35:50,4,4,Laguna de Duero,0,0,0
+L32S,23:36:20,23:36:50,5,5,Laguna de Duero,0,0,0
+L32S,23:41:20,23:41:50,6,6,Laguna de Duero,0,0,0
+L32S,23:42:20,23:42:50,7,7,Laguna de Duero,0,0,0
+L32S,23:43:20,23:43:50,8,8,Laguna de Duero,0,0,0
+L32S,23:44:20,23:44:50,9,9,Laguna de Duero,0,0,0
+L32S,23:45:20,23:45:50,10,10,Laguna de Duero,0,0,0
+L32S,23:46:20,23:46:50,11,11,Laguna de Duero,0,0,0
+L32S,23:47:20,23:47:50,12,12,Laguna de Duero,0,0,0
+L32S,23:48:20,23:48:21,13,13,Laguna de Duero,0,0,1
+L1D,11:00:20,11:00:50,1,1,Laguna de Duero,0,0,1
+L1D,11:01:20,11:01:50,2,2,Laguna de Duero,0,0,0
+L1D,11:02:20,11:02:50,3,3,Laguna de Duero,0,0,0
+L1D,11:05:20,11:05:50,4,4,Laguna de Duero,0,0,0
+L1D,11:06:20,11:06:50,5,5,Laguna de Duero,0,0,0
+L1D,11:11:20,11:11:50,6,6,Laguna de Duero,0,0,0
+L1D,11:12:20,11:12:50,7,7,Laguna de Duero,0,0,0
+L1D,11:13:20,11:13:50,8,8,Laguna de Duero,0,0,0
+L1D,11:14:20,11:14:50,9,9,Laguna de Duero,0,0,0
+L1D,11:15:20,11:15:50,10,10,Laguna de Duero,0,0,0
+L1D,11:16:20,11:16:50,11,11,Laguna de Duero,0,0,0
+L1D,11:17:20,11:17:50,12,12,Laguna de Duero,0,0,0
+L1D,11:18:20,11:18:21,13,13,Laguna de Duero,0,0,1
+L2D,12:00:20,12:00:50,1,1,Laguna de Duero,0,0,1
+L2D,12:01:20,12:01:50,2,2,Laguna de Duero,0,0,0
+L2D,12:02:20,12:02:50,3,3,Laguna de Duero,0,0,0
+L2D,12:05:20,12:05:50,4,4,Laguna de Duero,0,0,0
+L2D,12:06:20,12:06:50,5,5,Laguna de Duero,0,0,0
+L2D,12:11:20,12:11:50,6,6,Laguna de Duero,0,0,0
+L2D,12:12:20,12:12:50,7,7,Laguna de Duero,0,0,0
+L2D,12:13:20,12:13:50,8,8,Laguna de Duero,0,0,0
+L2D,12:14:20,12:14:50,9,9,Laguna de Duero,0,0,0
+L2D,12:15:20,12:15:50,10,10,Laguna de Duero,0,0,0
+L2D,12:16:20,12:16:50,11,11,Laguna de Duero,0,0,0
+L2D,12:17:20,12:17:50,12,12,Laguna de Duero,0,0,0
+L2D,12:18:20,12:18:21,13,13,Laguna de Duero,0,0,1
+L3D,13:00:20,13:00:50,1,1,Laguna de Duero,0,0,1
+L3D,13:01:20,13:01:50,2,2,Laguna de Duero,0,0,0
+L3D,13:02:20,13:02:50,3,3,Laguna de Duero,0,0,0
+L3D,13:05:20,13:05:50,4,4,Laguna de Duero,0,0,0
+L3D,13:06:20,13:06:50,5,5,Laguna de Duero,0,0,0
+L3D,13:11:20,13:11:50,6,6,Laguna de Duero,0,0,0
+L3D,13:12:20,13:12:50,7,7,Laguna de Duero,0,0,0
+L3D,13:13:20,13:13:50,8,8,Laguna de Duero,0,0,0
+L3D,13:14:20,13:14:50,9,9,Laguna de Duero,0,0,0
+L3D,13:15:20,13:15:50,10,10,Laguna de Duero,0,0,0
+L3D,13:16:20,13:16:50,11,11,Laguna de Duero,0,0,0
+L3D,13:17:20,13:17:50,12,12,Laguna de Duero,0,0,0
+L3D,13:18:20,13:18:21,13,13,Laguna de Duero,0,0,1
+L4D,14:00:20,14:00:50,1,1,Laguna de Duero,0,0,1
+L4D,14:01:20,14:01:50,2,2,Laguna de Duero,0,0,0
+L4D,14:02:20,14:02:50,3,3,Laguna de Duero,0,0,0
+L4D,14:05:20,14:05:50,4,4,Laguna de Duero,0,0,0
+L4D,14:06:20,14:06:50,5,5,Laguna de Duero,0,0,0
+L4D,14:11:20,14:11:50,6,6,Laguna de Duero,0,0,0
+L4D,14:12:20,14:12:50,7,7,Laguna de Duero,0,0,0
+L4D,14:13:20,14:13:50,8,8,Laguna de Duero,0,0,0
+L4D,14:14:20,14:14:50,9,9,Laguna de Duero,0,0,0
+L4D,14:15:20,14:15:50,10,10,Laguna de Duero,0,0,0
+L4D,14:16:20,14:16:50,11,11,Laguna de Duero,0,0,0
+L4D,14:17:20,14:17:50,12,12,Laguna de Duero,0,0,0
+L4D,14:18:20,14:18:21,13,13,Laguna de Duero,0,0,1
+L5D,15:00:20,15:00:50,1,1,Laguna de Duero,0,0,1
+L5D,15:01:20,15:01:50,2,2,Laguna de Duero,0,0,0
+L5D,15:02:20,15:02:50,3,3,Laguna de Duero,0,0,0
+L5D,15:05:20,15:05:50,4,4,Laguna de Duero,0,0,0
+L5D,15:06:20,15:06:50,5,5,Laguna de Duero,0,0,0
+L5D,15:11:20,15:11:50,6,6,Laguna de Duero,0,0,0
+L5D,15:12:20,15:12:50,7,7,Laguna de Duero,0,0,0
+L5D,15:13:20,15:13:50,8,8,Laguna de Duero,0,0,0
+L5D,15:14:20,15:14:50,9,9,Laguna de Duero,0,0,0
+L5D,15:15:20,15:15:50,10,10,Laguna de Duero,0,0,0
+L5D,15:16:20,15:16:50,11,11,Laguna de Duero,0,0,0
+L5D,15:17:20,15:17:50,12,12,Laguna de Duero,0,0,0
+L5D,15:18:20,15:18:21,13,13,Laguna de Duero,0,0,1
+L6D,16:00:20,16:00:50,1,1,Laguna de Duero,0,0,1
+L6D,16:01:20,16:01:50,2,2,Laguna de Duero,0,0,0
+L6D,16:02:20,16:02:50,3,3,Laguna de Duero,0,0,0
+L6D,16:05:20,16:05:50,4,4,Laguna de Duero,0,0,0
+L6D,16:06:20,16:06:50,5,5,Laguna de Duero,0,0,0
+L6D,16:11:20,16:11:50,6,6,Laguna de Duero,0,0,0
+L6D,16:12:20,16:12:50,7,7,Laguna de Duero,0,0,0
+L6D,16:13:20,16:13:50,8,8,Laguna de Duero,0,0,0
+L6D,16:14:20,16:14:50,9,9,Laguna de Duero,0,0,0
+L6D,16:15:20,16:15:50,10,10,Laguna de Duero,0,0,0
+L6D,16:16:20,16:16:50,11,11,Laguna de Duero,0,0,0
+L6D,16:17:20,16:17:50,12,12,Laguna de Duero,0,0,0
+L6D,16:18:20,16:18:21,13,13,Laguna de Duero,0,0,1
+L7D,17:00:20,17:00:50,1,1,Laguna de Duero,0,0,1
+L7D,17:01:20,17:01:50,2,2,Laguna de Duero,0,0,0
+L7D,17:02:20,17:02:50,3,3,Laguna de Duero,0,0,0
+L7D,17:05:20,17:05:50,4,4,Laguna de Duero,0,0,0
+L7D,17:06:20,17:06:50,5,5,Laguna de Duero,0,0,0
+L7D,17:11:20,17:11:50,6,6,Laguna de Duero,0,0,0
+L7D,17:12:20,17:12:50,7,7,Laguna de Duero,0,0,0
+L7D,17:13:20,17:13:50,8,8,Laguna de Duero,0,0,0
+L7D,17:14:20,17:14:50,9,9,Laguna de Duero,0,0,0
+L7D,17:15:20,17:15:50,10,10,Laguna de Duero,0,0,0
+L7D,17:16:20,17:16:50,11,11,Laguna de Duero,0,0,0
+L7D,17:17:20,17:17:50,12,12,Laguna de Duero,0,0,0
+L7D,17:18:20,17:18:21,13,13,Laguna de Duero,0,0,1
+L8D,18:00:20,18:00:50,1,1,Laguna de Duero,0,0,1
+L8D,18:01:20,18:01:50,2,2,Laguna de Duero,0,0,0
+L8D,18:02:20,18:02:50,3,3,Laguna de Duero,0,0,0
+L8D,18:05:20,18:05:50,4,4,Laguna de Duero,0,0,0
+L8D,18:06:20,18:06:50,5,5,Laguna de Duero,0,0,0
+L8D,18:11:20,18:11:50,6,6,Laguna de Duero,0,0,0
+L8D,18:12:20,18:12:50,7,7,Laguna de Duero,0,0,0
+L8D,18:13:20,18:13:50,8,8,Laguna de Duero,0,0,0
+L8D,18:14:20,18:14:50,9,9,Laguna de Duero,0,0,0
+L8D,18:15:20,18:15:50,10,10,Laguna de Duero,0,0,0
+L8D,18:16:20,18:16:50,11,11,Laguna de Duero,0,0,0
+L8D,18:17:20,18:17:50,12,12,Laguna de Duero,0,0,0
+L8D,18:18:20,18:18:21,13,13,Laguna de Duero,0,0,1
+L9D,19:00:20,19:00:50,1,1,Laguna de Duero,0,0,1
+L9D,19:01:20,19:01:50,2,2,Laguna de Duero,0,0,0
+L9D,19:02:20,19:02:50,3,3,Laguna de Duero,0,0,0
+L9D,19:05:20,19:05:50,4,4,Laguna de Duero,0,0,0
+L9D,19:06:20,19:06:50,5,5,Laguna de Duero,0,0,0
+L9D,19:11:20,19:11:50,6,6,Laguna de Duero,0,0,0
+L9D,19:12:20,19:12:50,7,7,Laguna de Duero,0,0,0
+L9D,19:13:20,19:13:50,8,8,Laguna de Duero,0,0,0
+L9D,19:14:20,19:14:50,9,9,Laguna de Duero,0,0,0
+L9D,19:15:20,19:15:50,10,10,Laguna de Duero,0,0,0
+L9D,19:16:20,19:16:50,11,11,Laguna de Duero,0,0,0
+L9D,19:17:20,19:17:50,12,12,Laguna de Duero,0,0,0
+L9D,19:18:20,19:18:21,13,13,Laguna de Duero,0,0,1
+L10D,20:00:20,20:00:50,1,1,Laguna de Duero,0,0,1
+L10D,20:01:20,20:01:50,2,2,Laguna de Duero,0,0,0
+L10D,20:02:20,20:02:50,3,3,Laguna de Duero,0,0,0
+L10D,20:05:20,20:05:50,4,4,Laguna de Duero,0,0,0
+L10D,20:06:20,20:06:50,5,5,Laguna de Duero,0,0,0
+L10D,20:11:20,20:11:50,6,6,Laguna de Duero,0,0,0
+L10D,20:12:20,20:12:50,7,7,Laguna de Duero,0,0,0
+L10D,20:13:20,20:13:50,8,8,Laguna de Duero,0,0,0
+L10D,20:14:20,20:14:50,9,9,Laguna de Duero,0,0,0
+L10D,20:15:20,20:15:50,10,10,Laguna de Duero,0,0,0
+L10D,20:16:20,20:16:50,11,11,Laguna de Duero,0,0,0
+L10D,20:17:20,20:17:50,12,12,Laguna de Duero,0,0,0
+L10D,20:18:20,20:18:21,13,13,Laguna de Duero,0,0,1
+L11D,21:00:20,21:00:50,1,1,Laguna de Duero,0,0,1
+L11D,21:01:20,21:01:50,2,2,Laguna de Duero,0,0,0
+L11D,21:02:20,21:02:50,3,3,Laguna de Duero,0,0,0
+L11D,21:05:20,21:05:50,4,4,Laguna de Duero,0,0,0
+L11D,21:06:20,21:06:50,5,5,Laguna de Duero,0,0,0
+L11D,21:11:20,21:11:50,6,6,Laguna de Duero,0,0,0
+L11D,21:12:20,21:12:50,7,7,Laguna de Duero,0,0,0
+L11D,21:13:20,21:13:50,8,8,Laguna de Duero,0,0,0
+L11D,21:14:20,21:14:50,9,9,Laguna de Duero,0,0,0
+L11D,21:15:20,21:15:50,10,10,Laguna de Duero,0,0,0
+L11D,21:16:20,21:16:50,11,11,Laguna de Duero,0,0,0
+L11D,21:17:20,21:17:50,12,12,Laguna de Duero,0,0,0
+L11D,21:18:20,21:18:21,13,13,Laguna de Duero,0,0,1
+L12D,22:00:20,22:00:50,1,1,Laguna de Duero,0,0,1
+L12D,22:01:20,22:01:50,2,2,Laguna de Duero,0,0,0
+L12D,22:02:20,22:02:50,3,3,Laguna de Duero,0,0,0
+L12D,22:05:20,22:05:50,4,4,Laguna de Duero,0,0,0
+L12D,22:06:20,22:06:50,5,5,Laguna de Duero,0,0,0
+L12D,22:11:20,22:11:50,6,6,Laguna de Duero,0,0,0
+L12D,22:12:20,22:12:50,7,7,Laguna de Duero,0,0,0
+L12D,22:13:20,22:13:50,8,8,Laguna de Duero,0,0,0
+L12D,22:14:20,22:14:50,9,9,Laguna de Duero,0,0,0
+L12D,22:15:20,22:15:50,10,10,Laguna de Duero,0,0,0
+L12D,22:16:20,22:16:50,11,11,Laguna de Duero,0,0,0
+L12D,22:17:20,22:17:50,12,12,Laguna de Duero,0,0,0
+L12D,22:18:20,22:18:21,13,13,Laguna de Duero,0,0,1
+L13D,23:00:20,23:00:50,1,1,Laguna de Duero,0,0,1
+L13D,23:01:20,23:01:50,2,2,Laguna de Duero,0,0,0
+L13D,23:02:20,23:02:50,3,3,Laguna de Duero,0,0,0
+L13D,23:05:20,23:05:50,4,4,Laguna de Duero,0,0,0
+L13D,23:06:20,23:06:50,5,5,Laguna de Duero,0,0,0
+L13D,23:11:20,23:11:50,6,6,Laguna de Duero,0,0,0
+L13D,23:12:20,23:12:50,7,7,Laguna de Duero,0,0,0
+L13D,23:13:20,23:13:50,8,8,Laguna de Duero,0,0,0
+L13D,23:14:20,23:14:50,9,9,Laguna de Duero,0,0,0
+L13D,23:15:20,23:15:50,10,10,Laguna de Duero,0,0,0
+L13D,23:16:20,23:16:50,11,11,Laguna de Duero,0,0,0
+L13D,23:17:20,23:17:50,12,12,Laguna de Duero,0,0,0
+L13D,23:18:20,23:18:21,13,13,Laguna de Duero,0,0,1
+L01V,06:30:20,06:30:50,14,1,Valladolid,0,0,1
+L01V,06:31:20,06:31:50,15,2,Valladolid,0,0,0
+L01V,06:34:20,06:34:50,16,3,Valladolid,0,0,0
+L01V,06:35:20,06:35:50,17,4,Valladolid,0,0,0
+L01V,06:40:20,06:40:50,7,5,Valladolid,0,0,0
+L01V,06:41:20,06:41:50,8,6,Valladolid,0,0,0
+L01V,06:43:20,06:43:50,18,7,Valladolid,0,0,0
+L01V,06:44:20,06:44:50,19,8,Valladolid,0,0,0
+L01V,06:45:20,06:45:50,20,9,Valladolid,0,0,0
+L01V,06:46:20,06:46:50,21,10,Valladolid,0,0,0
+L01V,06:47:20,06:47:21,1,11,Valladolid,1,0,1
+L02V,07:00:20,07:00:50,14,1,Valladolid,0,0,1
+L02V,07:01:20,07:01:50,15,2,Valladolid,0,0,0
+L02V,07:04:20,07:04:50,16,3,Valladolid,0,0,0
+L02V,07:05:20,07:05:50,17,4,Valladolid,0,0,0
+L02V,07:10:20,07:10:50,7,5,Valladolid,0,0,0
+L02V,07:11:20,07:11:50,8,6,Valladolid,0,0,0
+L02V,07:13:20,07:13:50,18,7,Valladolid,0,0,0
+L02V,07:14:20,07:14:50,19,8,Valladolid,0,0,0
+L02V,07:15:20,07:15:50,20,9,Valladolid,0,0,0
+L02V,07:16:20,07:16:50,21,10,Valladolid,0,0,0
+L02V,07:17:20,07:17:21,1,11,Valladolid,1,0,1
+L03V,07:15:20,07:15:50,14,1,Valladolid,0,0,1
+L03V,07:16:20,07:16:50,15,2,Valladolid,0,0,0
+L03V,07:19:20,07:19:50,16,3,Valladolid,0,0,0
+L03V,07:20:20,07:20:50,17,4,Valladolid,0,0,0
+L03V,07:25:20,07:25:50,7,5,Valladolid,0,0,0
+L03V,07:26:20,07:26:50,8,6,Valladolid,0,0,0
+L03V,07:28:20,07:28:50,18,7,Valladolid,0,0,0
+L03V,07:29:20,07:29:50,19,8,Valladolid,0,0,0
+L03V,07:30:20,07:30:50,20,9,Valladolid,0,0,0
+L03V,07:31:20,07:31:50,21,10,Valladolid,0,0,0
+L03V,07:32:20,07:32:21,1,11,Valladolid,1,0,1
+L04V,07:30:20,07:30:50,14,1,Valladolid,0,0,1
+L04V,07:31:20,07:31:50,15,2,Valladolid,0,0,0
+L04V,07:34:20,07:34:50,16,3,Valladolid,0,0,0
+L04V,07:35:20,07:35:50,17,4,Valladolid,0,0,0
+L04V,07:40:20,07:40:50,7,5,Valladolid,0,0,0
+L04V,07:41:20,07:41:50,8,6,Valladolid,0,0,0
+L04V,07:43:20,07:43:50,18,7,Valladolid,0,0,0
+L04V,07:44:20,07:44:50,19,8,Valladolid,0,0,0
+L04V,07:45:20,07:45:50,20,9,Valladolid,0,0,0
+L04V,07:46:20,07:46:50,21,10,Valladolid,0,0,0
+L04V,07:47:20,07:47:21,1,11,Valladolid,1,0,1
+L05V,07:45:20,07:45:50,14,1,Valladolid,0,0,1
+L05V,07:46:20,07:46:50,15,2,Valladolid,0,0,0
+L05V,07:49:20,07:49:50,16,3,Valladolid,0,0,0
+L05V,07:50:20,07:50:50,17,4,Valladolid,0,0,0
+L05V,07:55:20,07:55:50,7,5,Valladolid,0,0,0
+L05V,07:56:20,07:56:50,8,6,Valladolid,0,0,0
+L05V,07:58:20,07:58:50,18,7,Valladolid,0,0,0
+L05V,07:59:20,07:59:50,19,8,Valladolid,0,0,0
+L05V,08:00:20,08:00:50,20,9,Valladolid,0,0,0
+L05V,08:01:20,08:01:50,21,10,Valladolid,0,0,0
+L05V,08:02:20,08:02:21,1,11,Valladolid,1,0,1
+L06V,08:00:20,08:00:50,14,1,Valladolid,0,0,1
+L06V,08:01:20,08:01:50,15,2,Valladolid,0,0,0
+L06V,08:04:20,08:04:50,16,3,Valladolid,0,0,0
+L06V,08:05:20,08:05:50,17,4,Valladolid,0,0,0
+L06V,08:10:20,08:10:50,7,5,Valladolid,0,0,0
+L06V,08:11:20,08:11:50,8,6,Valladolid,0,0,0
+L06V,08:13:20,08:13:50,18,7,Valladolid,0,0,0
+L06V,08:14:20,08:14:50,19,8,Valladolid,0,0,0
+L06V,08:15:20,08:15:50,20,9,Valladolid,0,0,0
+L06V,08:16:20,08:16:50,21,10,Valladolid,0,0,0
+L06V,08:17:20,08:17:21,1,11,Valladolid,1,0,1
+L07V,08:15:20,08:15:50,14,1,Valladolid,0,0,1
+L07V,08:16:20,08:16:50,15,2,Valladolid,0,0,0
+L07V,08:19:20,08:19:50,16,3,Valladolid,0,0,0
+L07V,08:20:20,08:20:50,17,4,Valladolid,0,0,0
+L07V,08:25:20,08:25:50,7,5,Valladolid,0,0,0
+L07V,08:26:20,08:26:50,8,6,Valladolid,0,0,0
+L07V,08:28:20,08:28:50,18,7,Valladolid,0,0,0
+L07V,08:29:20,08:29:50,19,8,Valladolid,0,0,0
+L07V,08:30:20,08:30:50,20,9,Valladolid,0,0,0
+L07V,08:31:20,08:31:50,21,10,Valladolid,0,0,0
+L07V,08:32:20,08:32:21,1,11,Valladolid,1,0,1
+L08V,08:30:20,08:30:50,14,1,Valladolid,0,0,1
+L08V,08:31:20,08:31:50,15,2,Valladolid,0,0,0
+L08V,08:34:20,08:34:50,16,3,Valladolid,0,0,0
+L08V,08:35:20,08:35:50,17,4,Valladolid,0,0,0
+L08V,08:40:20,08:40:50,7,5,Valladolid,0,0,0
+L08V,08:41:20,08:41:50,8,6,Valladolid,0,0,0
+L08V,08:43:20,08:43:50,18,7,Valladolid,0,0,0
+L08V,08:44:20,08:44:50,19,8,Valladolid,0,0,0
+L08V,08:45:20,08:45:50,20,9,Valladolid,0,0,0
+L08V,08:46:20,08:46:50,21,10,Valladolid,0,0,0
+L08V,08:47:20,08:47:21,1,11,Valladolid,1,0,1
+L09V,08:45:20,08:45:50,14,1,Valladolid,0,0,1
+L09V,08:46:20,08:46:50,15,2,Valladolid,0,0,0
+L09V,08:49:20,08:49:50,16,3,Valladolid,0,0,0
+L09V,08:50:20,08:50:50,17,4,Valladolid,0,0,0
+L09V,08:55:20,08:55:50,7,5,Valladolid,0,0,0
+L09V,08:56:20,08:56:50,8,6,Valladolid,0,0,0
+L09V,08:58:20,08:58:50,18,7,Valladolid,0,0,0
+L09V,08:59:20,08:59:50,19,8,Valladolid,0,0,0
+L09V,09:00:20,09:00:50,20,9,Valladolid,0,0,0
+L09V,09:01:20,09:01:50,21,10,Valladolid,0,0,0
+L09V,09:02:20,09:02:21,1,11,Valladolid,1,0,1
+L010V,09:00:20,09:00:50,14,1,Valladolid,0,0,1
+L010V,09:01:20,09:01:50,15,2,Valladolid,0,0,0
+L010V,09:04:20,09:04:50,16,3,Valladolid,0,0,0
+L010V,09:05:20,09:05:50,17,4,Valladolid,0,0,0
+L010V,09:10:20,09:10:50,7,5,Valladolid,0,0,0
+L010V,09:11:20,09:11:50,8,6,Valladolid,0,0,0
+L010V,09:13:20,09:13:50,18,7,Valladolid,0,0,0
+L010V,09:14:20,09:14:50,19,8,Valladolid,0,0,0
+L010V,09:15:20,09:15:50,20,9,Valladolid,0,0,0
+L010V,09:16:20,09:16:50,21,10,Valladolid,0,0,0
+L010V,09:17:20,09:17:21,1,11,Valladolid,1,0,1
+L011V,09:15:20,09:15:50,14,1,Valladolid,0,0,1
+L011V,09:16:20,09:16:50,15,2,Valladolid,0,0,0
+L011V,09:19:20,09:19:50,16,3,Valladolid,0,0,0
+L011V,09:20:20,09:20:50,17,4,Valladolid,0,0,0
+L011V,09:25:20,09:25:50,7,5,Valladolid,0,0,0
+L011V,09:26:20,09:26:50,8,6,Valladolid,0,0,0
+L011V,09:28:20,09:28:50,18,7,Valladolid,0,0,0
+L011V,09:29:20,09:29:50,19,8,Valladolid,0,0,0
+L011V,09:30:20,09:30:50,20,9,Valladolid,0,0,0
+L011V,09:31:20,09:31:50,21,10,Valladolid,0,0,0
+L011V,09:32:20,09:32:21,1,11,Valladolid,1,0,1
+L012V,09:30:20,09:30:50,14,1,Valladolid,0,0,1
+L012V,09:31:20,09:31:50,15,2,Valladolid,0,0,0
+L012V,09:34:20,09:34:50,16,3,Valladolid,0,0,0
+L012V,09:35:20,09:35:50,17,4,Valladolid,0,0,0
+L012V,09:40:20,09:40:50,7,5,Valladolid,0,0,0
+L012V,09:41:20,09:41:50,8,6,Valladolid,0,0,0
+L012V,09:43:20,09:43:50,18,7,Valladolid,0,0,0
+L012V,09:44:20,09:44:50,19,8,Valladolid,0,0,0
+L012V,09:45:20,09:45:50,20,9,Valladolid,0,0,0
+L012V,09:46:20,09:46:50,21,10,Valladolid,0,0,0
+L012V,09:47:20,09:47:21,1,11,Valladolid,1,0,1
+L013V,09:45:20,09:45:50,14,1,Valladolid,0,0,1
+L013V,09:46:20,09:46:50,15,2,Valladolid,0,0,0
+L013V,09:49:20,09:49:50,16,3,Valladolid,0,0,0
+L013V,09:50:20,09:50:50,17,4,Valladolid,0,0,0
+L013V,09:55:20,09:55:50,7,5,Valladolid,0,0,0
+L013V,09:56:20,09:56:50,8,6,Valladolid,0,0,0
+L013V,09:58:20,09:58:50,18,7,Valladolid,0,0,0
+L013V,09:59:20,09:59:50,19,8,Valladolid,0,0,0
+L013V,10:00:20,10:00:50,20,9,Valladolid,0,0,0
+L013V,10:01:20,10:01:50,21,10,Valladolid,0,0,0
+L013V,10:02:20,10:02:21,1,11,Valladolid,1,0,1
+L014V,10:00:20,10:00:50,14,1,Valladolid,0,0,1
+L014V,10:01:20,10:01:50,15,2,Valladolid,0,0,0
+L014V,10:04:20,10:04:50,16,3,Valladolid,0,0,0
+L014V,10:05:20,10:05:50,17,4,Valladolid,0,0,0
+L014V,10:10:20,10:10:50,7,5,Valladolid,0,0,0
+L014V,10:11:20,10:11:50,8,6,Valladolid,0,0,0
+L014V,10:13:20,10:13:50,18,7,Valladolid,0,0,0
+L014V,10:14:20,10:14:50,19,8,Valladolid,0,0,0
+L014V,10:15:20,10:15:50,20,9,Valladolid,0,0,0
+L014V,10:16:20,10:16:50,21,10,Valladolid,0,0,0
+L014V,10:17:20,10:17:21,1,11,Valladolid,1,0,1
+L015V,10:30:20,10:30:50,14,1,Valladolid,0,0,1
+L015V,10:31:20,10:31:50,15,2,Valladolid,0,0,0
+L015V,10:34:20,10:34:50,16,3,Valladolid,0,0,0
+L015V,10:35:20,10:35:50,17,4,Valladolid,0,0,0
+L015V,10:40:20,10:40:50,7,5,Valladolid,0,0,0
+L015V,10:41:20,10:41:50,8,6,Valladolid,0,0,0
+L015V,10:43:20,10:43:50,18,7,Valladolid,0,0,0
+L015V,10:44:20,10:44:50,19,8,Valladolid,0,0,0
+L015V,10:45:20,10:45:50,20,9,Valladolid,0,0,0
+L015V,10:46:20,10:46:50,21,10,Valladolid,0,0,0
+L015V,10:47:20,10:47:21,1,11,Valladolid,1,0,1
+L016V,11:00:20,11:00:50,14,1,Valladolid,0,0,1
+L016V,11:01:20,11:01:50,15,2,Valladolid,0,0,0
+L016V,11:04:20,11:04:50,16,3,Valladolid,0,0,0
+L016V,11:05:20,11:05:50,17,4,Valladolid,0,0,0
+L016V,11:10:20,11:10:50,7,5,Valladolid,0,0,0
+L016V,11:11:20,11:11:50,8,6,Valladolid,0,0,0
+L016V,11:13:20,11:13:50,18,7,Valladolid,0,0,0
+L016V,11:14:20,11:14:50,19,8,Valladolid,0,0,0
+L016V,11:15:20,11:15:50,20,9,Valladolid,0,0,0
+L016V,11:16:20,11:16:50,21,10,Valladolid,0,0,0
+L016V,11:17:20,11:17:21,1,11,Valladolid,1,0,1
+L017V,11:30:20,11:30:50,14,1,Valladolid,0,0,1
+L017V,11:31:20,11:31:50,15,2,Valladolid,0,0,0
+L017V,11:34:20,11:34:50,16,3,Valladolid,0,0,0
+L017V,11:35:20,11:35:50,17,4,Valladolid,0,0,0
+L017V,11:40:20,11:40:50,7,5,Valladolid,0,0,0
+L017V,11:41:20,11:41:50,8,6,Valladolid,0,0,0
+L017V,11:43:20,11:43:50,18,7,Valladolid,0,0,0
+L017V,11:44:20,11:44:50,19,8,Valladolid,0,0,0
+L017V,11:45:20,11:45:50,20,9,Valladolid,0,0,0
+L017V,11:46:20,11:46:50,21,10,Valladolid,0,0,0
+L017V,11:47:20,11:47:21,1,11,Valladolid,1,0,1
+L018V,12:00:20,12:00:50,14,1,Valladolid,0,0,1
+L018V,12:01:20,12:01:50,15,2,Valladolid,0,0,0
+L018V,12:04:20,12:04:50,16,3,Valladolid,0,0,0
+L018V,12:05:20,12:05:50,17,4,Valladolid,0,0,0
+L018V,12:10:20,12:10:50,7,5,Valladolid,0,0,0
+L018V,12:11:20,12:11:50,8,6,Valladolid,0,0,0
+L018V,12:13:20,12:13:50,18,7,Valladolid,0,0,0
+L018V,12:14:20,12:14:50,19,8,Valladolid,0,0,0
+L018V,12:15:20,12:15:50,20,9,Valladolid,0,0,0
+L018V,12:16:20,12:16:50,21,10,Valladolid,0,0,0
+L018V,12:17:20,12:17:21,1,11,Valladolid,1,0,1
+L019V,12:30:20,12:30:50,14,1,Valladolid,0,0,1
+L019V,12:31:20,12:31:50,15,2,Valladolid,0,0,0
+L019V,12:34:20,12:34:50,16,3,Valladolid,0,0,0
+L019V,12:35:20,12:35:50,17,4,Valladolid,0,0,0
+L019V,12:40:20,12:40:50,7,5,Valladolid,0,0,0
+L019V,12:41:20,12:41:50,8,6,Valladolid,0,0,0
+L019V,12:43:20,12:43:50,18,7,Valladolid,0,0,0
+L019V,12:44:20,12:44:50,19,8,Valladolid,0,0,0
+L019V,12:45:20,12:45:50,20,9,Valladolid,0,0,0
+L019V,12:46:20,12:46:50,21,10,Valladolid,0,0,0
+L019V,12:47:20,12:47:21,1,11,Valladolid,1,0,1
+L020V,13:00:20,13:00:50,14,1,Valladolid,0,0,1
+L020V,13:01:20,13:01:50,15,2,Valladolid,0,0,0
+L020V,13:04:20,13:04:50,16,3,Valladolid,0,0,0
+L020V,13:05:20,13:05:50,17,4,Valladolid,0,0,0
+L020V,13:10:20,13:10:50,7,5,Valladolid,0,0,0
+L020V,13:11:20,13:11:50,8,6,Valladolid,0,0,0
+L020V,13:13:20,13:13:50,18,7,Valladolid,0,0,0
+L020V,13:14:20,13:14:50,19,8,Valladolid,0,0,0
+L020V,13:15:20,13:15:50,20,9,Valladolid,0,0,0
+L020V,13:16:20,13:16:50,21,10,Valladolid,0,0,0
+L020V,13:17:20,13:17:21,1,11,Valladolid,1,0,1
+L021V,13:30:20,13:30:50,14,1,Valladolid,0,0,1
+L021V,13:31:20,13:31:50,15,2,Valladolid,0,0,0
+L021V,13:34:20,13:34:50,16,3,Valladolid,0,0,0
+L021V,13:35:20,13:35:50,17,4,Valladolid,0,0,0
+L021V,13:40:20,13:40:50,7,5,Valladolid,0,0,0
+L021V,13:41:20,13:41:50,8,6,Valladolid,0,0,0
+L021V,13:43:20,13:43:50,18,7,Valladolid,0,0,0
+L021V,13:44:20,13:44:50,19,8,Valladolid,0,0,0
+L021V,13:45:20,13:45:50,20,9,Valladolid,0,0,0
+L021V,13:46:20,13:46:50,21,10,Valladolid,0,0,0
+L021V,13:47:20,13:47:21,1,11,Valladolid,1,0,1
+L022V,13:45:20,13:45:50,14,1,Valladolid,0,0,1
+L022V,13:46:20,13:46:50,15,2,Valladolid,0,0,0
+L022V,13:49:20,13:49:50,16,3,Valladolid,0,0,0
+L022V,13:50:20,13:50:50,17,4,Valladolid,0,0,0
+L022V,13:55:20,13:55:50,7,5,Valladolid,0,0,0
+L022V,13:56:20,13:56:50,8,6,Valladolid,0,0,0
+L022V,13:58:20,13:58:50,18,7,Valladolid,0,0,0
+L022V,13:59:20,13:59:50,19,8,Valladolid,0,0,0
+L022V,14:00:20,14:00:50,20,9,Valladolid,0,0,0
+L022V,14:01:20,14:01:50,21,10,Valladolid,0,0,0
+L022V,14:02:20,14:02:21,1,11,Valladolid,1,0,1
+L023V,14:00:20,14:00:50,14,1,Valladolid,0,0,1
+L023V,14:01:20,14:01:50,15,2,Valladolid,0,0,0
+L023V,14:04:20,14:04:50,16,3,Valladolid,0,0,0
+L023V,14:05:20,14:05:50,17,4,Valladolid,0,0,0
+L023V,14:10:20,14:10:50,7,5,Valladolid,0,0,0
+L023V,14:11:20,14:11:50,8,6,Valladolid,0,0,0
+L023V,14:13:20,14:13:50,18,7,Valladolid,0,0,0
+L023V,14:14:20,14:14:50,19,8,Valladolid,0,0,0
+L023V,14:15:20,14:15:50,20,9,Valladolid,0,0,0
+L023V,14:16:20,14:16:50,21,10,Valladolid,0,0,0
+L023V,14:17:20,14:17:21,1,11,Valladolid,1,0,1
+L024V,14:30:20,14:30:50,14,1,Valladolid,0,0,1
+L024V,14:31:20,14:31:50,15,2,Valladolid,0,0,0
+L024V,14:34:20,14:34:50,16,3,Valladolid,0,0,0
+L024V,14:35:20,14:35:50,17,4,Valladolid,0,0,0
+L024V,14:40:20,14:40:50,7,5,Valladolid,0,0,0
+L024V,14:41:20,14:41:50,8,6,Valladolid,0,0,0
+L024V,14:43:20,14:43:50,18,7,Valladolid,0,0,0
+L024V,14:44:20,14:44:50,19,8,Valladolid,0,0,0
+L024V,14:45:20,14:45:50,20,9,Valladolid,0,0,0
+L024V,14:46:20,14:46:50,21,10,Valladolid,0,0,0
+L024V,14:47:20,14:47:21,1,11,Valladolid,1,0,1
+L025V,15:00:20,15:00:50,14,1,Valladolid,0,0,1
+L025V,15:01:20,15:01:50,15,2,Valladolid,0,0,0
+L025V,15:04:20,15:04:50,16,3,Valladolid,0,0,0
+L025V,15:05:20,15:05:50,17,4,Valladolid,0,0,0
+L025V,15:10:20,15:10:50,7,5,Valladolid,0,0,0
+L025V,15:11:20,15:11:50,8,6,Valladolid,0,0,0
+L025V,15:13:20,15:13:50,18,7,Valladolid,0,0,0
+L025V,15:14:20,15:14:50,19,8,Valladolid,0,0,0
+L025V,15:15:20,15:15:50,20,9,Valladolid,0,0,0
+L025V,15:16:20,15:16:50,21,10,Valladolid,0,0,0
+L025V,15:17:20,15:17:21,1,11,Valladolid,1,0,1
+L026V,15:30:20,15:30:50,14,1,Valladolid,0,0,1
+L026V,15:31:20,15:31:50,15,2,Valladolid,0,0,0
+L026V,15:34:20,15:34:50,16,3,Valladolid,0,0,0
+L026V,15:35:20,15:35:50,17,4,Valladolid,0,0,0
+L026V,15:40:20,15:40:50,7,5,Valladolid,0,0,0
+L026V,15:41:20,15:41:50,8,6,Valladolid,0,0,0
+L026V,15:43:20,15:43:50,18,7,Valladolid,0,0,0
+L026V,15:44:20,15:44:50,19,8,Valladolid,0,0,0
+L026V,15:45:20,15:45:50,20,9,Valladolid,0,0,0
+L026V,15:46:20,15:46:50,21,10,Valladolid,0,0,0
+L026V,15:47:20,15:47:21,1,11,Valladolid,1,0,1
+L027V,16:00:20,16:00:50,14,1,Valladolid,0,0,1
+L027V,16:01:20,16:01:50,15,2,Valladolid,0,0,0
+L027V,16:04:20,16:04:50,16,3,Valladolid,0,0,0
+L027V,16:05:20,16:05:50,17,4,Valladolid,0,0,0
+L027V,16:10:20,16:10:50,7,5,Valladolid,0,0,0
+L027V,16:11:20,16:11:50,8,6,Valladolid,0,0,0
+L027V,16:13:20,16:13:50,18,7,Valladolid,0,0,0
+L027V,16:14:20,16:14:50,19,8,Valladolid,0,0,0
+L027V,16:15:20,16:15:50,20,9,Valladolid,0,0,0
+L027V,16:16:20,16:16:50,21,10,Valladolid,0,0,0
+L027V,16:17:20,16:17:21,1,11,Valladolid,1,0,1
+L028V,16:30:20,16:30:50,14,1,Valladolid,0,0,1
+L028V,16:31:20,16:31:50,15,2,Valladolid,0,0,0
+L028V,16:34:20,16:34:50,16,3,Valladolid,0,0,0
+L028V,16:35:20,16:35:50,17,4,Valladolid,0,0,0
+L028V,16:40:20,16:40:50,7,5,Valladolid,0,0,0
+L028V,16:41:20,16:41:50,8,6,Valladolid,0,0,0
+L028V,16:43:20,16:43:50,18,7,Valladolid,0,0,0
+L028V,16:44:20,16:44:50,19,8,Valladolid,0,0,0
+L028V,16:45:20,16:45:50,20,9,Valladolid,0,0,0
+L028V,16:46:20,16:46:50,21,10,Valladolid,0,0,0
+L028V,16:47:20,16:47:21,1,11,Valladolid,1,0,1
+L029V,17:00:20,17:00:50,14,1,Valladolid,0,0,1
+L029V,17:01:20,17:01:50,15,2,Valladolid,0,0,0
+L029V,17:04:20,17:04:50,16,3,Valladolid,0,0,0
+L029V,17:05:20,17:05:50,17,4,Valladolid,0,0,0
+L029V,17:10:20,17:10:50,7,5,Valladolid,0,0,0
+L029V,17:11:20,17:11:50,8,6,Valladolid,0,0,0
+L029V,17:13:20,17:13:50,18,7,Valladolid,0,0,0
+L029V,17:14:20,17:14:50,19,8,Valladolid,0,0,0
+L029V,17:15:20,17:15:50,20,9,Valladolid,0,0,0
+L029V,17:16:20,17:16:50,21,10,Valladolid,0,0,0
+L029V,17:17:20,17:17:21,1,11,Valladolid,1,0,1
+L030V,17:30:20,17:30:50,14,1,Valladolid,0,0,1
+L030V,17:31:20,17:31:50,15,2,Valladolid,0,0,0
+L030V,17:34:20,17:34:50,16,3,Valladolid,0,0,0
+L030V,17:35:20,17:35:50,17,4,Valladolid,0,0,0
+L030V,17:40:20,17:40:50,7,5,Valladolid,0,0,0
+L030V,17:41:20,17:41:50,8,6,Valladolid,0,0,0
+L030V,17:43:20,17:43:50,18,7,Valladolid,0,0,0
+L030V,17:44:20,17:44:50,19,8,Valladolid,0,0,0
+L030V,17:45:20,17:45:50,20,9,Valladolid,0,0,0
+L030V,17:46:20,17:46:50,21,10,Valladolid,0,0,0
+L030V,17:47:20,17:47:21,1,11,Valladolid,1,0,1
+L031V,18:00:20,18:00:50,14,1,Valladolid,0,0,1
+L031V,18:01:20,18:01:50,15,2,Valladolid,0,0,0
+L031V,18:04:20,18:04:50,16,3,Valladolid,0,0,0
+L031V,18:05:20,18:05:50,17,4,Valladolid,0,0,0
+L031V,18:10:20,18:10:50,7,5,Valladolid,0,0,0
+L031V,18:11:20,18:11:50,8,6,Valladolid,0,0,0
+L031V,18:13:20,18:13:50,18,7,Valladolid,0,0,0
+L031V,18:14:20,18:14:50,19,8,Valladolid,0,0,0
+L031V,18:15:20,18:15:50,20,9,Valladolid,0,0,0
+L031V,18:16:20,18:16:50,21,10,Valladolid,0,0,0
+L031V,18:17:20,18:17:21,1,11,Valladolid,1,0,1
+L032V,18:30:20,18:30:50,14,1,Valladolid,0,0,1
+L032V,18:31:20,18:31:50,15,2,Valladolid,0,0,0
+L032V,18:34:20,18:34:50,16,3,Valladolid,0,0,0
+L032V,18:35:20,18:35:50,17,4,Valladolid,0,0,0
+L032V,18:40:20,18:40:50,7,5,Valladolid,0,0,0
+L032V,18:41:20,18:41:50,8,6,Valladolid,0,0,0
+L032V,18:43:20,18:43:50,18,7,Valladolid,0,0,0
+L032V,18:44:20,18:44:50,19,8,Valladolid,0,0,0
+L032V,18:45:20,18:45:50,20,9,Valladolid,0,0,0
+L032V,18:46:20,18:46:50,21,10,Valladolid,0,0,0
+L032V,18:47:20,18:47:21,1,11,Valladolid,1,0,1
+L033V,19:00:20,19:00:50,14,1,Valladolid,0,0,1
+L033V,19:01:20,19:01:50,15,2,Valladolid,0,0,0
+L033V,19:04:20,19:04:50,16,3,Valladolid,0,0,0
+L033V,19:05:20,19:05:50,17,4,Valladolid,0,0,0
+L033V,19:10:20,19:10:50,7,5,Valladolid,0,0,0
+L033V,19:11:20,19:11:50,8,6,Valladolid,0,0,0
+L033V,19:13:20,19:13:50,18,7,Valladolid,0,0,0
+L033V,19:14:20,19:14:50,19,8,Valladolid,0,0,0
+L033V,19:15:20,19:15:50,20,9,Valladolid,0,0,0
+L033V,19:16:20,19:16:50,21,10,Valladolid,0,0,0
+L033V,19:17:20,19:17:21,1,11,Valladolid,1,0,1
+L034V,19:30:20,19:30:50,14,1,Valladolid,0,0,1
+L034V,19:31:20,19:31:50,15,2,Valladolid,0,0,0
+L034V,19:34:20,19:34:50,16,3,Valladolid,0,0,0
+L034V,19:35:20,19:35:50,17,4,Valladolid,0,0,0
+L034V,19:40:20,19:40:50,7,5,Valladolid,0,0,0
+L034V,19:41:20,19:41:50,8,6,Valladolid,0,0,0
+L034V,19:43:20,19:43:50,18,7,Valladolid,0,0,0
+L034V,19:44:20,19:44:50,19,8,Valladolid,0,0,0
+L034V,19:45:20,19:45:50,20,9,Valladolid,0,0,0
+L034V,19:46:20,19:46:50,21,10,Valladolid,0,0,0
+L034V,19:47:20,19:47:21,1,11,Valladolid,1,0,1
+L035V,20:00:20,20:00:50,14,1,Valladolid,0,0,1
+L035V,20:01:20,20:01:50,15,2,Valladolid,0,0,0
+L035V,20:04:20,20:04:50,16,3,Valladolid,0,0,0
+L035V,20:05:20,20:05:50,17,4,Valladolid,0,0,0
+L035V,20:10:20,20:10:50,7,5,Valladolid,0,0,0
+L035V,20:11:20,20:11:50,8,6,Valladolid,0,0,0
+L035V,20:13:20,20:13:50,18,7,Valladolid,0,0,0
+L035V,20:14:20,20:14:50,19,8,Valladolid,0,0,0
+L035V,20:15:20,20:15:50,20,9,Valladolid,0,0,0
+L035V,20:16:20,20:16:50,21,10,Valladolid,0,0,0
+L035V,20:17:20,20:17:21,1,11,Valladolid,1,0,1
+L036V,20:30:20,20:30:50,14,1,Valladolid,0,0,1
+L036V,20:31:20,20:31:50,15,2,Valladolid,0,0,0
+L036V,20:34:20,20:34:50,16,3,Valladolid,0,0,0
+L036V,20:35:20,20:35:50,17,4,Valladolid,0,0,0
+L036V,20:40:20,20:40:50,7,5,Valladolid,0,0,0
+L036V,20:41:20,20:41:50,8,6,Valladolid,0,0,0
+L036V,20:43:20,20:43:50,18,7,Valladolid,0,0,0
+L036V,20:44:20,20:44:50,19,8,Valladolid,0,0,0
+L036V,20:45:20,20:45:50,20,9,Valladolid,0,0,0
+L036V,20:46:20,20:46:50,21,10,Valladolid,0,0,0
+L036V,20:47:20,20:47:21,1,11,Valladolid,1,0,1
+L037V,21:00:20,21:00:50,14,1,Valladolid,0,0,1
+L037V,21:01:20,21:01:50,15,2,Valladolid,0,0,0
+L037V,21:04:20,21:04:50,16,3,Valladolid,0,0,0
+L037V,21:05:20,21:05:50,17,4,Valladolid,0,0,0
+L037V,21:10:20,21:10:50,7,5,Valladolid,0,0,0
+L037V,21:11:20,21:11:50,8,6,Valladolid,0,0,0
+L037V,21:13:20,21:13:50,18,7,Valladolid,0,0,0
+L037V,21:14:20,21:14:50,19,8,Valladolid,0,0,0
+L037V,21:15:20,21:15:50,20,9,Valladolid,0,0,0
+L037V,21:16:20,21:16:50,21,10,Valladolid,0,0,0
+L037V,21:17:20,21:17:21,1,11,Valladolid,1,0,1
+L038V,21:30:20,21:30:50,14,1,Valladolid,0,0,1
+L038V,21:31:20,21:31:50,15,2,Valladolid,0,0,0
+L038V,21:34:20,21:34:50,16,3,Valladolid,0,0,0
+L038V,21:35:20,21:35:50,17,4,Valladolid,0,0,0
+L038V,21:40:20,21:40:50,7,5,Valladolid,0,0,0
+L038V,21:41:20,21:41:50,8,6,Valladolid,0,0,0
+L038V,21:43:20,21:43:50,18,7,Valladolid,0,0,0
+L038V,21:44:20,21:44:50,19,8,Valladolid,0,0,0
+L038V,21:45:20,21:45:50,20,9,Valladolid,0,0,0
+L038V,21:46:20,21:46:50,21,10,Valladolid,0,0,0
+L038V,21:47:20,21:47:21,1,11,Valladolid,1,0,1
+L039V,22:00:20,22:00:50,14,1,Valladolid,0,0,1
+L039V,22:01:20,22:01:50,15,2,Valladolid,0,0,0
+L039V,22:04:20,22:04:50,16,3,Valladolid,0,0,0
+L039V,22:05:20,22:05:50,17,4,Valladolid,0,0,0
+L039V,22:10:20,22:10:50,7,5,Valladolid,0,0,0
+L039V,22:11:20,22:11:50,8,6,Valladolid,0,0,0
+L039V,22:13:20,22:13:50,18,7,Valladolid,0,0,0
+L039V,22:14:20,22:14:50,19,8,Valladolid,0,0,0
+L039V,22:15:20,22:15:50,20,9,Valladolid,0,0,0
+L039V,22:16:20,22:16:50,21,10,Valladolid,0,0,0
+L039V,22:17:20,22:17:21,1,11,Valladolid,1,0,1
+L1VV,06:30:20,06:30:50,14,1,Valladolid,0,0,1
+L1VV,06:31:20,06:31:50,15,2,Valladolid,0,0,0
+L1VV,06:34:20,06:34:50,16,3,Valladolid,0,0,0
+L1VV,06:35:20,06:35:50,17,4,Valladolid,0,0,0
+L1VV,06:40:20,06:40:50,7,5,Valladolid,0,0,0
+L1VV,06:41:20,06:41:50,8,6,Valladolid,0,0,0
+L1VV,06:43:20,06:43:50,18,7,Valladolid,0,0,0
+L1VV,06:44:20,06:44:50,19,8,Valladolid,0,0,0
+L1VV,06:45:20,06:45:50,20,9,Valladolid,0,0,0
+L1VV,06:46:20,06:46:50,21,10,Valladolid,0,0,0
+L1VV,06:47:20,06:47:21,1,11,Valladolid,1,0,1
+L2VV,07:00:20,07:00:50,14,1,Valladolid,0,0,1
+L2VV,07:01:20,07:01:50,15,2,Valladolid,0,0,0
+L2VV,07:04:20,07:04:50,16,3,Valladolid,0,0,0
+L2VV,07:05:20,07:05:50,17,4,Valladolid,0,0,0
+L2VV,07:10:20,07:10:50,7,5,Valladolid,0,0,0
+L2VV,07:11:20,07:11:50,8,6,Valladolid,0,0,0
+L2VV,07:13:20,07:13:50,18,7,Valladolid,0,0,0
+L2VV,07:14:20,07:14:50,19,8,Valladolid,0,0,0
+L2VV,07:15:20,07:15:50,20,9,Valladolid,0,0,0
+L2VV,07:16:20,07:16:50,21,10,Valladolid,0,0,0
+L2VV,07:17:20,07:17:21,1,11,Valladolid,1,0,1
+L3VV,07:15:20,07:15:50,14,1,Valladolid,0,0,1
+L3VV,07:16:20,07:16:50,15,2,Valladolid,0,0,0
+L3VV,07:19:20,07:19:50,16,3,Valladolid,0,0,0
+L3VV,07:20:20,07:20:50,17,4,Valladolid,0,0,0
+L3VV,07:25:20,07:25:50,7,5,Valladolid,0,0,0
+L3VV,07:26:20,07:26:50,8,6,Valladolid,0,0,0
+L3VV,07:28:20,07:28:50,18,7,Valladolid,0,0,0
+L3VV,07:29:20,07:29:50,19,8,Valladolid,0,0,0
+L3VV,07:30:20,07:30:50,20,9,Valladolid,0,0,0
+L3VV,07:31:20,07:31:50,21,10,Valladolid,0,0,0
+L3VV,07:32:20,07:32:21,1,11,Valladolid,1,0,1
+L4VV,07:30:20,07:30:50,14,1,Valladolid,0,0,1
+L4VV,07:31:20,07:31:50,15,2,Valladolid,0,0,0
+L4VV,07:34:20,07:34:50,16,3,Valladolid,0,0,0
+L4VV,07:35:20,07:35:50,17,4,Valladolid,0,0,0
+L4VV,07:40:20,07:40:50,7,5,Valladolid,0,0,0
+L4VV,07:41:20,07:41:50,8,6,Valladolid,0,0,0
+L4VV,07:43:20,07:43:50,18,7,Valladolid,0,0,0
+L4VV,07:44:20,07:44:50,19,8,Valladolid,0,0,0
+L4VV,07:45:20,07:45:50,20,9,Valladolid,0,0,0
+L4VV,07:46:20,07:46:50,21,10,Valladolid,0,0,0
+L4VV,07:47:20,07:47:21,1,11,Valladolid,1,0,1
+L5VV,07:45:20,07:45:50,14,1,Valladolid,0,0,1
+L5VV,07:46:20,07:46:50,15,2,Valladolid,0,0,0
+L5VV,07:49:20,07:49:50,16,3,Valladolid,0,0,0
+L5VV,07:50:20,07:50:50,17,4,Valladolid,0,0,0
+L5VV,07:55:20,07:55:50,7,5,Valladolid,0,0,0
+L5VV,07:56:20,07:56:50,8,6,Valladolid,0,0,0
+L5VV,07:58:20,07:58:50,18,7,Valladolid,0,0,0
+L5VV,07:59:20,07:59:50,19,8,Valladolid,0,0,0
+L5VV,08:00:20,08:00:50,20,9,Valladolid,0,0,0
+L5VV,08:01:20,08:01:50,21,10,Valladolid,0,0,0
+L5VV,08:02:20,08:02:21,1,11,Valladolid,1,0,1
+L6VV,08:00:20,08:00:50,14,1,Valladolid,0,0,1
+L6VV,08:01:20,08:01:50,15,2,Valladolid,0,0,0
+L6VV,08:04:20,08:04:50,16,3,Valladolid,0,0,0
+L6VV,08:05:20,08:05:50,17,4,Valladolid,0,0,0
+L6VV,08:10:20,08:10:50,7,5,Valladolid,0,0,0
+L6VV,08:11:20,08:11:50,8,6,Valladolid,0,0,0
+L6VV,08:13:20,08:13:50,18,7,Valladolid,0,0,0
+L6VV,08:14:20,08:14:50,19,8,Valladolid,0,0,0
+L6VV,08:15:20,08:15:50,20,9,Valladolid,0,0,0
+L6VV,08:16:20,08:16:50,21,10,Valladolid,0,0,0
+L6VV,08:17:20,08:17:21,1,11,Valladolid,1,0,1
+L7VV,08:15:20,08:15:50,14,1,Valladolid,0,0,1
+L7VV,08:16:20,08:16:50,15,2,Valladolid,0,0,0
+L7VV,08:19:20,08:19:50,16,3,Valladolid,0,0,0
+L7VV,08:20:20,08:20:50,17,4,Valladolid,0,0,0
+L7VV,08:25:20,08:25:50,7,5,Valladolid,0,0,0
+L7VV,08:26:20,08:26:50,8,6,Valladolid,0,0,0
+L7VV,08:28:20,08:28:50,18,7,Valladolid,0,0,0
+L7VV,08:29:20,08:29:50,19,8,Valladolid,0,0,0
+L7VV,08:30:20,08:30:50,20,9,Valladolid,0,0,0
+L7VV,08:31:20,08:31:50,21,10,Valladolid,0,0,0
+L7VV,08:32:20,08:32:21,1,11,Valladolid,1,0,1
+L8VV,08:30:20,08:30:50,14,1,Valladolid,0,0,1
+L8VV,08:31:20,08:31:50,15,2,Valladolid,0,0,0
+L8VV,08:34:20,08:34:50,16,3,Valladolid,0,0,0
+L8VV,08:35:20,08:35:50,17,4,Valladolid,0,0,0
+L8VV,08:40:20,08:40:50,7,5,Valladolid,0,0,0
+L8VV,08:41:20,08:41:50,8,6,Valladolid,0,0,0
+L8VV,08:43:20,08:43:50,18,7,Valladolid,0,0,0
+L8VV,08:44:20,08:44:50,19,8,Valladolid,0,0,0
+L8VV,08:45:20,08:45:50,20,9,Valladolid,0,0,0
+L8VV,08:46:20,08:46:50,21,10,Valladolid,0,0,0
+L8VV,08:47:20,08:47:21,1,11,Valladolid,1,0,1
+L9VV,08:45:20,08:45:50,14,1,Valladolid,0,0,1
+L9VV,08:46:20,08:46:50,15,2,Valladolid,0,0,0
+L9VV,08:49:20,08:49:50,16,3,Valladolid,0,0,0
+L9VV,08:50:20,08:50:50,17,4,Valladolid,0,0,0
+L9VV,08:55:20,08:55:50,7,5,Valladolid,0,0,0
+L9VV,08:56:20,08:56:50,8,6,Valladolid,0,0,0
+L9VV,08:58:20,08:58:50,18,7,Valladolid,0,0,0
+L9VV,08:59:20,08:59:50,19,8,Valladolid,0,0,0
+L9VV,09:00:20,09:00:50,20,9,Valladolid,0,0,0
+L9VV,09:01:20,09:01:50,21,10,Valladolid,0,0,0
+L9VV,09:02:20,09:02:21,1,11,Valladolid,1,0,1
+L10VV,09:00:20,09:00:50,14,1,Valladolid,0,0,1
+L10VV,09:01:20,09:01:50,15,2,Valladolid,0,0,0
+L10VV,09:04:20,09:04:50,16,3,Valladolid,0,0,0
+L10VV,09:05:20,09:05:50,17,4,Valladolid,0,0,0
+L10VV,09:10:20,09:10:50,7,5,Valladolid,0,0,0
+L10VV,09:11:20,09:11:50,8,6,Valladolid,0,0,0
+L10VV,09:13:20,09:13:50,18,7,Valladolid,0,0,0
+L10VV,09:14:20,09:14:50,19,8,Valladolid,0,0,0
+L10VV,09:15:20,09:15:50,20,9,Valladolid,0,0,0
+L10VV,09:16:20,09:16:50,21,10,Valladolid,0,0,0
+L10VV,09:17:20,09:17:21,1,11,Valladolid,1,0,1
+L11VV,09:15:20,09:15:50,14,1,Valladolid,0,0,1
+L11VV,09:16:20,09:16:50,15,2,Valladolid,0,0,0
+L11VV,09:19:20,09:19:50,16,3,Valladolid,0,0,0
+L11VV,09:20:20,09:20:50,17,4,Valladolid,0,0,0
+L11VV,09:25:20,09:25:50,7,5,Valladolid,0,0,0
+L11VV,09:26:20,09:26:50,8,6,Valladolid,0,0,0
+L11VV,09:28:20,09:28:50,18,7,Valladolid,0,0,0
+L11VV,09:29:20,09:29:50,19,8,Valladolid,0,0,0
+L11VV,09:30:20,09:30:50,20,9,Valladolid,0,0,0
+L11VV,09:31:20,09:31:50,21,10,Valladolid,0,0,0
+L11VV,09:32:20,09:32:21,1,11,Valladolid,1,0,1
+L12VV,09:30:20,09:30:50,14,1,Valladolid,0,0,1
+L12VV,09:31:20,09:31:50,15,2,Valladolid,0,0,0
+L12VV,09:34:20,09:34:50,16,3,Valladolid,0,0,0
+L12VV,09:35:20,09:35:50,17,4,Valladolid,0,0,0
+L12VV,09:40:20,09:40:50,7,5,Valladolid,0,0,0
+L12VV,09:41:20,09:41:50,8,6,Valladolid,0,0,0
+L12VV,09:43:20,09:43:50,18,7,Valladolid,0,0,0
+L12VV,09:44:20,09:44:50,19,8,Valladolid,0,0,0
+L12VV,09:45:20,09:45:50,20,9,Valladolid,0,0,0
+L12VV,09:46:20,09:46:50,21,10,Valladolid,0,0,0
+L12VV,09:47:20,09:47:21,1,11,Valladolid,1,0,1
+L13VV,09:45:20,09:45:50,14,1,Valladolid,0,0,1
+L13VV,09:46:20,09:46:50,15,2,Valladolid,0,0,0
+L13VV,09:49:20,09:49:50,16,3,Valladolid,0,0,0
+L13VV,09:50:20,09:50:50,17,4,Valladolid,0,0,0
+L13VV,09:55:20,09:55:50,7,5,Valladolid,0,0,0
+L13VV,09:56:20,09:56:50,8,6,Valladolid,0,0,0
+L13VV,09:58:20,09:58:50,18,7,Valladolid,0,0,0
+L13VV,09:59:20,09:59:50,19,8,Valladolid,0,0,0
+L13VV,10:00:20,10:00:50,20,9,Valladolid,0,0,0
+L13VV,10:01:20,10:01:50,21,10,Valladolid,0,0,0
+L13VV,10:02:20,10:02:21,1,11,Valladolid,1,0,1
+L14VV,10:00:20,10:00:50,14,1,Valladolid,0,0,1
+L14VV,10:01:20,10:01:50,15,2,Valladolid,0,0,0
+L14VV,10:04:20,10:04:50,16,3,Valladolid,0,0,0
+L14VV,10:05:20,10:05:50,17,4,Valladolid,0,0,0
+L14VV,10:10:20,10:10:50,7,5,Valladolid,0,0,0
+L14VV,10:11:20,10:11:50,8,6,Valladolid,0,0,0
+L14VV,10:13:20,10:13:50,18,7,Valladolid,0,0,0
+L14VV,10:14:20,10:14:50,19,8,Valladolid,0,0,0
+L14VV,10:15:20,10:15:50,20,9,Valladolid,0,0,0
+L14VV,10:16:20,10:16:50,21,10,Valladolid,0,0,0
+L14VV,10:17:20,10:17:21,1,11,Valladolid,1,0,1
+L15VV,10:30:20,10:30:50,14,1,Valladolid,0,0,1
+L15VV,10:31:20,10:31:50,15,2,Valladolid,0,0,0
+L15VV,10:34:20,10:34:50,16,3,Valladolid,0,0,0
+L15VV,10:35:20,10:35:50,17,4,Valladolid,0,0,0
+L15VV,10:40:20,10:40:50,7,5,Valladolid,0,0,0
+L15VV,10:41:20,10:41:50,8,6,Valladolid,0,0,0
+L15VV,10:43:20,10:43:50,18,7,Valladolid,0,0,0
+L15VV,10:44:20,10:44:50,19,8,Valladolid,0,0,0
+L15VV,10:45:20,10:45:50,20,9,Valladolid,0,0,0
+L15VV,10:46:20,10:46:50,21,10,Valladolid,0,0,0
+L15VV,10:47:20,10:47:21,1,11,Valladolid,1,0,1
+L16VV,11:00:20,11:00:50,14,1,Valladolid,0,0,1
+L16VV,11:01:20,11:01:50,15,2,Valladolid,0,0,0
+L16VV,11:04:20,11:04:50,16,3,Valladolid,0,0,0
+L16VV,11:05:20,11:05:50,17,4,Valladolid,0,0,0
+L16VV,11:10:20,11:10:50,7,5,Valladolid,0,0,0
+L16VV,11:11:20,11:11:50,8,6,Valladolid,0,0,0
+L16VV,11:13:20,11:13:50,18,7,Valladolid,0,0,0
+L16VV,11:14:20,11:14:50,19,8,Valladolid,0,0,0
+L16VV,11:15:20,11:15:50,20,9,Valladolid,0,0,0
+L16VV,11:16:20,11:16:50,21,10,Valladolid,0,0,0
+L16VV,11:17:20,11:17:21,1,11,Valladolid,1,0,1
+L17VV,11:30:20,11:30:50,14,1,Valladolid,0,0,1
+L17VV,11:31:20,11:31:50,15,2,Valladolid,0,0,0
+L17VV,11:34:20,11:34:50,16,3,Valladolid,0,0,0
+L17VV,11:35:20,11:35:50,17,4,Valladolid,0,0,0
+L17VV,11:40:20,11:40:50,7,5,Valladolid,0,0,0
+L17VV,11:41:20,11:41:50,8,6,Valladolid,0,0,0
+L17VV,11:43:20,11:43:50,18,7,Valladolid,0,0,0
+L17VV,11:44:20,11:44:50,19,8,Valladolid,0,0,0
+L17VV,11:45:20,11:45:50,20,9,Valladolid,0,0,0
+L17VV,11:46:20,11:46:50,21,10,Valladolid,0,0,0
+L17VV,11:47:20,11:47:21,1,11,Valladolid,1,0,1
+L18VV,12:00:20,12:00:50,14,1,Valladolid,0,0,1
+L18VV,12:01:20,12:01:50,15,2,Valladolid,0,0,0
+L18VV,12:04:20,12:04:50,16,3,Valladolid,0,0,0
+L18VV,12:05:20,12:05:50,17,4,Valladolid,0,0,0
+L18VV,12:10:20,12:10:50,7,5,Valladolid,0,0,0
+L18VV,12:11:20,12:11:50,8,6,Valladolid,0,0,0
+L18VV,12:13:20,12:13:50,18,7,Valladolid,0,0,0
+L18VV,12:14:20,12:14:50,19,8,Valladolid,0,0,0
+L18VV,12:15:20,12:15:50,20,9,Valladolid,0,0,0
+L18VV,12:16:20,12:16:50,21,10,Valladolid,0,0,0
+L18VV,12:17:20,12:17:21,1,11,Valladolid,1,0,1
+L19VV,12:30:20,12:30:50,14,1,Valladolid,0,0,1
+L19VV,12:31:20,12:31:50,15,2,Valladolid,0,0,0
+L19VV,12:34:20,12:34:50,16,3,Valladolid,0,0,0
+L19VV,12:35:20,12:35:50,17,4,Valladolid,0,0,0
+L19VV,12:40:20,12:40:50,7,5,Valladolid,0,0,0
+L19VV,12:41:20,12:41:50,8,6,Valladolid,0,0,0
+L19VV,12:43:20,12:43:50,18,7,Valladolid,0,0,0
+L19VV,12:44:20,12:44:50,19,8,Valladolid,0,0,0
+L19VV,12:45:20,12:45:50,20,9,Valladolid,0,0,0
+L19VV,12:46:20,12:46:50,21,10,Valladolid,0,0,0
+L19VV,12:47:20,12:47:21,1,11,Valladolid,1,0,1
+L20VV,13:00:20,13:00:50,14,1,Valladolid,0,0,1
+L20VV,13:01:20,13:01:50,15,2,Valladolid,0,0,0
+L20VV,13:04:20,13:04:50,16,3,Valladolid,0,0,0
+L20VV,13:05:20,13:05:50,17,4,Valladolid,0,0,0
+L20VV,13:10:20,13:10:50,7,5,Valladolid,0,0,0
+L20VV,13:11:20,13:11:50,8,6,Valladolid,0,0,0
+L20VV,13:13:20,13:13:50,18,7,Valladolid,0,0,0
+L20VV,13:14:20,13:14:50,19,8,Valladolid,0,0,0
+L20VV,13:15:20,13:15:50,20,9,Valladolid,0,0,0
+L20VV,13:16:20,13:16:50,21,10,Valladolid,0,0,0
+L20VV,13:17:20,13:17:21,1,11,Valladolid,1,0,1
+L21VV,13:30:20,13:30:50,14,1,Valladolid,0,0,1
+L21VV,13:31:20,13:31:50,15,2,Valladolid,0,0,0
+L21VV,13:34:20,13:34:50,16,3,Valladolid,0,0,0
+L21VV,13:35:20,13:35:50,17,4,Valladolid,0,0,0
+L21VV,13:40:20,13:40:50,7,5,Valladolid,0,0,0
+L21VV,13:41:20,13:41:50,8,6,Valladolid,0,0,0
+L21VV,13:43:20,13:43:50,18,7,Valladolid,0,0,0
+L21VV,13:44:20,13:44:50,19,8,Valladolid,0,0,0
+L21VV,13:45:20,13:45:50,20,9,Valladolid,0,0,0
+L21VV,13:46:20,13:46:50,21,10,Valladolid,0,0,0
+L21VV,13:47:20,13:47:21,1,11,Valladolid,1,0,1
+L22VV,13:45:20,13:45:50,14,1,Valladolid,0,0,1
+L22VV,13:46:20,13:46:50,15,2,Valladolid,0,0,0
+L22VV,13:49:20,13:49:50,16,3,Valladolid,0,0,0
+L22VV,13:50:20,13:50:50,17,4,Valladolid,0,0,0
+L22VV,13:55:20,13:55:50,7,5,Valladolid,0,0,0
+L22VV,13:56:20,13:56:50,8,6,Valladolid,0,0,0
+L22VV,13:58:20,13:58:50,18,7,Valladolid,0,0,0
+L22VV,13:59:20,13:59:50,19,8,Valladolid,0,0,0
+L22VV,14:00:20,14:00:50,20,9,Valladolid,0,0,0
+L22VV,14:01:20,14:01:50,21,10,Valladolid,0,0,0
+L22VV,14:02:20,14:02:21,1,11,Valladolid,1,0,1
+L23VV,14:00:20,14:00:50,14,1,Valladolid,0,0,1
+L23VV,14:01:20,14:01:50,15,2,Valladolid,0,0,0
+L23VV,14:04:20,14:04:50,16,3,Valladolid,0,0,0
+L23VV,14:05:20,14:05:50,17,4,Valladolid,0,0,0
+L23VV,14:10:20,14:10:50,7,5,Valladolid,0,0,0
+L23VV,14:11:20,14:11:50,8,6,Valladolid,0,0,0
+L23VV,14:13:20,14:13:50,18,7,Valladolid,0,0,0
+L23VV,14:14:20,14:14:50,19,8,Valladolid,0,0,0
+L23VV,14:15:20,14:15:50,20,9,Valladolid,0,0,0
+L23VV,14:16:20,14:16:50,21,10,Valladolid,0,0,0
+L23VV,14:17:20,14:17:21,1,11,Valladolid,1,0,1
+L24VV,14:30:20,14:30:50,14,1,Valladolid,0,0,1
+L24VV,14:31:20,14:31:50,15,2,Valladolid,0,0,0
+L24VV,14:34:20,14:34:50,16,3,Valladolid,0,0,0
+L24VV,14:35:20,14:35:50,17,4,Valladolid,0,0,0
+L24VV,14:40:20,14:40:50,7,5,Valladolid,0,0,0
+L24VV,14:41:20,14:41:50,8,6,Valladolid,0,0,0
+L24VV,14:43:20,14:43:50,18,7,Valladolid,0,0,0
+L24VV,14:44:20,14:44:50,19,8,Valladolid,0,0,0
+L24VV,14:45:20,14:45:50,20,9,Valladolid,0,0,0
+L24VV,14:46:20,14:46:50,21,10,Valladolid,0,0,0
+L24VV,14:47:20,14:47:21,1,11,Valladolid,1,0,1
+L25VV,15:00:20,15:00:50,14,1,Valladolid,0,0,1
+L25VV,15:01:20,15:01:50,15,2,Valladolid,0,0,0
+L25VV,15:04:20,15:04:50,16,3,Valladolid,0,0,0
+L25VV,15:05:20,15:05:50,17,4,Valladolid,0,0,0
+L25VV,15:10:20,15:10:50,7,5,Valladolid,0,0,0
+L25VV,15:11:20,15:11:50,8,6,Valladolid,0,0,0
+L25VV,15:13:20,15:13:50,18,7,Valladolid,0,0,0
+L25VV,15:14:20,15:14:50,19,8,Valladolid,0,0,0
+L25VV,15:15:20,15:15:50,20,9,Valladolid,0,0,0
+L25VV,15:16:20,15:16:50,21,10,Valladolid,0,0,0
+L25VV,15:17:20,15:17:21,1,11,Valladolid,1,0,1
+L26VV,15:30:20,15:30:50,14,1,Valladolid,0,0,1
+L26VV,15:31:20,15:31:50,15,2,Valladolid,0,0,0
+L26VV,15:34:20,15:34:50,16,3,Valladolid,0,0,0
+L26VV,15:35:20,15:35:50,17,4,Valladolid,0,0,0
+L26VV,15:40:20,15:40:50,7,5,Valladolid,0,0,0
+L26VV,15:41:20,15:41:50,8,6,Valladolid,0,0,0
+L26VV,15:43:20,15:43:50,18,7,Valladolid,0,0,0
+L26VV,15:44:20,15:44:50,19,8,Valladolid,0,0,0
+L26VV,15:45:20,15:45:50,20,9,Valladolid,0,0,0
+L26VV,15:46:20,15:46:50,21,10,Valladolid,0,0,0
+L26VV,15:47:20,15:47:21,1,11,Valladolid,1,0,1
+L27VV,16:00:20,16:00:50,14,1,Valladolid,0,0,1
+L27VV,16:01:20,16:01:50,15,2,Valladolid,0,0,0
+L27VV,16:04:20,16:04:50,16,3,Valladolid,0,0,0
+L27VV,16:05:20,16:05:50,17,4,Valladolid,0,0,0
+L27VV,16:10:20,16:10:50,7,5,Valladolid,0,0,0
+L27VV,16:11:20,16:11:50,8,6,Valladolid,0,0,0
+L27VV,16:13:20,16:13:50,18,7,Valladolid,0,0,0
+L27VV,16:14:20,16:14:50,19,8,Valladolid,0,0,0
+L27VV,16:15:20,16:15:50,20,9,Valladolid,0,0,0
+L27VV,16:16:20,16:16:50,21,10,Valladolid,0,0,0
+L27VV,16:17:20,16:17:21,1,11,Valladolid,1,0,1
+L28VV,16:30:20,16:30:50,14,1,Valladolid,0,0,1
+L28VV,16:31:20,16:31:50,15,2,Valladolid,0,0,0
+L28VV,16:34:20,16:34:50,16,3,Valladolid,0,0,0
+L28VV,16:35:20,16:35:50,17,4,Valladolid,0,0,0
+L28VV,16:40:20,16:40:50,7,5,Valladolid,0,0,0
+L28VV,16:41:20,16:41:50,8,6,Valladolid,0,0,0
+L28VV,16:43:20,16:43:50,18,7,Valladolid,0,0,0
+L28VV,16:44:20,16:44:50,19,8,Valladolid,0,0,0
+L28VV,16:45:20,16:45:50,20,9,Valladolid,0,0,0
+L28VV,16:46:20,16:46:50,21,10,Valladolid,0,0,0
+L28VV,16:47:20,16:47:21,1,11,Valladolid,1,0,1
+L29VV,17:00:20,17:00:50,14,1,Valladolid,0,0,1
+L29VV,17:01:20,17:01:50,15,2,Valladolid,0,0,0
+L29VV,17:04:20,17:04:50,16,3,Valladolid,0,0,0
+L29VV,17:05:20,17:05:50,17,4,Valladolid,0,0,0
+L29VV,17:10:20,17:10:50,7,5,Valladolid,0,0,0
+L29VV,17:11:20,17:11:50,8,6,Valladolid,0,0,0
+L29VV,17:13:20,17:13:50,18,7,Valladolid,0,0,0
+L29VV,17:14:20,17:14:50,19,8,Valladolid,0,0,0
+L29VV,17:15:20,17:15:50,20,9,Valladolid,0,0,0
+L29VV,17:16:20,17:16:50,21,10,Valladolid,0,0,0
+L29VV,17:17:20,17:17:21,1,11,Valladolid,1,0,1
+L30VV,17:30:20,17:30:50,14,1,Valladolid,0,0,1
+L30VV,17:31:20,17:31:50,15,2,Valladolid,0,0,0
+L30VV,17:34:20,17:34:50,16,3,Valladolid,0,0,0
+L30VV,17:35:20,17:35:50,17,4,Valladolid,0,0,0
+L30VV,17:40:20,17:40:50,7,5,Valladolid,0,0,0
+L30VV,17:41:20,17:41:50,8,6,Valladolid,0,0,0
+L30VV,17:43:20,17:43:50,18,7,Valladolid,0,0,0
+L30VV,17:44:20,17:44:50,19,8,Valladolid,0,0,0
+L30VV,17:45:20,17:45:50,20,9,Valladolid,0,0,0
+L30VV,17:46:20,17:46:50,21,10,Valladolid,0,0,0
+L30VV,17:47:20,17:47:21,1,11,Valladolid,1,0,1
+L31VV,18:00:20,18:00:50,14,1,Valladolid,0,0,1
+L31VV,18:01:20,18:01:50,15,2,Valladolid,0,0,0
+L31VV,18:04:20,18:04:50,16,3,Valladolid,0,0,0
+L31VV,18:05:20,18:05:50,17,4,Valladolid,0,0,0
+L31VV,18:10:20,18:10:50,7,5,Valladolid,0,0,0
+L31VV,18:11:20,18:11:50,8,6,Valladolid,0,0,0
+L31VV,18:13:20,18:13:50,18,7,Valladolid,0,0,0
+L31VV,18:14:20,18:14:50,19,8,Valladolid,0,0,0
+L31VV,18:15:20,18:15:50,20,9,Valladolid,0,0,0
+L31VV,18:16:20,18:16:50,21,10,Valladolid,0,0,0
+L31VV,18:17:20,18:17:21,1,11,Valladolid,1,0,1
+L32VV,18:30:20,18:30:50,14,1,Valladolid,0,0,1
+L32VV,18:31:20,18:31:50,15,2,Valladolid,0,0,0
+L32VV,18:34:20,18:34:50,16,3,Valladolid,0,0,0
+L32VV,18:35:20,18:35:50,17,4,Valladolid,0,0,0
+L32VV,18:40:20,18:40:50,7,5,Valladolid,0,0,0
+L32VV,18:41:20,18:41:50,8,6,Valladolid,0,0,0
+L32VV,18:43:20,18:43:50,18,7,Valladolid,0,0,0
+L32VV,18:44:20,18:44:50,19,8,Valladolid,0,0,0
+L32VV,18:45:20,18:45:50,20,9,Valladolid,0,0,0
+L32VV,18:46:20,18:46:50,21,10,Valladolid,0,0,0
+L32VV,18:47:20,18:47:21,1,11,Valladolid,1,0,1
+L33VV,19:00:20,19:00:50,14,1,Valladolid,0,0,1
+L33VV,19:01:20,19:01:50,15,2,Valladolid,0,0,0
+L33VV,19:04:20,19:04:50,16,3,Valladolid,0,0,0
+L33VV,19:05:20,19:05:50,17,4,Valladolid,0,0,0
+L33VV,19:10:20,19:10:50,7,5,Valladolid,0,0,0
+L33VV,19:11:20,19:11:50,8,6,Valladolid,0,0,0
+L33VV,19:13:20,19:13:50,18,7,Valladolid,0,0,0
+L33VV,19:14:20,19:14:50,19,8,Valladolid,0,0,0
+L33VV,19:15:20,19:15:50,20,9,Valladolid,0,0,0
+L33VV,19:16:20,19:16:50,21,10,Valladolid,0,0,0
+L33VV,19:17:20,19:17:21,1,11,Valladolid,1,0,1
+L34VV,19:30:20,19:30:50,14,1,Valladolid,0,0,1
+L34VV,19:31:20,19:31:50,15,2,Valladolid,0,0,0
+L34VV,19:34:20,19:34:50,16,3,Valladolid,0,0,0
+L34VV,19:35:20,19:35:50,17,4,Valladolid,0,0,0
+L34VV,19:40:20,19:40:50,7,5,Valladolid,0,0,0
+L34VV,19:41:20,19:41:50,8,6,Valladolid,0,0,0
+L34VV,19:43:20,19:43:50,18,7,Valladolid,0,0,0
+L34VV,19:44:20,19:44:50,19,8,Valladolid,0,0,0
+L34VV,19:45:20,19:45:50,20,9,Valladolid,0,0,0
+L34VV,19:46:20,19:46:50,21,10,Valladolid,0,0,0
+L34VV,19:47:20,19:47:21,1,11,Valladolid,1,0,1
+L35VV,20:00:20,20:00:50,14,1,Valladolid,0,0,1
+L35VV,20:01:20,20:01:50,15,2,Valladolid,0,0,0
+L35VV,20:04:20,20:04:50,16,3,Valladolid,0,0,0
+L35VV,20:05:20,20:05:50,17,4,Valladolid,0,0,0
+L35VV,20:10:20,20:10:50,7,5,Valladolid,0,0,0
+L35VV,20:11:20,20:11:50,8,6,Valladolid,0,0,0
+L35VV,20:13:20,20:13:50,18,7,Valladolid,0,0,0
+L35VV,20:14:20,20:14:50,19,8,Valladolid,0,0,0
+L35VV,20:15:20,20:15:50,20,9,Valladolid,0,0,0
+L35VV,20:16:20,20:16:50,21,10,Valladolid,0,0,0
+L35VV,20:17:20,20:17:21,1,11,Valladolid,1,0,1
+L36VV,20:30:20,20:30:50,14,1,Valladolid,0,0,1
+L36VV,20:31:20,20:31:50,15,2,Valladolid,0,0,0
+L36VV,20:34:20,20:34:50,16,3,Valladolid,0,0,0
+L36VV,20:35:20,20:35:50,17,4,Valladolid,0,0,0
+L36VV,20:40:20,20:40:50,7,5,Valladolid,0,0,0
+L36VV,20:41:20,20:41:50,8,6,Valladolid,0,0,0
+L36VV,20:43:20,20:43:50,18,7,Valladolid,0,0,0
+L36VV,20:44:20,20:44:50,19,8,Valladolid,0,0,0
+L36VV,20:45:20,20:45:50,20,9,Valladolid,0,0,0
+L36VV,20:46:20,20:46:50,21,10,Valladolid,0,0,0
+L36VV,20:47:20,20:47:21,1,11,Valladolid,1,0,1
+L37VV,21:00:20,21:00:50,14,1,Valladolid,0,0,1
+L37VV,21:01:20,21:01:50,15,2,Valladolid,0,0,0
+L37VV,21:04:20,21:04:50,16,3,Valladolid,0,0,0
+L37VV,21:05:20,21:05:50,17,4,Valladolid,0,0,0
+L37VV,21:10:20,21:10:50,7,5,Valladolid,0,0,0
+L37VV,21:11:20,21:11:50,8,6,Valladolid,0,0,0
+L37VV,21:13:20,21:13:50,18,7,Valladolid,0,0,0
+L37VV,21:14:20,21:14:50,19,8,Valladolid,0,0,0
+L37VV,21:15:20,21:15:50,20,9,Valladolid,0,0,0
+L37VV,21:16:20,21:16:50,21,10,Valladolid,0,0,0
+L37VV,21:17:20,21:17:21,1,11,Valladolid,1,0,1
+L38VV,21:30:20,21:30:50,14,1,Valladolid,0,0,1
+L38VV,21:31:20,21:31:50,15,2,Valladolid,0,0,0
+L38VV,21:34:20,21:34:50,16,3,Valladolid,0,0,0
+L38VV,21:35:20,21:35:50,17,4,Valladolid,0,0,0
+L38VV,21:40:20,21:40:50,7,5,Valladolid,0,0,0
+L38VV,21:41:20,21:41:50,8,6,Valladolid,0,0,0
+L38VV,21:43:20,21:43:50,18,7,Valladolid,0,0,0
+L38VV,21:44:20,21:44:50,19,8,Valladolid,0,0,0
+L38VV,21:45:20,21:45:50,20,9,Valladolid,0,0,0
+L38VV,21:46:20,21:46:50,21,10,Valladolid,0,0,0
+L38VV,21:47:20,21:47:21,1,11,Valladolid,1,0,1
+L39VV,22:00:20,22:00:50,14,1,Valladolid,0,0,1
+L39VV,22:01:20,22:01:50,15,2,Valladolid,0,0,0
+L39VV,22:04:20,22:04:50,16,3,Valladolid,0,0,0
+L39VV,22:05:20,22:05:50,17,4,Valladolid,0,0,0
+L39VV,22:10:20,22:10:50,7,5,Valladolid,0,0,0
+L39VV,22:11:20,22:11:50,8,6,Valladolid,0,0,0
+L39VV,22:13:20,22:13:50,18,7,Valladolid,0,0,0
+L39VV,22:14:20,22:14:50,19,8,Valladolid,0,0,0
+L39VV,22:15:20,22:15:50,20,9,Valladolid,0,0,0
+L39VV,22:16:20,22:16:50,21,10,Valladolid,0,0,0
+L39VV,22:17:20,22:17:21,1,11,Valladolid,1,0,1
+L40VV,22:30:20,22:30:50,14,1,Valladolid,0,0,1
+L40VV,22:31:20,22:31:50,15,2,Valladolid,0,0,0
+L40VV,22:34:20,22:34:50,16,3,Valladolid,0,0,0
+L40VV,22:35:20,22:35:50,17,4,Valladolid,0,0,0
+L40VV,22:40:20,22:40:50,7,5,Valladolid,0,0,0
+L40VV,22:41:20,22:41:50,8,6,Valladolid,0,0,0
+L40VV,22:43:20,22:43:50,18,7,Valladolid,0,0,0
+L40VV,22:44:20,22:44:50,19,8,Valladolid,0,0,0
+L40VV,22:45:20,22:45:50,20,9,Valladolid,0,0,0
+L40VV,22:46:20,22:46:50,21,10,Valladolid,0,0,0
+L40VV,22:47:20,22:47:21,1,11,Valladolid,1,0,1
+L1SS,07:00:20,07:00:50,14,1,Valladolid,0,0,1
+L1SS,07:01:20,07:01:50,15,2,Valladolid,0,0,0
+L1SS,07:04:20,07:04:50,16,3,Valladolid,0,0,0
+L1SS,07:05:20,07:05:50,17,4,Valladolid,0,0,0
+L1SS,07:10:20,07:10:50,7,5,Valladolid,0,0,0
+L1SS,07:11:20,07:11:50,8,6,Valladolid,0,0,0
+L1SS,07:13:20,07:13:50,18,7,Valladolid,0,0,0
+L1SS,07:14:20,07:14:50,19,8,Valladolid,0,0,0
+L1SS,07:15:20,07:15:50,20,9,Valladolid,0,0,0
+L1SS,07:16:20,07:16:50,21,10,Valladolid,0,0,0
+L1SS,07:17:20,07:17:21,1,11,Valladolid,1,0,1
+L2SS,08:00:20,08:00:50,14,1,Valladolid,0,0,1
+L2SS,08:01:20,08:01:50,15,2,Valladolid,0,0,0
+L2SS,08:04:20,08:04:50,16,3,Valladolid,0,0,0
+L2SS,08:05:20,08:05:50,17,4,Valladolid,0,0,0
+L2SS,08:10:20,08:10:50,7,5,Valladolid,0,0,0
+L2SS,08:11:20,08:11:50,8,6,Valladolid,0,0,0
+L2SS,08:13:20,08:13:50,18,7,Valladolid,0,0,0
+L2SS,08:14:20,08:14:50,19,8,Valladolid,0,0,0
+L2SS,08:15:20,08:15:50,20,9,Valladolid,0,0,0
+L2SS,08:16:20,08:16:50,21,10,Valladolid,0,0,0
+L2SS,08:17:20,08:17:21,1,11,Valladolid,1,0,1
+L3SS,08:30:20,08:30:50,14,1,Valladolid,0,0,1
+L3SS,08:31:20,08:31:50,15,2,Valladolid,0,0,0
+L3SS,08:34:20,08:34:50,16,3,Valladolid,0,0,0
+L3SS,08:35:20,08:35:50,17,4,Valladolid,0,0,0
+L3SS,08:40:20,08:40:50,7,5,Valladolid,0,0,0
+L3SS,08:41:20,08:41:50,8,6,Valladolid,0,0,0
+L3SS,08:43:20,08:43:50,18,7,Valladolid,0,0,0
+L3SS,08:44:20,08:44:50,19,8,Valladolid,0,0,0
+L3SS,08:45:20,08:45:50,20,9,Valladolid,0,0,0
+L3SS,08:46:20,08:46:50,21,10,Valladolid,0,0,0
+L3SS,08:47:20,08:47:21,1,11,Valladolid,1,0,1
+L4SS,09:00:20,09:00:50,14,1,Valladolid,0,0,1
+L4SS,09:01:20,09:01:50,15,2,Valladolid,0,0,0
+L4SS,09:04:20,09:04:50,16,3,Valladolid,0,0,0
+L4SS,09:05:20,09:05:50,17,4,Valladolid,0,0,0
+L4SS,09:10:20,09:10:50,7,5,Valladolid,0,0,0
+L4SS,09:11:20,09:11:50,8,6,Valladolid,0,0,0
+L4SS,09:13:20,09:13:50,18,7,Valladolid,0,0,0
+L4SS,09:14:20,09:14:50,19,8,Valladolid,0,0,0
+L4SS,09:15:20,09:15:50,20,9,Valladolid,0,0,0
+L4SS,09:16:20,09:16:50,21,10,Valladolid,0,0,0
+L4SS,09:17:20,09:17:21,1,11,Valladolid,1,0,1
+L5SS,09:30:20,09:30:50,14,1,Valladolid,0,0,1
+L5SS,09:31:20,09:31:50,15,2,Valladolid,0,0,0
+L5SS,09:34:20,09:34:50,16,3,Valladolid,0,0,0
+L5SS,09:35:20,09:35:50,17,4,Valladolid,0,0,0
+L5SS,09:40:20,09:40:50,7,5,Valladolid,0,0,0
+L5SS,09:41:20,09:41:50,8,6,Valladolid,0,0,0
+L5SS,09:43:20,09:43:50,18,7,Valladolid,0,0,0
+L5SS,09:44:20,09:44:50,19,8,Valladolid,0,0,0
+L5SS,09:45:20,09:45:50,20,9,Valladolid,0,0,0
+L5SS,09:46:20,09:46:50,21,10,Valladolid,0,0,0
+L5SS,09:47:20,09:47:21,1,11,Valladolid,1,0,1
+L6SS,10:00:20,10:00:50,14,1,Valladolid,0,0,1
+L6SS,10:01:20,10:01:50,15,2,Valladolid,0,0,0
+L6SS,10:04:20,10:04:50,16,3,Valladolid,0,0,0
+L6SS,10:05:20,10:05:50,17,4,Valladolid,0,0,0
+L6SS,10:10:20,10:10:50,7,5,Valladolid,0,0,0
+L6SS,10:11:20,10:11:50,8,6,Valladolid,0,0,0
+L6SS,10:13:20,10:13:50,18,7,Valladolid,0,0,0
+L6SS,10:14:20,10:14:50,19,8,Valladolid,0,0,0
+L6SS,10:15:20,10:15:50,20,9,Valladolid,0,0,0
+L6SS,10:16:20,10:16:50,21,10,Valladolid,0,0,0
+L6SS,10:17:20,10:17:21,1,11,Valladolid,1,0,1
+L7SS,10:30:20,10:30:50,14,1,Valladolid,0,0,1
+L7SS,10:31:20,10:31:50,15,2,Valladolid,0,0,0
+L7SS,10:34:20,10:34:50,16,3,Valladolid,0,0,0
+L7SS,10:35:20,10:35:50,17,4,Valladolid,0,0,0
+L7SS,10:40:20,10:40:50,7,5,Valladolid,0,0,0
+L7SS,10:41:20,10:41:50,8,6,Valladolid,0,0,0
+L7SS,10:43:20,10:43:50,18,7,Valladolid,0,0,0
+L7SS,10:44:20,10:44:50,19,8,Valladolid,0,0,0
+L7SS,10:45:20,10:45:50,20,9,Valladolid,0,0,0
+L7SS,10:46:20,10:46:50,21,10,Valladolid,0,0,0
+L7SS,10:47:20,10:47:21,1,11,Valladolid,1,0,1
+L8SS,11:00:20,11:00:50,14,1,Valladolid,0,0,1
+L8SS,11:01:20,11:01:50,15,2,Valladolid,0,0,0
+L8SS,11:04:20,11:04:50,16,3,Valladolid,0,0,0
+L8SS,11:05:20,11:05:50,17,4,Valladolid,0,0,0
+L8SS,11:10:20,11:10:50,7,5,Valladolid,0,0,0
+L8SS,11:11:20,11:11:50,8,6,Valladolid,0,0,0
+L8SS,11:13:20,11:13:50,18,7,Valladolid,0,0,0
+L8SS,11:14:20,11:14:50,19,8,Valladolid,0,0,0
+L8SS,11:15:20,11:15:50,20,9,Valladolid,0,0,0
+L8SS,11:16:20,11:16:50,21,10,Valladolid,0,0,0
+L8SS,11:17:20,11:17:21,1,11,Valladolid,1,0,1
+L9SS,11:30:20,11:30:50,14,1,Valladolid,0,0,1
+L9SS,11:31:20,11:31:50,15,2,Valladolid,0,0,0
+L9SS,11:34:20,11:34:50,16,3,Valladolid,0,0,0
+L9SS,11:35:20,11:35:50,17,4,Valladolid,0,0,0
+L9SS,11:40:20,11:40:50,7,5,Valladolid,0,0,0
+L9SS,11:41:20,11:41:50,8,6,Valladolid,0,0,0
+L9SS,11:43:20,11:43:50,18,7,Valladolid,0,0,0
+L9SS,11:44:20,11:44:50,19,8,Valladolid,0,0,0
+L9SS,11:45:20,11:45:50,20,9,Valladolid,0,0,0
+L9SS,11:46:20,11:46:50,21,10,Valladolid,0,0,0
+L9SS,11:47:20,11:47:21,1,11,Valladolid,1,0,1
+L10SS,12:00:20,12:00:50,14,1,Valladolid,0,0,1
+L10SS,12:01:20,12:01:50,15,2,Valladolid,0,0,0
+L10SS,12:04:20,12:04:50,16,3,Valladolid,0,0,0
+L10SS,12:05:20,12:05:50,17,4,Valladolid,0,0,0
+L10SS,12:10:20,12:10:50,7,5,Valladolid,0,0,0
+L10SS,12:11:20,12:11:50,8,6,Valladolid,0,0,0
+L10SS,12:13:20,12:13:50,18,7,Valladolid,0,0,0
+L10SS,12:14:20,12:14:50,19,8,Valladolid,0,0,0
+L10SS,12:15:20,12:15:50,20,9,Valladolid,0,0,0
+L10SS,12:16:20,12:16:50,21,10,Valladolid,0,0,0
+L10SS,12:17:20,12:17:21,1,11,Valladolid,1,0,1
+L11SS,12:30:20,12:30:50,14,1,Valladolid,0,0,1
+L11SS,12:31:20,12:31:50,15,2,Valladolid,0,0,0
+L11SS,12:34:20,12:34:50,16,3,Valladolid,0,0,0
+L11SS,12:35:20,12:35:50,17,4,Valladolid,0,0,0
+L11SS,12:40:20,12:40:50,7,5,Valladolid,0,0,0
+L11SS,12:41:20,12:41:50,8,6,Valladolid,0,0,0
+L11SS,12:43:20,12:43:50,18,7,Valladolid,0,0,0
+L11SS,12:44:20,12:44:50,19,8,Valladolid,0,0,0
+L11SS,12:45:20,12:45:50,20,9,Valladolid,0,0,0
+L11SS,12:46:20,12:46:50,21,10,Valladolid,0,0,0
+L11SS,12:47:20,12:47:21,1,11,Valladolid,1,0,1
+L12SS,13:00:20,13:00:50,14,1,Valladolid,0,0,1
+L12SS,13:01:20,13:01:50,15,2,Valladolid,0,0,0
+L12SS,13:04:20,13:04:50,16,3,Valladolid,0,0,0
+L12SS,13:05:20,13:05:50,17,4,Valladolid,0,0,0
+L12SS,13:10:20,13:10:50,7,5,Valladolid,0,0,0
+L12SS,13:11:20,13:11:50,8,6,Valladolid,0,0,0
+L12SS,13:13:20,13:13:50,18,7,Valladolid,0,0,0
+L12SS,13:14:20,13:14:50,19,8,Valladolid,0,0,0
+L12SS,13:15:20,13:15:50,20,9,Valladolid,0,0,0
+L12SS,13:16:20,13:16:50,21,10,Valladolid,0,0,0
+L12SS,13:17:20,13:17:21,1,11,Valladolid,1,0,1
+L13SS,13:30:20,13:30:50,14,1,Valladolid,0,0,1
+L13SS,13:31:20,13:31:50,15,2,Valladolid,0,0,0
+L13SS,13:34:20,13:34:50,16,3,Valladolid,0,0,0
+L13SS,13:35:20,13:35:50,17,4,Valladolid,0,0,0
+L13SS,13:40:20,13:40:50,7,5,Valladolid,0,0,0
+L13SS,13:41:20,13:41:50,8,6,Valladolid,0,0,0
+L13SS,13:43:20,13:43:50,18,7,Valladolid,0,0,0
+L13SS,13:44:20,13:44:50,19,8,Valladolid,0,0,0
+L13SS,13:45:20,13:45:50,20,9,Valladolid,0,0,0
+L13SS,13:46:20,13:46:50,21,10,Valladolid,0,0,0
+L13SS,13:47:20,13:47:21,1,11,Valladolid,1,0,1
+L14SS,14:00:20,14:00:50,14,1,Valladolid,0,0,1
+L14SS,14:01:20,14:01:50,15,2,Valladolid,0,0,0
+L14SS,14:04:20,14:04:50,16,3,Valladolid,0,0,0
+L14SS,14:05:20,14:05:50,17,4,Valladolid,0,0,0
+L14SS,14:10:20,14:10:50,7,5,Valladolid,0,0,0
+L14SS,14:11:20,14:11:50,8,6,Valladolid,0,0,0
+L14SS,14:13:20,14:13:50,18,7,Valladolid,0,0,0
+L14SS,14:14:20,14:14:50,19,8,Valladolid,0,0,0
+L14SS,14:15:20,14:15:50,20,9,Valladolid,0,0,0
+L14SS,14:16:20,14:16:50,21,10,Valladolid,0,0,0
+L14SS,14:17:20,14:17:21,1,11,Valladolid,1,0,1
+L15SS,14:30:20,14:30:50,14,1,Valladolid,0,0,1
+L15SS,14:31:20,14:31:50,15,2,Valladolid,0,0,0
+L15SS,14:34:20,14:34:50,16,3,Valladolid,0,0,0
+L15SS,14:35:20,14:35:50,17,4,Valladolid,0,0,0
+L15SS,14:40:20,14:40:50,7,5,Valladolid,0,0,0
+L15SS,14:41:20,14:41:50,8,6,Valladolid,0,0,0
+L15SS,14:43:20,14:43:50,18,7,Valladolid,0,0,0
+L15SS,14:44:20,14:44:50,19,8,Valladolid,0,0,0
+L15SS,14:45:20,14:45:50,20,9,Valladolid,0,0,0
+L15SS,14:46:20,14:46:50,21,10,Valladolid,0,0,0
+L15SS,14:47:20,14:47:21,1,11,Valladolid,1,0,1
+L16SS,15:00:20,15:00:50,14,1,Valladolid,0,0,1
+L16SS,15:01:20,15:01:50,15,2,Valladolid,0,0,0
+L16SS,15:04:20,15:04:50,16,3,Valladolid,0,0,0
+L16SS,15:05:20,15:05:50,17,4,Valladolid,0,0,0
+L16SS,15:10:20,15:10:50,7,5,Valladolid,0,0,0
+L16SS,15:11:20,15:11:50,8,6,Valladolid,0,0,0
+L16SS,15:13:20,15:13:50,18,7,Valladolid,0,0,0
+L16SS,15:14:20,15:14:50,19,8,Valladolid,0,0,0
+L16SS,15:15:20,15:15:50,20,9,Valladolid,0,0,0
+L16SS,15:16:20,15:16:50,21,10,Valladolid,0,0,0
+L16SS,15:17:20,15:17:21,1,11,Valladolid,1,0,1
+L17SS,15:30:20,15:30:50,14,1,Valladolid,0,0,1
+L17SS,15:31:20,15:31:50,15,2,Valladolid,0,0,0
+L17SS,15:34:20,15:34:50,16,3,Valladolid,0,0,0
+L17SS,15:35:20,15:35:50,17,4,Valladolid,0,0,0
+L17SS,15:40:20,15:40:50,7,5,Valladolid,0,0,0
+L17SS,15:41:20,15:41:50,8,6,Valladolid,0,0,0
+L17SS,15:43:20,15:43:50,18,7,Valladolid,0,0,0
+L17SS,15:44:20,15:44:50,19,8,Valladolid,0,0,0
+L17SS,15:45:20,15:45:50,20,9,Valladolid,0,0,0
+L17SS,15:46:20,15:46:50,21,10,Valladolid,0,0,0
+L17SS,15:47:20,15:47:21,1,11,Valladolid,1,0,1
+L18SS,16:00:20,16:00:50,14,1,Valladolid,0,0,1
+L18SS,16:01:20,16:01:50,15,2,Valladolid,0,0,0
+L18SS,16:04:20,16:04:50,16,3,Valladolid,0,0,0
+L18SS,16:05:20,16:05:50,17,4,Valladolid,0,0,0
+L18SS,16:10:20,16:10:50,7,5,Valladolid,0,0,0
+L18SS,16:11:20,16:11:50,8,6,Valladolid,0,0,0
+L18SS,16:13:20,16:13:50,18,7,Valladolid,0,0,0
+L18SS,16:14:20,16:14:50,19,8,Valladolid,0,0,0
+L18SS,16:15:20,16:15:50,20,9,Valladolid,0,0,0
+L18SS,16:16:20,16:16:50,21,10,Valladolid,0,0,0
+L18SS,16:17:20,16:17:21,1,11,Valladolid,1,0,1
+L19SS,16:30:20,16:30:50,14,1,Valladolid,0,0,1
+L19SS,16:31:20,16:31:50,15,2,Valladolid,0,0,0
+L19SS,16:34:20,16:34:50,16,3,Valladolid,0,0,0
+L19SS,16:35:20,16:35:50,17,4,Valladolid,0,0,0
+L19SS,16:40:20,16:40:50,7,5,Valladolid,0,0,0
+L19SS,16:41:20,16:41:50,8,6,Valladolid,0,0,0
+L19SS,16:43:20,16:43:50,18,7,Valladolid,0,0,0
+L19SS,16:44:20,16:44:50,19,8,Valladolid,0,0,0
+L19SS,16:45:20,16:45:50,20,9,Valladolid,0,0,0
+L19SS,16:46:20,16:46:50,21,10,Valladolid,0,0,0
+L19SS,16:47:20,16:47:21,1,11,Valladolid,1,0,1
+L20SS,17:00:20,17:00:50,14,1,Valladolid,0,0,1
+L20SS,17:01:20,17:01:50,15,2,Valladolid,0,0,0
+L20SS,17:04:20,17:04:50,16,3,Valladolid,0,0,0
+L20SS,17:05:20,17:05:50,17,4,Valladolid,0,0,0
+L20SS,17:10:20,17:10:50,7,5,Valladolid,0,0,0
+L20SS,17:11:20,17:11:50,8,6,Valladolid,0,0,0
+L20SS,17:13:20,17:13:50,18,7,Valladolid,0,0,0
+L20SS,17:14:20,17:14:50,19,8,Valladolid,0,0,0
+L20SS,17:15:20,17:15:50,20,9,Valladolid,0,0,0
+L20SS,17:16:20,17:16:50,21,10,Valladolid,0,0,0
+L20SS,17:17:20,17:17:21,1,11,Valladolid,1,0,1
+L21SS,17:30:20,17:30:50,14,1,Valladolid,0,0,1
+L21SS,17:31:20,17:31:50,15,2,Valladolid,0,0,0
+L21SS,17:34:20,17:34:50,16,3,Valladolid,0,0,0
+L21SS,17:35:20,17:35:50,17,4,Valladolid,0,0,0
+L21SS,17:40:20,17:40:50,7,5,Valladolid,0,0,0
+L21SS,17:41:20,17:41:50,8,6,Valladolid,0,0,0
+L21SS,17:43:20,17:43:50,18,7,Valladolid,0,0,0
+L21SS,17:44:20,17:44:50,19,8,Valladolid,0,0,0
+L21SS,17:45:20,17:45:50,20,9,Valladolid,0,0,0
+L21SS,17:46:20,17:46:50,21,10,Valladolid,0,0,0
+L21SS,17:47:20,17:47:21,1,11,Valladolid,1,0,1
+L22SS,18:00:20,18:00:50,14,1,Valladolid,0,0,1
+L22SS,18:01:20,18:01:50,15,2,Valladolid,0,0,0
+L22SS,18:04:20,18:04:50,16,3,Valladolid,0,0,0
+L22SS,18:05:20,18:05:50,17,4,Valladolid,0,0,0
+L22SS,18:10:20,18:10:50,7,5,Valladolid,0,0,0
+L22SS,18:11:20,18:11:50,8,6,Valladolid,0,0,0
+L22SS,18:13:20,18:13:50,18,7,Valladolid,0,0,0
+L22SS,18:14:20,18:14:50,19,8,Valladolid,0,0,0
+L22SS,18:15:20,18:15:50,20,9,Valladolid,0,0,0
+L22SS,18:16:20,18:16:50,21,10,Valladolid,0,0,0
+L22SS,18:17:20,18:17:21,1,11,Valladolid,1,0,1
+L23SS,18:30:20,18:30:50,14,1,Valladolid,0,0,1
+L23SS,18:31:20,18:31:50,15,2,Valladolid,0,0,0
+L23SS,18:34:20,18:34:50,16,3,Valladolid,0,0,0
+L23SS,18:35:20,18:35:50,17,4,Valladolid,0,0,0
+L23SS,18:40:20,18:40:50,7,5,Valladolid,0,0,0
+L23SS,18:41:20,18:41:50,8,6,Valladolid,0,0,0
+L23SS,18:43:20,18:43:50,18,7,Valladolid,0,0,0
+L23SS,18:44:20,18:44:50,19,8,Valladolid,0,0,0
+L23SS,18:45:20,18:45:50,20,9,Valladolid,0,0,0
+L23SS,18:46:20,18:46:50,21,10,Valladolid,0,0,0
+L23SS,18:47:20,18:47:21,1,11,Valladolid,1,0,1
+L24SS,19:00:20,19:00:50,14,1,Valladolid,0,0,1
+L24SS,19:01:20,19:01:50,15,2,Valladolid,0,0,0
+L24SS,19:04:20,19:04:50,16,3,Valladolid,0,0,0
+L24SS,19:05:20,19:05:50,17,4,Valladolid,0,0,0
+L24SS,19:10:20,19:10:50,7,5,Valladolid,0,0,0
+L24SS,19:11:20,19:11:50,8,6,Valladolid,0,0,0
+L24SS,19:13:20,19:13:50,18,7,Valladolid,0,0,0
+L24SS,19:14:20,19:14:50,19,8,Valladolid,0,0,0
+L24SS,19:15:20,19:15:50,20,9,Valladolid,0,0,0
+L24SS,19:16:20,19:16:50,21,10,Valladolid,0,0,0
+L24SS,19:17:20,19:17:21,1,11,Valladolid,1,0,1
+L25SS,19:30:20,19:30:50,14,1,Valladolid,0,0,1
+L25SS,19:31:20,19:31:50,15,2,Valladolid,0,0,0
+L25SS,19:34:20,19:34:50,16,3,Valladolid,0,0,0
+L25SS,19:35:20,19:35:50,17,4,Valladolid,0,0,0
+L25SS,19:40:20,19:40:50,7,5,Valladolid,0,0,0
+L25SS,19:41:20,19:41:50,8,6,Valladolid,0,0,0
+L25SS,19:43:20,19:43:50,18,7,Valladolid,0,0,0
+L25SS,19:44:20,19:44:50,19,8,Valladolid,0,0,0
+L25SS,19:45:20,19:45:50,20,9,Valladolid,0,0,0
+L25SS,19:46:20,19:46:50,21,10,Valladolid,0,0,0
+L25SS,19:47:20,19:47:21,1,11,Valladolid,1,0,1
+L26SS,20:00:20,20:00:50,14,1,Valladolid,0,0,1
+L26SS,20:01:20,20:01:50,15,2,Valladolid,0,0,0
+L26SS,20:04:20,20:04:50,16,3,Valladolid,0,0,0
+L26SS,20:05:20,20:05:50,17,4,Valladolid,0,0,0
+L26SS,20:10:20,20:10:50,7,5,Valladolid,0,0,0
+L26SS,20:11:20,20:11:50,8,6,Valladolid,0,0,0
+L26SS,20:13:20,20:13:50,18,7,Valladolid,0,0,0
+L26SS,20:14:20,20:14:50,19,8,Valladolid,0,0,0
+L26SS,20:15:20,20:15:50,20,9,Valladolid,0,0,0
+L26SS,20:16:20,20:16:50,21,10,Valladolid,0,0,0
+L26SS,20:17:20,20:17:21,1,11,Valladolid,1,0,1
+L27SS,20:30:20,20:30:50,14,1,Valladolid,0,0,1
+L27SS,20:31:20,20:31:50,15,2,Valladolid,0,0,0
+L27SS,20:34:20,20:34:50,16,3,Valladolid,0,0,0
+L27SS,20:35:20,20:35:50,17,4,Valladolid,0,0,0
+L27SS,20:40:20,20:40:50,7,5,Valladolid,0,0,0
+L27SS,20:41:20,20:41:50,8,6,Valladolid,0,0,0
+L27SS,20:43:20,20:43:50,18,7,Valladolid,0,0,0
+L27SS,20:44:20,20:44:50,19,8,Valladolid,0,0,0
+L27SS,20:45:20,20:45:50,20,9,Valladolid,0,0,0
+L27SS,20:46:20,20:46:50,21,10,Valladolid,0,0,0
+L27SS,20:47:20,20:47:21,1,11,Valladolid,1,0,1
+L28SS,21:00:20,21:00:50,14,1,Valladolid,0,0,1
+L28SS,21:01:20,21:01:50,15,2,Valladolid,0,0,0
+L28SS,21:04:20,21:04:50,16,3,Valladolid,0,0,0
+L28SS,21:05:20,21:05:50,17,4,Valladolid,0,0,0
+L28SS,21:10:20,21:10:50,7,5,Valladolid,0,0,0
+L28SS,21:11:20,21:11:50,8,6,Valladolid,0,0,0
+L28SS,21:13:20,21:13:50,18,7,Valladolid,0,0,0
+L28SS,21:14:20,21:14:50,19,8,Valladolid,0,0,0
+L28SS,21:15:20,21:15:50,20,9,Valladolid,0,0,0
+L28SS,21:16:20,21:16:50,21,10,Valladolid,0,0,0
+L28SS,21:17:20,21:17:21,1,11,Valladolid,1,0,1
+L29SS,21:30:20,21:30:50,14,1,Valladolid,0,0,1
+L29SS,21:31:20,21:31:50,15,2,Valladolid,0,0,0
+L29SS,21:34:20,21:34:50,16,3,Valladolid,0,0,0
+L29SS,21:35:20,21:35:50,17,4,Valladolid,0,0,0
+L29SS,21:40:20,21:40:50,7,5,Valladolid,0,0,0
+L29SS,21:41:20,21:41:50,8,6,Valladolid,0,0,0
+L29SS,21:43:20,21:43:50,18,7,Valladolid,0,0,0
+L29SS,21:44:20,21:44:50,19,8,Valladolid,0,0,0
+L29SS,21:45:20,21:45:50,20,9,Valladolid,0,0,0
+L29SS,21:46:20,21:46:50,21,10,Valladolid,0,0,0
+L29SS,21:47:20,21:47:21,1,11,Valladolid,1,0,1
+L30SS,22:00:20,22:00:50,14,1,Valladolid,0,0,1
+L30SS,22:01:20,22:01:50,15,2,Valladolid,0,0,0
+L30SS,22:04:20,22:04:50,16,3,Valladolid,0,0,0
+L30SS,22:05:20,22:05:50,17,4,Valladolid,0,0,0
+L30SS,22:10:20,22:10:50,7,5,Valladolid,0,0,0
+L30SS,22:11:20,22:11:50,8,6,Valladolid,0,0,0
+L30SS,22:13:20,22:13:50,18,7,Valladolid,0,0,0
+L30SS,22:14:20,22:14:50,19,8,Valladolid,0,0,0
+L30SS,22:15:20,22:15:50,20,9,Valladolid,0,0,0
+L30SS,22:16:20,22:16:50,21,10,Valladolid,0,0,0
+L30SS,22:17:20,22:17:21,1,11,Valladolid,1,0,1
+L31SS,22:30:20,22:30:50,14,1,Valladolid,0,0,1
+L31SS,22:31:20,22:31:50,15,2,Valladolid,0,0,0
+L31SS,22:34:20,22:34:50,16,3,Valladolid,0,0,0
+L31SS,22:35:20,22:35:50,17,4,Valladolid,0,0,0
+L31SS,22:40:20,22:40:50,7,5,Valladolid,0,0,0
+L31SS,22:41:20,22:41:50,8,6,Valladolid,0,0,0
+L31SS,22:43:20,22:43:50,18,7,Valladolid,0,0,0
+L31SS,22:44:20,22:44:50,19,8,Valladolid,0,0,0
+L31SS,22:45:20,22:45:50,20,9,Valladolid,0,0,0
+L31SS,22:46:20,22:46:50,21,10,Valladolid,0,0,0
+L31SS,22:47:20,22:47:21,1,11,Valladolid,1,0,1
+L32SS,23:00:20,23:00:50,14,1,Valladolid,0,0,1
+L32SS,23:01:20,23:01:50,15,2,Valladolid,0,0,0
+L32SS,23:04:20,23:04:50,16,3,Valladolid,0,0,0
+L32SS,23:05:20,23:05:50,17,4,Valladolid,0,0,0
+L32SS,23:10:20,23:10:50,7,5,Valladolid,0,0,0
+L32SS,23:11:20,23:11:50,8,6,Valladolid,0,0,0
+L32SS,23:13:20,23:13:50,18,7,Valladolid,0,0,0
+L32SS,23:14:20,23:14:50,19,8,Valladolid,0,0,0
+L32SS,23:15:20,23:15:50,20,9,Valladolid,0,0,0
+L32SS,23:16:20,23:16:50,21,10,Valladolid,0,0,0
+L32SS,23:17:20,23:17:21,1,11,Valladolid,1,0,1
+L1DD,10:30:20,10:30:50,14,1,Valladolid,0,0,1
+L1DD,10:31:20,10:31:50,15,2,Valladolid,0,0,0
+L1DD,10:34:20,10:34:50,16,3,Valladolid,0,0,0
+L1DD,10:35:20,10:35:50,17,4,Valladolid,0,0,0
+L1DD,10:40:20,10:40:50,7,5,Valladolid,0,0,0
+L1DD,10:41:20,10:41:50,8,6,Valladolid,0,0,0
+L1DD,10:43:20,10:43:50,18,7,Valladolid,0,0,0
+L1DD,10:44:20,10:44:50,19,8,Valladolid,0,0,0
+L1DD,10:45:20,10:45:50,20,9,Valladolid,0,0,0
+L1DD,10:46:20,10:46:50,21,10,Valladolid,0,0,0
+L1DD,10:47:20,10:47:21,1,11,Valladolid,1,0,1
+L2DD,11:30:20,11:30:50,14,1,Valladolid,0,0,1
+L2DD,11:31:20,11:31:50,15,2,Valladolid,0,0,0
+L2DD,11:34:20,11:34:50,16,3,Valladolid,0,0,0
+L2DD,11:35:20,11:35:50,17,4,Valladolid,0,0,0
+L2DD,11:40:20,11:40:50,7,5,Valladolid,0,0,0
+L2DD,11:41:20,11:41:50,8,6,Valladolid,0,0,0
+L2DD,11:43:20,11:43:50,18,7,Valladolid,0,0,0
+L2DD,11:44:20,11:44:50,19,8,Valladolid,0,0,0
+L2DD,11:45:20,11:45:50,20,9,Valladolid,0,0,0
+L2DD,11:46:20,11:46:50,21,10,Valladolid,0,0,0
+L2DD,11:47:20,11:47:21,1,11,Valladolid,1,0,1
+L3DD,12:30:20,12:30:50,14,1,Valladolid,0,0,1
+L3DD,12:31:20,12:31:50,15,2,Valladolid,0,0,0
+L3DD,12:34:20,12:34:50,16,3,Valladolid,0,0,0
+L3DD,12:35:20,12:35:50,17,4,Valladolid,0,0,0
+L3DD,12:40:20,12:40:50,7,5,Valladolid,0,0,0
+L3DD,12:41:20,12:41:50,8,6,Valladolid,0,0,0
+L3DD,12:43:20,12:43:50,18,7,Valladolid,0,0,0
+L3DD,12:44:20,12:44:50,19,8,Valladolid,0,0,0
+L3DD,12:45:20,12:45:50,20,9,Valladolid,0,0,0
+L3DD,12:46:20,12:46:50,21,10,Valladolid,0,0,0
+L3DD,12:47:20,12:47:21,1,11,Valladolid,1,0,1
+L4DD,13:30:20,13:30:50,14,1,Valladolid,0,0,1
+L4DD,13:31:20,13:31:50,15,2,Valladolid,0,0,0
+L4DD,13:34:20,13:34:50,16,3,Valladolid,0,0,0
+L4DD,13:35:20,13:35:50,17,4,Valladolid,0,0,0
+L4DD,13:40:20,13:40:50,7,5,Valladolid,0,0,0
+L4DD,13:41:20,13:41:50,8,6,Valladolid,0,0,0
+L4DD,13:43:20,13:43:50,18,7,Valladolid,0,0,0
+L4DD,13:44:20,13:44:50,19,8,Valladolid,0,0,0
+L4DD,13:45:20,13:45:50,20,9,Valladolid,0,0,0
+L4DD,13:46:20,13:46:50,21,10,Valladolid,0,0,0
+L4DD,13:47:20,13:47:21,1,11,Valladolid,1,0,1
+L5DD,14:30:20,14:30:50,14,1,Valladolid,0,0,1
+L5DD,14:31:20,14:31:50,15,2,Valladolid,0,0,0
+L5DD,14:34:20,14:34:50,16,3,Valladolid,0,0,0
+L5DD,14:35:20,14:35:50,17,4,Valladolid,0,0,0
+L5DD,14:40:20,14:40:50,7,5,Valladolid,0,0,0
+L5DD,14:41:20,14:41:50,8,6,Valladolid,0,0,0
+L5DD,14:43:20,14:43:50,18,7,Valladolid,0,0,0
+L5DD,14:44:20,14:44:50,19,8,Valladolid,0,0,0
+L5DD,14:45:20,14:45:50,20,9,Valladolid,0,0,0
+L5DD,14:46:20,14:46:50,21,10,Valladolid,0,0,0
+L5DD,14:47:20,14:47:21,1,11,Valladolid,1,0,1
+L6DD,15:30:20,15:30:50,14,1,Valladolid,0,0,1
+L6DD,15:31:20,15:31:50,15,2,Valladolid,0,0,0
+L6DD,15:34:20,15:34:50,16,3,Valladolid,0,0,0
+L6DD,15:35:20,15:35:50,17,4,Valladolid,0,0,0
+L6DD,15:40:20,15:40:50,7,5,Valladolid,0,0,0
+L6DD,15:41:20,15:41:50,8,6,Valladolid,0,0,0
+L6DD,15:43:20,15:43:50,18,7,Valladolid,0,0,0
+L6DD,15:44:20,15:44:50,19,8,Valladolid,0,0,0
+L6DD,15:45:20,15:45:50,20,9,Valladolid,0,0,0
+L6DD,15:46:20,15:46:50,21,10,Valladolid,0,0,0
+L6DD,15:47:20,15:47:21,1,11,Valladolid,1,0,1
+L7DD,16:30:20,16:30:50,14,1,Valladolid,0,0,1
+L7DD,16:31:20,16:31:50,15,2,Valladolid,0,0,0
+L7DD,16:34:20,16:34:50,16,3,Valladolid,0,0,0
+L7DD,16:35:20,16:35:50,17,4,Valladolid,0,0,0
+L7DD,16:40:20,16:40:50,7,5,Valladolid,0,0,0
+L7DD,16:41:20,16:41:50,8,6,Valladolid,0,0,0
+L7DD,16:43:20,16:43:50,18,7,Valladolid,0,0,0
+L7DD,16:44:20,16:44:50,19,8,Valladolid,0,0,0
+L7DD,16:45:20,16:45:50,20,9,Valladolid,0,0,0
+L7DD,16:46:20,16:46:50,21,10,Valladolid,0,0,0
+L7DD,16:47:20,16:47:21,1,11,Valladolid,1,0,1
+L8DD,17:30:20,17:30:50,14,1,Valladolid,0,0,1
+L8DD,17:31:20,17:31:50,15,2,Valladolid,0,0,0
+L8DD,17:34:20,17:34:50,16,3,Valladolid,0,0,0
+L8DD,17:35:20,17:35:50,17,4,Valladolid,0,0,0
+L8DD,17:40:20,17:40:50,7,5,Valladolid,0,0,0
+L8DD,17:41:20,17:41:50,8,6,Valladolid,0,0,0
+L8DD,17:43:20,17:43:50,18,7,Valladolid,0,0,0
+L8DD,17:44:20,17:44:50,19,8,Valladolid,0,0,0
+L8DD,17:45:20,17:45:50,20,9,Valladolid,0,0,0
+L8DD,17:46:20,17:46:50,21,10,Valladolid,0,0,0
+L8DD,17:47:20,17:47:21,1,11,Valladolid,1,0,1
+L9DD,18:30:20,18:30:50,14,1,Valladolid,0,0,1
+L9DD,18:31:20,18:31:50,15,2,Valladolid,0,0,0
+L9DD,18:34:20,18:34:50,16,3,Valladolid,0,0,0
+L9DD,18:35:20,18:35:50,17,4,Valladolid,0,0,0
+L9DD,18:40:20,18:40:50,7,5,Valladolid,0,0,0
+L9DD,18:41:20,18:41:50,8,6,Valladolid,0,0,0
+L9DD,18:43:20,18:43:50,18,7,Valladolid,0,0,0
+L9DD,18:44:20,18:44:50,19,8,Valladolid,0,0,0
+L9DD,18:45:20,18:45:50,20,9,Valladolid,0,0,0
+L9DD,18:46:20,18:46:50,21,10,Valladolid,0,0,0
+L9DD,18:47:20,18:47:21,1,11,Valladolid,1,0,1
+L10DD,19:30:20,19:30:50,14,1,Valladolid,0,0,1
+L10DD,19:31:20,19:31:50,15,2,Valladolid,0,0,0
+L10DD,19:34:20,19:34:50,16,3,Valladolid,0,0,0
+L10DD,19:35:20,19:35:50,17,4,Valladolid,0,0,0
+L10DD,19:40:20,19:40:50,7,5,Valladolid,0,0,0
+L10DD,19:41:20,19:41:50,8,6,Valladolid,0,0,0
+L10DD,19:43:20,19:43:50,18,7,Valladolid,0,0,0
+L10DD,19:44:20,19:44:50,19,8,Valladolid,0,0,0
+L10DD,19:45:20,19:45:50,20,9,Valladolid,0,0,0
+L10DD,19:46:20,19:46:50,21,10,Valladolid,0,0,0
+L10DD,19:47:20,19:47:21,1,11,Valladolid,1,0,1
+L11DD,20:30:20,20:30:50,14,1,Valladolid,0,0,1
+L11DD,20:31:20,20:31:50,15,2,Valladolid,0,0,0
+L11DD,20:34:20,20:34:50,16,3,Valladolid,0,0,0
+L11DD,20:35:20,20:35:50,17,4,Valladolid,0,0,0
+L11DD,20:40:20,20:40:50,7,5,Valladolid,0,0,0
+L11DD,20:41:20,20:41:50,8,6,Valladolid,0,0,0
+L11DD,20:43:20,20:43:50,18,7,Valladolid,0,0,0
+L11DD,20:44:20,20:44:50,19,8,Valladolid,0,0,0
+L11DD,20:45:20,20:45:50,20,9,Valladolid,0,0,0
+L11DD,20:46:20,20:46:50,21,10,Valladolid,0,0,0
+L11DD,20:47:20,20:47:21,1,11,Valladolid,1,0,1
+L12DD,21:30:20,21:30:50,14,1,Valladolid,0,0,1
+L12DD,21:31:20,21:31:50,15,2,Valladolid,0,0,0
+L12DD,21:34:20,21:34:50,16,3,Valladolid,0,0,0
+L12DD,21:35:20,21:35:50,17,4,Valladolid,0,0,0
+L12DD,21:40:20,21:40:50,7,5,Valladolid,0,0,0
+L12DD,21:41:20,21:41:50,8,6,Valladolid,0,0,0
+L12DD,21:43:20,21:43:50,18,7,Valladolid,0,0,0
+L12DD,21:44:20,21:44:50,19,8,Valladolid,0,0,0
+L12DD,21:45:20,21:45:50,20,9,Valladolid,0,0,0
+L12DD,21:46:20,21:46:50,21,10,Valladolid,0,0,0
+L12DD,21:47:20,21:47:21,1,11,Valladolid,1,0,1
+L13DD,22:30:20,22:30:50,14,1,Valladolid,0,0,1
+L13DD,22:31:20,22:31:50,15,2,Valladolid,0,0,0
+L13DD,22:34:20,22:34:50,16,3,Valladolid,0,0,0
+L13DD,22:35:20,22:35:50,17,4,Valladolid,0,0,0
+L13DD,22:40:20,22:40:50,7,5,Valladolid,0,0,0
+L13DD,22:41:20,22:41:50,8,6,Valladolid,0,0,0
+L13DD,22:43:20,22:43:50,18,7,Valladolid,0,0,0
+L13DD,22:44:20,22:44:50,19,8,Valladolid,0,0,0
+L13DD,22:45:20,22:45:50,20,9,Valladolid,0,0,0
+L13DD,22:46:20,22:46:50,21,10,Valladolid,0,0,0
+L13DD,22:47:20,22:47:21,1,11,Valladolid,1,0,1
+L14DD,23:00:20,23:00:50,14,1,Valladolid,0,0,1
+L14DD,23:01:20,23:01:50,15,2,Valladolid,0,0,0
+L14DD,23:04:20,23:04:50,16,3,Valladolid,0,0,0
+L14DD,23:05:20,23:05:50,17,4,Valladolid,0,0,0
+L14DD,23:10:20,23:10:50,7,5,Valladolid,0,0,0
+L14DD,23:11:20,23:11:50,8,6,Valladolid,0,0,0
+L14DD,23:13:20,23:13:50,18,7,Valladolid,0,0,0
+L14DD,23:14:20,23:14:50,19,8,Valladolid,0,0,0
+L14DD,23:15:20,23:15:50,20,9,Valladolid,0,0,0
+L14DD,23:16:20,23:16:50,21,10,Valladolid,0,0,0
+L14DD,23:17:20,23:17:21,1,11,Valladolid,1,0,1
+L1N,25:00:20,25:00:50,1,1,Laguna de Duero (Búho),0,0,1
+L1N,25:03:20,25:03:50,2,2,Laguna de Duero (Búho),0,0,0
+L1N,25:04:20,25:04:50,3,3,Laguna de Duero (Búho),0,0,0
+L1N,25:06:20,25:06:50,4,4,Laguna de Duero (Búho),0,0,0
+L1N,25:11:20,25:11:50,6,5,Laguna de Duero (Búho),0,0,0
+L1N,25:12:20,25:12:50,7,6,Laguna de Duero (Búho),0,0,0
+L1N,25:13:20,25:13:50,8,7,Laguna de Duero (Búho),0,0,0
+L1N,25:14:20,25:14:50,9,8,Laguna de Duero (Búho),0,0,0
+L1N,25:15:20,25:15:50,10,9,Laguna de Duero (Búho),0,0,0
+L1N,25:16:20,25:16:50,11,10,Laguna de Duero (Búho),0,0,0
+L1N,25:17:20,25:17:50,12,11,Laguna de Duero (Búho),0,0,0
+L1N,25:18:20,25:18:50,13,12,Laguna de Duero (Búho),0,0,0
+L1N,25:19:20,25:19:21,14,13,Laguna de Duero (Búho),0,0,1
+L2N,26:00:20,26:00:50,1,1,Laguna de Duero (Búho),0,0,1
+L2N,26:03:20,26:03:50,2,2,Laguna de Duero (Búho),0,0,0
+L2N,26:04:20,26:04:50,3,3,Laguna de Duero (Búho),0,0,0
+L2N,26:06:20,26:06:50,4,4,Laguna de Duero (Búho),0,0,0
+L2N,26:11:20,26:11:50,6,5,Laguna de Duero (Búho),0,0,0
+L2N,26:12:20,26:12:50,7,6,Laguna de Duero (Búho),0,0,0
+L2N,26:13:20,26:13:50,8,7,Laguna de Duero (Búho),0,0,0
+L2N,26:14:20,26:14:50,9,8,Laguna de Duero (Búho),0,0,0
+L2N,26:15:20,26:15:50,10,9,Laguna de Duero (Búho),0,0,0
+L2N,26:16:20,26:16:50,11,10,Laguna de Duero (Búho),0,0,0
+L2N,26:17:20,26:17:50,12,11,Laguna de Duero (Búho),0,0,0
+L2N,26:18:20,26:18:50,13,12,Laguna de Duero (Búho),0,0,0
+L2N,26:19:20,26:19:21,14,13,Laguna de Duero (Búho),0,0,1
+L3N,27:00:20,27:00:50,1,1,Laguna de Duero (Búho),0,0,1
+L3N,27:03:20,27:03:50,2,2,Laguna de Duero (Búho),0,0,0
+L3N,27:04:20,27:04:50,3,3,Laguna de Duero (Búho),0,0,0
+L3N,27:06:20,27:06:50,4,4,Laguna de Duero (Búho),0,0,0
+L3N,27:11:20,27:11:50,6,5,Laguna de Duero (Búho),0,0,0
+L3N,27:12:20,27:12:50,7,6,Laguna de Duero (Búho),0,0,0
+L3N,27:13:20,27:13:50,8,7,Laguna de Duero (Búho),0,0,0
+L3N,27:14:20,27:14:50,9,8,Laguna de Duero (Búho),0,0,0
+L3N,27:15:20,27:15:50,10,9,Laguna de Duero (Búho),0,0,0
+L3N,27:16:20,27:16:50,11,10,Laguna de Duero (Búho),0,0,0
+L3N,27:17:20,27:17:50,12,11,Laguna de Duero (Búho),0,0,0
+L3N,27:18:20,27:18:50,13,12,Laguna de Duero (Búho),0,0,0
+L3N,27:19:20,27:19:21,14,13,Laguna de Duero (Búho),0,0,1
+L4N,28:00:20,28:00:50,1,1,Laguna de Duero (Búho),0,0,1
+L4N,28:03:20,28:03:50,2,2,Laguna de Duero (Búho),0,0,0
+L4N,28:04:20,28:04:50,3,3,Laguna de Duero (Búho),0,0,0
+L4N,28:06:20,28:06:50,4,4,Laguna de Duero (Búho),0,0,0
+L4N,28:11:20,28:11:50,6,5,Laguna de Duero (Búho),0,0,0
+L4N,28:12:20,28:12:50,7,6,Laguna de Duero (Búho),0,0,0
+L4N,28:13:20,28:13:50,8,7,Laguna de Duero (Búho),0,0,0
+L4N,28:14:20,28:14:50,9,8,Laguna de Duero (Búho),0,0,0
+L4N,28:15:20,28:15:50,10,9,Laguna de Duero (Búho),0,0,0
+L4N,28:16:20,28:16:50,11,10,Laguna de Duero (Búho),0,0,0
+L4N,28:17:20,28:17:50,12,11,Laguna de Duero (Búho),0,0,0
+L4N,28:18:20,28:18:50,13,12,Laguna de Duero (Búho),0,0,0
+L4N,28:19:20,28:19:21,14,13,Laguna de Duero (Búho),0,0,1
+L1NV,25:30:20,25:30:50,14,1,Valladolid (Búho),0,0,1
+L1NV,25:31:20,25:31:50,15,2,Valladolid (Búho),0,0,0
+L1NV,25:32:20,25:32:50,22,3,Valladolid (Búho),0,0,0
+L1NV,25:34:20,25:34:50,19,4,Valladolid (Búho),0,0,0
+L1NV,25:36:20,25:36:50,20,5,Valladolid (Búho),0,0,0
+L1NV,25:37:20,25:37:50,21,6,Valladolid (Búho),0,0,0
+L1NV,25:40:20,25:40:21,1,7,Valladolid (Búho),0,0,1
+L2NV,26:30:20,26:30:50,14,1,Valladolid (Búho),0,0,1
+L2NV,26:31:20,26:31:50,15,2,Valladolid (Búho),0,0,0
+L2NV,26:32:20,26:32:50,22,3,Valladolid (Búho),0,0,0
+L2NV,26:34:20,26:34:50,19,4,Valladolid (Búho),0,0,0
+L2NV,26:36:20,26:36:50,20,5,Valladolid (Búho),0,0,0
+L2NV,26:37:20,26:37:50,21,6,Valladolid (Búho),0,0,0
+L2NV,26:40:20,26:40:21,1,7,Valladolid (Búho),0,0,1
+L3NV,27:30:20,27:30:50,14,1,Valladolid (Búho),0,0,1
+L3NV,27:31:20,27:31:50,15,2,Valladolid (Búho),0,0,0
+L3NV,27:32:20,27:32:50,22,3,Valladolid (Búho),0,0,0
+L3NV,27:34:20,27:34:50,19,4,Valladolid (Búho),0,0,0
+L3NV,27:36:20,27:36:50,20,5,Valladolid (Búho),0,0,0
+L3NV,27:37:20,27:37:50,21,6,Valladolid (Búho),0,0,0
+L3NV,27:40:20,27:40:21,1,7,Valladolid (Búho),0,0,1

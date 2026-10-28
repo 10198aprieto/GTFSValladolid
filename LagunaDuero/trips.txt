@@ -1,0 +1,255 @@
+route_id,service_id,trip_id,trip_headsign,shape_id
+L01,laborales,L1,Laguna de Duero,Ida
+L01,laborales,L2,Laguna de Duero,Ida
+L01,laborales,L3,Laguna de Duero,Ida
+L01,laborales,L4,Laguna de Duero,Ida
+L01,laborales,L5,Laguna de Duero,Ida
+L01,laborales,L6,Laguna de Duero,Ida
+L01,laborales,L7,Laguna de Duero,Ida
+L01,laborales,L8,Laguna de Duero,Ida
+L01,laborales,L9,Laguna de Duero,Ida
+L01,laborales,L10,Laguna de Duero,Ida
+L01,laborales,L11,Laguna de Duero,Ida
+L01,laborales,L12,Laguna de Duero,Ida
+L01,laborales,L13,Laguna de Duero,Ida
+L01,laborales,L14,Laguna de Duero,Ida
+L01,laborales,L15,Laguna de Duero,Ida
+L01,laborales,L16,Laguna de Duero,Ida
+L01,laborales,L17,Laguna de Duero,Ida
+L01,laborales,L18,Laguna de Duero,Ida
+L01,laborales,L19,Laguna de Duero,Ida
+L01,laborales,L20,Laguna de Duero,Ida
+L01,laborales,L21,Laguna de Duero,Ida
+L01,laborales,L22,Laguna de Duero,Ida
+L01,laborales,L23,Laguna de Duero,Ida
+L01,laborales,L24,Laguna de Duero,Ida
+L01,laborales,L25,Laguna de Duero,Ida
+L01,laborales,L26,Laguna de Duero,Ida
+L01,laborales,L27,Laguna de Duero,Ida
+L01,laborales,L28,Laguna de Duero,Ida
+L01,laborales,L29,Laguna de Duero,Ida
+L01,laborales,L30,Laguna de Duero,Ida
+L01,laborales,L31,Laguna de Duero,Ida
+L01,laborales,L32,Laguna de Duero,Ida
+L01,laborales,L33,Laguna de Duero,Ida
+L01,laborales,L34,Laguna de Duero,Ida
+L01,laborales,L35,Laguna de Duero,Ida
+L01,laborales,L36,Laguna de Duero,Ida
+L01,laborales,L37,Laguna de Duero,Ida
+L01,laborales,L38,Laguna de Duero,Ida
+L01,viernes,L1V,Laguna de Duero,Ida
+L01,viernes,L2V,Laguna de Duero,Ida
+L01,viernes,L3V,Laguna de Duero,Ida
+L01,viernes,L4V,Laguna de Duero,Ida
+L01,viernes,L5V,Laguna de Duero,Ida
+L01,viernes,L6V,Laguna de Duero,Ida
+L01,viernes,L7V,Laguna de Duero,Ida
+L01,viernes,L8V,Laguna de Duero,Ida
+L01,viernes,L9V,Laguna de Duero,Ida
+L01,viernes,L10V,Laguna de Duero,Ida
+L01,viernes,L11V,Laguna de Duero,Ida
+L01,viernes,L12V,Laguna de Duero,Ida
+L01,viernes,L13V,Laguna de Duero,Ida
+L01,viernes,L14V,Laguna de Duero,Ida
+L01,viernes,L15V,Laguna de Duero,Ida
+L01,viernes,L16V,Laguna de Duero,Ida
+L01,viernes,L17V,Laguna de Duero,Ida
+L01,viernes,L18V,Laguna de Duero,Ida
+L01,viernes,L19V,Laguna de Duero,Ida
+L01,viernes,L20V,Laguna de Duero,Ida
+L01,viernes,L21V,Laguna de Duero,Ida
+L01,viernes,L22V,Laguna de Duero,Ida
+L01,viernes,L23V,Laguna de Duero,Ida
+L01,viernes,L24V,Laguna de Duero,Ida
+L01,viernes,L25V,Laguna de Duero,Ida
+L01,viernes,L26V,Laguna de Duero,Ida
+L01,viernes,L27V,Laguna de Duero,Ida
+L01,viernes,L28V,Laguna de Duero,Ida
+L01,viernes,L29V,Laguna de Duero,Ida
+L01,viernes,L30V,Laguna de Duero,Ida
+L01,viernes,L31V,Laguna de Duero,Ida
+L01,viernes,L32V,Laguna de Duero,Ida
+L01,viernes,L33V,Laguna de Duero,Ida
+L01,viernes,L34V,Laguna de Duero,Ida
+L01,viernes,L35V,Laguna de Duero,Ida
+L01,viernes,L36V,Laguna de Duero,Ida
+L01,viernes,L37V,Laguna de Duero,Ida
+L01,viernes,L38V,Laguna de Duero,Ida
+L01,viernes,L39V,Laguna de Duero,Ida
+L01,sabados,L1S,Laguna de Duero,Ida
+L01,sabados,L2S,Laguna de Duero,Ida
+L01,sabados,L3S,Laguna de Duero,Ida
+L01,sabados,L4S,Laguna de Duero,Ida
+L01,sabados,L5S,Laguna de Duero,Ida
+L01,sabados,L6S,Laguna de Duero,Ida
+L01,sabados,L7S,Laguna de Duero,Ida
+L01,sabados,L8S,Laguna de Duero,Ida
+L01,sabados,L9S,Laguna de Duero,Ida
+L01,sabados,L10S,Laguna de Duero,Ida
+L01,sabados,L11S,Laguna de Duero,Ida
+L01,sabados,L12S,Laguna de Duero,Ida
+L01,sabados,L13S,Laguna de Duero,Ida
+L01,sabados,L14S,Laguna de Duero,Ida
+L01,sabados,L15S,Laguna de Duero,Ida
+L01,sabados,L16S,Laguna de Duero,Ida
+L01,sabados,L17S,Laguna de Duero,Ida
+L01,sabados,L18S,Laguna de Duero,Ida
+L01,sabados,L19S,Laguna de Duero,Ida
+L01,sabados,L20S,Laguna de Duero,Ida
+L01,sabados,L21S,Laguna de Duero,Ida
+L01,sabados,L22S,Laguna de Duero,Ida
+L01,sabados,L23S,Laguna de Duero,Ida
+L01,sabados,L24S,Laguna de Duero,Ida
+L01,sabados,L25S,Laguna de Duero,Ida
+L01,sabados,L26S,Laguna de Duero,Ida
+L01,sabados,L27S,Laguna de Duero,Ida
+L01,sabados,L28S,Laguna de Duero,Ida
+L01,sabados,L29S,Laguna de Duero,Ida
+L01,sabados,L30S,Laguna de Duero,Ida
+L01,sabados,L31S,Laguna de Duero,Ida
+L01,sabados,L32S,Laguna de Duero,Ida
+L01,domingos_y_festivos,L1D,Laguna de Duero,Ida
+L01,domingos_y_festivos,L2D,Laguna de Duero,Ida
+L01,domingos_y_festivos,L3D,Laguna de Duero,Ida
+L01,domingos_y_festivos,L4D,Laguna de Duero,Ida
+L01,domingos_y_festivos,L5D,Laguna de Duero,Ida
+L01,domingos_y_festivos,L6D,Laguna de Duero,Ida
+L01,domingos_y_festivos,L7D,Laguna de Duero,Ida
+L01,domingos_y_festivos,L8D,Laguna de Duero,Ida
+L01,domingos_y_festivos,L9D,Laguna de Duero,Ida
+L01,domingos_y_festivos,L10D,Laguna de Duero,Ida
+L01,domingos_y_festivos,L11D,Laguna de Duero,Ida
+L01,domingos_y_festivos,L12D,Laguna de Duero,Ida
+L01,domingos_y_festivos,L13D,Laguna de Duero,Ida
+L01V,laborales,L01V,Valladolid,Vuelta
+L01V,laborales,L02V,Valladolid,Vuelta
+L01V,laborales,L03V,Valladolid,Vuelta
+L01V,laborales,L04V,Valladolid,Vuelta
+L01V,laborales,L05V,Valladolid,Vuelta
+L01V,laborales,L06V,Valladolid,Vuelta
+L01V,laborales,L07V,Valladolid,Vuelta
+L01V,laborales,L08V,Valladolid,Vuelta
+L01V,laborales,L09V,Valladolid,Vuelta
+L01V,laborales,L010V,Valladolid,Vuelta
+L01V,laborales,L011V,Valladolid,Vuelta
+L01V,laborales,L012V,Valladolid,Vuelta
+L01V,laborales,L013V,Valladolid,Vuelta
+L01V,laborales,L014V,Valladolid,Vuelta
+L01V,laborales,L015V,Valladolid,Vuelta
+L01V,laborales,L016V,Valladolid,Vuelta
+L01V,laborales,L017V,Valladolid,Vuelta
+L01V,laborales,L018V,Valladolid,Vuelta
+L01V,laborales,L019V,Valladolid,Vuelta
+L01V,laborales,L020V,Valladolid,Vuelta
+L01V,laborales,L021V,Valladolid,Vuelta
+L01V,laborales,L022V,Valladolid,Vuelta
+L01V,laborales,L023V,Valladolid,Vuelta
+L01V,laborales,L024V,Valladolid,Vuelta
+L01V,laborales,L025V,Valladolid,Vuelta
+L01V,laborales,L026V,Valladolid,Vuelta
+L01V,laborales,L027V,Valladolid,Vuelta
+L01V,laborales,L028V,Valladolid,Vuelta
+L01V,laborales,L029V,Valladolid,Vuelta
+L01V,laborales,L030V,Valladolid,Vuelta
+L01V,laborales,L031V,Valladolid,Vuelta
+L01V,laborales,L032V,Valladolid,Vuelta
+L01V,laborales,L033V,Valladolid,Vuelta
+L01V,laborales,L034V,Valladolid,Vuelta
+L01V,laborales,L035V,Valladolid,Vuelta
+L01V,laborales,L036V,Valladolid,Vuelta
+L01V,laborales,L037V,Valladolid,Vuelta
+L01V,laborales,L038V,Valladolid,Vuelta
+L01V,laborales,L039V,Valladolid,Vuelta
+L01V,viernes,L1VV,Valladolid,Vuelta
+L01V,viernes,L2VV,Valladolid,Vuelta
+L01V,viernes,L3VV,Valladolid,Vuelta
+L01V,viernes,L4VV,Valladolid,Vuelta
+L01V,viernes,L5VV,Valladolid,Vuelta
+L01V,viernes,L6VV,Valladolid,Vuelta
+L01V,viernes,L7VV,Valladolid,Vuelta
+L01V,viernes,L8VV,Valladolid,Vuelta
+L01V,viernes,L9VV,Valladolid,Vuelta
+L01V,viernes,L10VV,Valladolid,Vuelta
+L01V,viernes,L11VV,Valladolid,Vuelta
+L01V,viernes,L12VV,Valladolid,Vuelta
+L01V,viernes,L13VV,Valladolid,Vuelta
+L01V,viernes,L14VV,Valladolid,Vuelta
+L01V,viernes,L15VV,Valladolid,Vuelta
+L01V,viernes,L16VV,Valladolid,Vuelta
+L01V,viernes,L17VV,Valladolid,Vuelta
+L01V,viernes,L18VV,Valladolid,Vuelta
+L01V,viernes,L19VV,Valladolid,Vuelta
+L01V,viernes,L20VV,Valladolid,Vuelta
+L01V,viernes,L21VV,Valladolid,Vuelta
+L01V,viernes,L22VV,Valladolid,Vuelta
+L01V,viernes,L23VV,Valladolid,Vuelta
+L01V,viernes,L24VV,Valladolid,Vuelta
+L01V,viernes,L25VV,Valladolid,Vuelta
+L01V,viernes,L26VV,Valladolid,Vuelta
+L01V,viernes,L27VV,Valladolid,Vuelta
+L01V,viernes,L28VV,Valladolid,Vuelta
+L01V,viernes,L29VV,Valladolid,Vuelta
+L01V,viernes,L30VV,Valladolid,Vuelta
+L01V,viernes,L31VV,Valladolid,Vuelta
+L01V,viernes,L32VV,Valladolid,Vuelta
+L01V,viernes,L33VV,Valladolid,Vuelta
+L01V,viernes,L34VV,Valladolid,Vuelta
+L01V,viernes,L35VV,Valladolid,Vuelta
+L01V,viernes,L36VV,Valladolid,Vuelta
+L01V,viernes,L37VV,Valladolid,Vuelta
+L01V,viernes,L38VV,Valladolid,Vuelta
+L01V,viernes,L39VV,Valladolid,Vuelta
+L01V,viernes,L40VV,Valladolid,Vuelta
+L01V,sabados,L1SS,Valladolid,Vuelta
+L01V,sabados,L2SS,Valladolid,Vuelta
+L01V,sabados,L3SS,Valladolid,Vuelta
+L01V,sabados,L4SS,Valladolid,Vuelta
+L01V,sabados,L5SS,Valladolid,Vuelta
+L01V,sabados,L6SS,Valladolid,Vuelta
+L01V,sabados,L7SS,Valladolid,Vuelta
+L01V,sabados,L8SS,Valladolid,Vuelta
+L01V,sabados,L9SS,Valladolid,Vuelta
+L01V,sabados,L10SS,Valladolid,Vuelta
+L01V,sabados,L11SS,Valladolid,Vuelta
+L01V,sabados,L12SS,Valladolid,Vuelta
+L01V,sabados,L13SS,Valladolid,Vuelta
+L01V,sabados,L14SS,Valladolid,Vuelta
+L01V,sabados,L15SS,Valladolid,Vuelta
+L01V,sabados,L16SS,Valladolid,Vuelta
+L01V,sabados,L17SS,Valladolid,Vuelta
+L01V,sabados,L18SS,Valladolid,Vuelta
+L01V,sabados,L19SS,Valladolid,Vuelta
+L01V,sabados,L20SS,Valladolid,Vuelta
+L01V,sabados,L21SS,Valladolid,Vuelta
+L01V,sabados,L22SS,Valladolid,Vuelta
+L01V,sabados,L23SS,Valladolid,Vuelta
+L01V,sabados,L24SS,Valladolid,Vuelta
+L01V,sabados,L25SS,Valladolid,Vuelta
+L01V,sabados,L26SS,Valladolid,Vuelta
+L01V,sabados,L27SS,Valladolid,Vuelta
+L01V,sabados,L28SS,Valladolid,Vuelta
+L01V,sabados,L29SS,Valladolid,Vuelta
+L01V,sabados,L30SS,Valladolid,Vuelta
+L01V,sabados,L31SS,Valladolid,Vuelta
+L01V,sabados,L32SS,Valladolid,Vuelta
+L01V,domingos_y_festivos,L1DD,Valladolid,Vuelta
+L01V,domingos_y_festivos,L2DD,Valladolid,Vuelta
+L01V,domingos_y_festivos,L3DD,Valladolid,Vuelta
+L01V,domingos_y_festivos,L4DD,Valladolid,Vuelta
+L01V,domingos_y_festivos,L5DD,Valladolid,Vuelta
+L01V,domingos_y_festivos,L6DD,Valladolid,Vuelta
+L01V,domingos_y_festivos,L7DD,Valladolid,Vuelta
+L01V,domingos_y_festivos,L8DD,Valladolid,Vuelta
+L01V,domingos_y_festivos,L9DD,Valladolid,Vuelta
+L01V,domingos_y_festivos,L10DD,Valladolid,Vuelta
+L01V,domingos_y_festivos,L11DD,Valladolid,Vuelta
+L01V,domingos_y_festivos,L12DD,Valladolid,Vuelta
+L01V,domingos_y_festivos,L13DD,Valladolid,Vuelta
+L01V,domingos_y_festivos,L14DD,Valladolid,Vuelta
+L02,sabados,L1N,Búho Laguna,Nocturno
+L02,sabados,L2N,Búho Laguna,Nocturno
+L02,domingos_y_festivos,L3N,Búho Laguna,Nocturno
+L02,domingos_y_festivos,L4N,Búho Laguna,Nocturno
+L02V,sabados,L1NV,Búho Laguna (Vuelta),NocturnoV
+L02V,sabados,L2NV,Búho Laguna (Vuelta),NocturnoV
+L02V,domingos_y_festivos,L3NV,Búho Laguna (Vuelta),NocturnoV
